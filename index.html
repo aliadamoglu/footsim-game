@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+<title>footsim — 3B Futbol Simülatörü (2026-27)</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<!-- ============ MENÜ ============ -->
+<div id="menu">
+  <div class="menuBg"><div class="pitchLines"></div><div class="glow g1"></div><div class="glow g2"></div></div>
+  <div class="menuInner">
+    <header class="menuHead">
+      <div class="brand"><span class="logo">FS</span><h1>foot<span>sim</span></h1><span class="season">2026-27</span></div>
+      <nav class="menuNav">
+        <button class="navBtn on" data-nav="play"><i data-icon="play" data-size="18"></i><span>Maç</span></button>
+        <button class="navBtn" id="btnCareer"><i data-icon="trophy" data-size="18"></i><span>Kariyer</span></button>
+        <button class="navBtn" id="btnTransfer"><i data-icon="briefcase" data-size="18"></i><span>Transfer merkezi</span></button>
+        <button class="navBtn" id="btnHelpMenu"><i data-icon="circle-help" data-size="18"></i><span>Kontroller</span></button>
+      </nav>
+    </header>
+
+    <section class="hero">
+      <div class="matchup">
+        <div class="club home">
+          <div id="sumHomeKit" class="kitBig"></div>
+          <div class="cname" id="sumHome"></div>
+          <div class="cmeta"><span id="formHome"></span><span class="pill">EV SAHİBİ</span></div>
+        </div>
+        <div class="centre">
+          <div class="vsBig">VS</div>
+          <div id="sumStadium" class="stadium"></div>
+          <button id="btnSwap" class="iconBtn" title="Takımları değiştir"><i data-icon="arrow-left-right" data-size="18"></i></button>
+        </div>
+        <div class="club away">
+          <div id="sumAwayKit" class="kitBig"></div>
+          <div class="cname" id="sumAway"></div>
+          <div class="cmeta"><span class="pill blue">DEPLASMAN</span><span id="formAway"></span></div>
+        </div>
+      </div>
+      <div class="heroActions">
+        <button id="btnStart" class="primary"><i data-icon="play" data-size="20"></i> MAÇI BAŞLAT</button>
+        <button id="btnRandom" class="ghost"><i data-icon="shuffle" data-size="16"></i> Rastgele eşleşme</button>
+      </div>
+    </section>
+
+    <div class="menuCols">
+      <section class="pickers">
+        <h2><i data-icon="shield" data-size="14"></i> Takımını seç <small>1. tık ev sahibi · 2. tık deplasman · Shift+tık deplasman · <i data-icon="info" data-size="11"></i> kulüp kartı</small></h2>
+        <div class="pickTools">
+          <div class="leagueTabs" id="leagueTabs"></div>
+          <label class="search"><i data-icon="search" data-size="15"></i><input id="teamSearch" type="search" placeholder="Kulüp, şehir, ülke ara…" autocomplete="off"><span id="teamCount"></span></label>
+        </div>
+        <div id="teamGrid" class="teamGrid"></div>
+      </section>
+      <aside class="settings">
+        <div class="setCard">
+          <h2><i data-icon="gamepad-2" data-size="14"></i> Oyun modu</h2>
+          <div class="seg modeSeg" id="modeSeg">
+            <label><input type="radio" name="mode" value="watch" checked><span><i data-icon="tv" data-size="15"></i><b>İzle</b><small>yapay zekâ vs yapay zekâ · otomatik yönetmen</small></span></label>
+            <label><input type="radio" name="mode" value="home"><span><i data-icon="gamepad-2" data-size="15"></i><b>Ev sahibini yönet</b><small>klavye / dokunmatik</small></span></label>
+            <label><input type="radio" name="mode" value="away"><span><i data-icon="gamepad-2" data-size="15"></i><b>Deplasmanı yönet</b><small>klavye / dokunmatik</small></span></label>
+          </div>
+        </div>
+        <div class="setCard">
+          <h2><i data-icon="timer" data-size="14"></i> Maç süresi <small>oyun içinde değiştirilebilir</small></h2>
+          <div class="seg row4 lenSeg">
+            <label><input type="radio" name="len" value="1.5"><span>2×1.5<small>hızlı</small></span></label>
+            <label><input type="radio" name="len" value="3" checked><span>2×3<small>dk</small></span></label>
+            <label><input type="radio" name="len" value="5"><span>2×5<small>dk</small></span></label>
+            <label><input type="radio" name="len" value="10"><span>2×10<small>dk</small></span></label>
+          </div>
+        </div>
+        <div class="setCard">
+        <h2><i data-icon="cloud-sun" data-size="14"></i> Hava durumu <small>fizik, görüntü ve ses değişir</small></h2>
+        <div class="seg row4 wxSeg" id="wxSeg">
+          <label><input type="radio" name="wx" value="random" checked><span><i data-icon="shuffle" data-size="14"></i>Rastgele</span></label>
+          <label><input type="radio" name="wx" value="clear"><span><i data-icon="sun" data-size="14"></i>Açık</span></label>
+          <label><input type="radio" name="wx" value="night"><span><i data-icon="moon" data-size="14"></i>Gece</span></label>
+          <label><input type="radio" name="wx" value="cloudy"><span><i data-icon="cloud" data-size="14"></i>Bulutlu</span></label>
+          <label><input type="radio" name="wx" value="rain"><span><i data-icon="cloud-rain" data-size="14"></i>Yağmur</span></label>
+          <label><input type="radio" name="wx" value="storm"><span><i data-icon="cloud-lightning" data-size="14"></i>Sağanak</span></label>
+          <label><input type="radio" name="wx" value="snow"><span><i data-icon="snowflake" data-size="14"></i>Kar</span></label>
+          <label><input type="radio" name="wx" value="fog"><span><i data-icon="cloud-fog" data-size="14"></i>Sis</span></label>
+          <label><input type="radio" name="wx" value="hot"><span><i data-icon="thermometer-sun" data-size="14"></i>Sıcak</span></label>
+        </div>
+        <p class="hint wxHint" id="wxHint"><i data-icon="info" data-size="12"></i><span>Islak zeminde top hızlanır ve sekmez, oyuncular kayar; karda top yavaşlar (turuncu top); siste uzun paslar isabetsiz; sıcakta kondisyon hızlı tükenir; rüzgâr uzun topları saptırır.</span></p>
+        </div>
+        <details class="setCard lineupCard" id="lineupCard">
+          <summary><h2><i data-icon="list-ordered" data-size="14"></i> İlk 11'ler <small id="lineupSub"></small></h2><i class="chev" data-icon="chevron-down" data-size="16"></i></summary>
+          <div class="lineups">
+            <ul id="lineupHome"></ul>
+            <ul id="lineupAway"></ul>
+          </div>
+        </details>
+        <p class="hint"><i data-icon="info" data-size="12"></i><span>Maçta <b>T</b> kontrolü devral/bırak · <b>V</b> kamera · <b>Enter</b> sahneyi atla · <b>Tab</b> istatistik · <b>H</b> yardım. Transfer merkezindeki kadro değişiklikleri maça yansır; maç sonu hasılat ve maaşlar bütçeye işlenir. Lig sezonu için üstteki <b>Kariyer</b> sekmesini kullan.</span></p>
+      </aside>
+    </div>
+    <div class="stickyStart" id="stickyStart"><div class="ssTeams"><span id="ssHome"></span><i>vs</i><span id="ssAway"></span></div><button id="btnStart2" class="primary"><i data-icon="play" data-size="18"></i> BAŞLAT</button></div>
+    <div id="menuHelp" class="menuHelp hidden">
+      <div class="ph"><span><i data-icon="gamepad-2" data-size="14"></i> Kontroller</span><button id="btnCloseMenuHelp" data-icon="x" data-size="16"></button></div>
+      <div class="helpGrid">
+        <div><h3>Genel</h3><ul><li><b>T</b> kontrolü devral/bırak</li><li><b>V</b> kamera değiştir</li><li><b>Enter / Backspace</b> tekrar ve ara sahneyi atla</li><li><b>Tab</b> istatistik · <b>G</b> taktik paneli · <b>P</b> duraklat · <b>1/2/3/0</b> hız</li><li><b>R</b> video kaydı başlat/durdur (YouTube için indir) · <b>F</b> tam ekran</li><li>Telefon/tablette: sanal joystick + dokunmatik düğmeler</li></ul></div>
+        <div><h3>Hücum</h3><ul><li><b>Ok tuşları / WASD</b> hareket · <b>Shift</b> sprint</li><li><b>Boşluk</b> pas (basılı: güç) · <b>D</b> ara pası</li><li><b>C</b> uzun top / orta · <b>X</b> şut (basılı: güç, yönle köşe)</li></ul></div>
+        <div><h3>Savunma & duran top</h3><ul><li><b>Boşluk</b> baskı · <b>X</b> kayarak müdahale · <b>Q</b> oyuncu değiştir</li><li>Penaltı: yön + <b>X</b> · Serbest vuruş: <b>X</b> şut, <b>C</b> orta, <b>Boşluk</b> kısa</li><li>Gamepad: A pas · X şut · B uzun top · Y ara pası · RB sprint</li></ul></div>
+      </div>
+    </div>
+    <footer class="menuFoot"><span>Babylon.js · Türkçe spiker · VAR · hakem üçlüsü · kariyer ligi · tüm kurallar (ofsayt, avantaj, 8 sn, 5 değişiklik)</span><span>52 kulüp: Süper Lig 18 + Şampiyonlar Ligi lig aşaması 36 · güncel 2026-27 kadroları</span></footer>
+  </div>
+</div>
+
+<!-- ============ KARİYER ============ -->
+<div id="career" class="hidden">
+  <div class="trInner">
+    <header class="trHead">
+      <div>
+        <h1><i data-icon="trophy" data-size="28"></i> Kariyer <span id="crSeason">modu</span></h1>
+        <p class="tag" id="crTag">Bir kulübün başına geç: 18 takımlı çift devreli lig (34 hafta), puan durumu, gol krallığı, transfer pencereleri ve sezon sonu ödülleri.</p>
+      </div>
+      <div class="trTools">
+        <button id="btnCrTransfer" class="ghost"><i data-icon="briefcase" data-size="14"></i> Transfer merkezi</button>
+        <button id="btnCrAbandon" class="ghost" title="Kariyeri sil"><i data-icon="x" data-size="14"></i> Kariyeri bitir</button>
+        <button id="btnCrBack" class="ghost"><i data-icon="arrow-left" data-size="14"></i> Menü</button>
+      </div>
+    </header>
+
+    <!-- yeni kariyer -->
+    <section id="crNew" class="hidden">
+      <h2><i data-icon="shield" data-size="14"></i> Kulübünü seç <small>Türk kulübü → Süper Lig (18 takım, 34 hafta) · Avrupa kulübü → Şampiyonlar Ligi ligi (18 takım)</small></h2>
+      <div class="pickTools">
+        <div class="leagueTabs" id="crLeagueTabs"></div>
+        <label class="search"><i data-icon="search" data-size="15"></i><input id="crSearch" type="search" placeholder="Kulüp, şehir, ülke ara…" autocomplete="off"><span id="crCount"></span></label>
+      </div>
+      <div id="crGrid" class="teamGrid"></div>
+      <div class="crNewRow">
+        <div class="leagueHint" id="crLeagueHint"></div>
+        <label>Menajer adı <input id="crName" type="text" maxlength="24" placeholder="Menajer"></label>
+        <button id="btnCrStart" class="primary"><i data-icon="play" data-size="18"></i> KARİYERE BAŞLA</button>
+      </div>
+    </section>
+
+    <!-- aktif kariyer -->
+    <section id="crMain" class="hidden">
+      <div id="crNext" class="crNext"></div>
+      <div id="crFinance" class="finance"></div>
+      <div id="trTabsCr" class="tabs"><button data-t="crTabTable" class="on">Puan durumu</button><button data-t="crTabFix">Fikstür</button><button data-t="crTabStats">İstatistik</button><button data-t="crTabNews">Haberler</button></div>
+      <section id="crTabTable" class="trTab"><div id="crTable"></div></section>
+      <section id="crTabFix" class="trTab hidden"><div id="crFix"></div></section>
+      <section id="crTabStats" class="trTab hidden"><div id="crStats" class="squadCols"></div></section>
+      <section id="crTabNews" class="trTab hidden"><div id="crNews"></div></section>
+    </section>
+  </div>
+</div>
+
+<!-- ============ TRANSFER MERKEZİ ============ -->
+<div id="transfer" class="hidden">
+  <div class="trInner">
+    <header class="trHead">
+      <div>
+        <h1><i data-icon="briefcase" data-size="28"></i> Transfer <span>merkezi</span></h1>
+        <p class="tag">Kadro kur, pazardan oyuncu al, sat; bütçe ve maaş tavanına dikkat. Değişiklikler tarayıcıda saklanır ve maçlara yansır.</p>
+      </div>
+      <div class="trTools">
+        <select id="trTeam" title="Yönetilen kulüp"></select>
+        <button id="btnTrPlay" class="ghost accent"><i data-icon="play" data-size="14"></i> Bu takımla maça</button>
+        <button id="btnTrReset" class="ghost" title="Sezon başı kadro ve bütçelerine dön"><i data-icon="rotate-ccw" data-size="14"></i> Sıfırla</button>
+        <button id="btnTrBack" class="ghost"><i data-icon="arrow-left" data-size="14"></i> Menü</button>
+      </div>
+    </header>
+    <div id="trFinance" class="finance"></div>
+    <div id="trMsg" class="trmsg"></div>
+    <div id="trTabs" class="tabs"><button data-t="tabSquad" class="on">Kadro</button><button data-t="tabMarket">Pazar</button><button data-t="tabHistory">Transfer geçmişi</button></div>
+    <section id="tabSquad" class="trTab">
+      <p id="trSquadHint" class="hint"></p>
+      <div class="squadCols">
+        <div><h2>İlk 11 <small>(formasyon slotu · oyuncu mevkisi)</small></h2><div id="trXi"></div></div>
+        <div><h2>Yedekler <small>(en iyi 9'u maça gider)</small></h2><div id="trBench"></div></div>
+      </div>
+    </section>
+    <section id="tabMarket" class="trTab hidden">
+      <div class="filters">
+        <select id="trPos"><option value="ALL">Tüm mevkiler</option><option value="GK">Kaleci</option><option value="DEF">Savunma</option><option value="MID">Orta saha</option><option value="ATT">Hücum</option><option value="CB">Stoper</option><option value="RB">Sağ bek</option><option value="LB">Sol bek</option><option value="DM">Ön libero</option><option value="CM">Merkez OS</option><option value="AM">Ofansif OS</option><option value="RW">Sağ açık</option><option value="LW">Sol açık</option><option value="ST">Santrfor</option></select>
+        <label>Min güç <input id="trMinOvr" type="range" min="0" max="92" value="0"> <b id="trMinOvrV">—</b></label>
+        <label>Maks. bedel (M€) <input id="trMaxPrice" type="number" min="0" step="5" placeholder="∞"></label>
+        <input id="trQ" type="search" placeholder="Oyuncu / kulüp ara…">
+      </div>
+      <div id="trMarket"></div>
+    </section>
+    <section id="tabHistory" class="trTab hidden"><div id="trHistory"></div></section>
+  </div>
+
+  <!-- Teklif diyaloğu -->
+  <div id="offerDlg" class="dlg hidden"><div class="dlgInner">
+    <h3 id="ofTitle"></h3>
+    <p id="ofInfo" class="info"></p>
+    <div class="fields">
+      <label>Bonservis (M€) <input id="ofFee" type="number" min="0" step="0.5"></label>
+      <label>Yıllık maaş (M€) <input id="ofWage" type="number" min="0" step="0.1"></label>
+    </div>
+    <div id="ofResult" class="ofres"></div>
+    <div class="row"><button id="ofSend" class="primary">Teklif gönder</button><button id="ofAccept" class="ghost hidden"></button><button id="ofClose" class="ghost">Kapat</button></div>
+  </div></div>
+
+  <!-- Satış diyaloğu -->
+  <div id="sellDlg" class="dlg hidden"><div class="dlgInner">
+    <h3 id="slTitle"></h3>
+    <p id="slInfo" class="info"></p>
+    <div id="slOffers" class="offers"></div>
+    <div class="row"><button id="slRelease" class="ghost">Serbest bırak</button><button id="slClose" class="ghost">Kapat</button></div>
+  </div></div>
+</div>
+
+<!-- ============ OYUN ============ -->
+<div id="game" class="hidden">
+  <canvas id="renderCanvas"></canvas>
+  <div id="labels"></div>
+
+  <!-- Skor tabelası -->
+  <div id="scoreboard">
+    <div class="team"><span id="sbHomeC" class="c"></span><span id="sbHome">GAL</span><span id="sbHomeCards" class="cards"></span></div>
+    <div id="sbScore" class="score">0 - 0</div>
+    <div class="team"><span id="sbAwayCards" class="cards"></span><span id="sbAway">FEN</span><span id="sbAwayC" class="c"></span></div>
+    <div class="clock"><span id="sbHalf">1Y</span> <span id="sbClock">00:00</span></div>
+    <div class="wx" id="sbWx" title="Hava durumu"></div>
+  </div>
+
+  <div id="replayTag"><span class="dot"></span> TEKRAR</div>
+  <div id="varTag"><i data-icon="monitor" data-size="14"></i> VAR İNCELEMESİ</div>
+  <button id="btnSkip" title="Tekrarı / ara sahneyi atla (Enter)"><i data-icon="skip-forward" data-size="14"></i> Atla <small>Enter</small></button>
+
+  <!-- Banner -->
+  <div id="banner" class="banner"><div id="bannerTitle"></div><div id="bannerSub"></div></div>
+  <div id="toasts"></div>
+  <div id="commentary"></div>
+
+  <!-- Dokunmatik kontroller (mobil) -->
+  <div id="touchLayer">
+    <div id="joyZone">
+      <!-- Sanal joystick: sabit konumda, her zaman görünür; yön okları hangi yöne basıldığını gösterir. Bölgenin herhangi bir yerine dokununca
+           joystick parmağın altına kayar (rahat kavrama), sürüklendikçe topuz hareket eder; bırakınca ortaya döner. -->
+      <div id="joyBase">
+        <div class="joyRing"></div>
+        <i class="joyArrow up"></i><i class="joyArrow down"></i><i class="joyArrow left"></i><i class="joyArrow right"></i>
+        <div id="joyKnob"><span class="joyDot"></span></div>
+      </div>
+    </div>
+    <div id="touchBtns">
+      <div class="tcol">
+        <button data-key="KeyC" class="tb">ORTA<small>uzun top</small></button>
+        <button data-key="Space" class="tb big">PAS<small>baskı</small></button>
+      </div>
+      <div class="tcol">
+        <button data-key="KeyD" class="tb">ARA<small>pası</small></button>
+        <button data-key="KeyX" class="tb big shoot">ŞUT<small>kayma</small></button>
+      </div>
+      <div class="tcol side">
+        <button data-key="Shift" class="tb sm">SPRINT</button>
+        <button data-key="KeyQ" class="tb sm">OYUNCU</button>
+        <button data-key="KeyE" class="tb sm">KALECİ</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Dikey telefon: yatay çevirme ipucu -->
+  <div id="rotateHint"><i data-icon="refresh-cw" data-size="14"></i> En iyi deneyim için telefonu yatay çevirin</div>
+
+  <!-- Kayıt göstergesi -->
+  <div id="recTag"><span class="dot"></span> KAYIT <span id="recTime">00:00</span></div>
+
+  <!-- İnsan kontrol bilgi paneli (sol üst, skor tabelasının altında) -->
+  <div id="hudControls" style="display:none">
+    <div class="ctrlRow"><span id="ctrlTeamC" class="c"></span><span id="ctrlName"></span><span id="ctrlKey" title="Oyuncu değiştir">Q</span></div>
+    <div id="powerBar"><div id="powerFill"></div></div>
+    <div id="ctrlHint"></div>
+  </div>
+
+  <!-- Alt kontrol çubuğu (yeniden tasarım): 3 bölge — sol: kamera+süre · orta: oynatma/hız/kontrol · sağ: ses/kayıt/sistem.
+       Düğmeler ikon+kısa etiket; dar ekranlarda etiketler gizlenir. --barH çalışma anında ölçülür (dokunma katmanı üstüne oturur). -->
+  <div id="bar">
+    <div class="bzone left">
+      <div class="bgrp" id="grpCam" title="Kamera (V)">
+        <span class="bic"><i data-icon="cctv" data-size="15"></i></span>
+        <select id="camSelect">
+          <option value="auto">Yönetmen</option>
+          <option value="broadcast">Ana yayın</option>
+          <option value="tv2">Taktik (yüksek)</option>
+          <option value="low">Alçak yan</option>
+          <option value="goal">Kale arkası</option>
+          <option value="drone">Drone</option>
+          <option value="player">Oyuncu (3. şahıs)</option>
+        </select>
+      </div>
+      <div class="bgrp" id="grpLen" title="Maç süresi (yarı başına gerçek dakika) — oyun içinde değiştirilebilir">
+        <span class="bic"><i data-icon="timer" data-size="15"></i></span>
+        <select id="lenSelect">
+          <option value="1.5">2×1.5 dk</option>
+          <option value="3" selected>2×3 dk</option>
+          <option value="5">2×5 dk</option>
+          <option value="10">2×10 dk</option>
+          <option value="45">2×45 dk</option>
+        </select>
+      </div>
+    </div>
+    <div class="bzone center">
+      <div class="bgrp" id="grpGame">
+        <button id="btnPause" class="ic" title="Duraklat (P)" data-icon="pause" data-size="17"></button>
+        <span class="bsep"></span>
+        <span class="bgrp inner" id="speedBtns" title="Oyun hızı (1/2/3/0)"><button data-s="0.5">½×</button><button data-s="1" class="on">1×</button><button data-s="2">2×</button><button data-s="4">4×</button></span>
+        <span class="bsep"></span>
+        <button id="btnTakeControl" title="Kontrolü devral / bırak (T)"><i data-icon="gamepad-2" data-size="15"></i><span>Kontrol</span></button>
+        <button id="btnStats" title="İstatistikler (Tab)"><i data-icon="chart-column" data-size="15"></i><span>İstatistik</span></button>
+        <button id="btnTactics" title="Taktik paneli (G)"><i data-icon="layers" data-size="15"></i><span>Taktik</span></button>
+        <button id="btnNames" class="ic on" title="İsim etiketleri" data-icon="tag" data-size="15"></button>
+      </div>
+    </div>
+    <div class="bzone right">
+      <div class="bgrp" id="grpAudio">
+        <button id="btnSound" class="ic on" title="Ses" data-icon="volume-2" data-size="16"></button>
+        <button id="btnVoice" class="ic on" title="Spiker (Türkçe anlatım)" data-icon="mic" data-size="16"></button>
+      </div>
+      <div class="bgrp" id="grpSys">
+        <button id="btnRec" title="Video kaydet / durdur (R) — YouTube için indir"><i data-icon="video" data-size="15"></i><span id="btnRecLabel">Kaydet</span></button>
+        <button id="btnHelp" class="ic" title="Yardım (H)" data-icon="circle-help" data-size="16"></button>
+        <button id="btnFull" class="ic" title="Tam ekran (F)" data-icon="maximize" data-size="16"></button>
+        <button id="btnMenu" title="Duraklat / menü (Esc)"><i data-icon="menu" data-size="15"></i><span>Menü</span></button>
+      </div>
+    </div>
+  </div>
+
+  <div id="statsPanel" class="panel hidden">
+    <div class="ph"><span><i data-icon="chart-column" data-size="14"></i> Maç istatistikleri</span><button id="btnCloseStats" data-icon="x" data-size="16"></button></div>
+    <div id="statsBody"></div>
+  </div>
+
+  <!-- Yardım -->
+  <div id="helpPanel" class="panel hidden">
+    <div class="ph"><span><i data-icon="gamepad-2" data-size="14"></i> Kontroller</span><button id="btnCloseHelp" data-icon="x" data-size="16"></button></div>
+    <div class="helpBody">
+      <h3>Genel</h3>
+      <ul><li><b>T</b> kontrolü devral/bırak · <b>V</b> kamera · <b>Enter / Backspace</b> tekrarı-ara sahneyi atla · <b>Tab</b> istatistik · <b>G</b> taktik paneli · <b>P</b> duraklat · <b>1/2/3/0</b> hız</li><li><b>R</b> video kaydı başlat/durdur — durdurunca kaydetme ekranı açılır (İndir → YouTube'a yükle) · <b>F</b> tam ekran</li></ul>
+      <h3>Dokunmatik (telefon / tablet)</h3>
+      <ul><li>Sol alt bölgeye dokunup sürükle: sanal joystick · sağda <b>PAS / ŞUT / ORTA / ARA</b> (basılı tut: güç) · <b>SPRINT</b> aç-kapat · <b>OYUNCU</b> değiştir · <b>KALECİ</b> çıkışı</li></ul>
+      <h3>Hücum (top sizde)</h3>
+      <ul>
+        <li><b>Ok tuşları / WASD</b> hareket · <b>Shift</b> sprint</li>
+        <li><b>Boşluk</b> pas (basılı tut: güç) · <b>D</b> ara pası · <b>C</b> uzun top / orta · <b>X</b> şut (basılı tut: güç, yönle köşe seç)</li>
+      </ul>
+      <h3>Savunma</h3>
+      <ul><li><b>Boşluk</b> baskı / topu alma · <b>X</b> kayarak müdahale · <b>Q</b> oyuncu değiştir</li></ul>
+      <h3>Duran toplar</h3>
+      <ul><li>Penaltı: yön + <b>X</b> (yukarı = üst köşe) · Serbest vuruş: <b>X</b> şut, <b>C</b> orta, <b>Boşluk</b> kısa pas · Korner: <b>Boşluk</b> kısa, <b>C</b> uzak direk, <b>X</b> yakın direk</li></ul>
+      <h3>Gamepad</h3>
+      <ul><li>A pas · X şut · B uzun top · Y ara pası · LB oyuncu değiştir · RB sprint</li></ul>
+    </div>
+  </div>
+
+  <!-- Taktik paneli (G) -->
+  <div id="tacPanel" class="panel tac hidden">
+    <div class="ph"><span id="tacTitle"><i data-icon="layers" data-size="14"></i> Taktik</span><button id="btnCloseTac" data-icon="x" data-size="16"></button></div>
+    <div id="tacBody"></div>
+  </div>
+
+  <!-- TV grafikleri: alt bant (topla oynama / xG / şut), kadro tanıtımı, taktik değişikliği bandı, özet etiketi -->
+  <div id="lowerThird" class="lt"><div class="ltHead"><span id="ltTitle">MAÇ İSTATİSTİKLERİ</span><span id="ltClock"></span></div><div id="ltBody"></div></div>
+  <div id="lineupIntro" class="hidden"><div class="liInner"><div class="liHead"><span class="c" id="liC"></span><div><div id="liTeam"></div><div id="liSub"></div></div></div><div id="liGrid"></div></div></div>
+  <div id="hlTag"><i data-icon="film" data-size="14"></i> <span>MAÇ ÖZETİ</span><small id="hlInfo"></small></div>
+
+  <!-- Duraklatma menüsü -->
+  <div id="pauseMenu" class="hidden">
+    <div class="pmInner">
+      <div class="pmTitle"><i data-icon="pause" data-size="18"></i> DURAKLATILDI</div>
+      <div id="pmScore" class="pmScore"></div>
+      <button id="pmResume" class="primary"><i data-icon="play" data-size="18"></i> DEVAM ET <small>P / Esc</small></button>
+      <div class="pmGrid">
+        <button id="pmControl"><i data-icon="gamepad-2" data-size="15"></i> <span>Kontrolü devral</span></button>
+        <button id="pmTactics"><i data-icon="layers" data-size="15"></i> <span>Taktik</span></button>
+        <button id="pmStats"><i data-icon="chart-column" data-size="15"></i> <span>İstatistikler</span></button>
+        <button id="pmHelp"><i data-icon="circle-help" data-size="15"></i> <span>Kontroller</span></button>
+        <button id="pmRec"><i data-icon="video" data-size="15"></i> <span>Video kaydı</span></button>
+      </div>
+      <div class="pmRow">
+        <label>Maç süresi
+          <select id="pmLen">
+            <option value="1.5">2×1.5 dk</option><option value="3">2×3 dk</option><option value="5">2×5 dk</option><option value="10">2×10 dk</option><option value="45">2×45 dk</option>
+          </select>
+        </label>
+        <label>Kamera
+          <select id="pmCam">
+            <option value="auto">Yönetmen</option><option value="broadcast">Ana yayın</option><option value="tv2">Taktik</option><option value="low">Alçak yan</option><option value="goal">Kale arkası</option><option value="drone">Drone</option><option value="player">Oyuncu (3. şahıs)</option>
+          </select>
+        </label>
+      </div>
+      <button id="pmMenu" class="ghost"><i data-icon="menu" data-size="15"></i> Maçtan çık (ana menü)</button>
+    </div>
+  </div>
+
+  <!-- Devre / maç sonu -->
+  <div id="overlay" class="hidden">
+    <div class="ovInner">
+      <div id="ovTitle"></div>
+      <div id="ovScore"></div>
+      <div id="ovScorers"></div>
+      <div id="ovStats"></div>
+      <div class="row"><button id="btnContinue" class="primary"><i data-icon="play" data-size="16"></i> İkinci yarı</button><button id="btnHighlights" class="primary ghost"><i data-icon="film" data-size="16"></i> Özeti izle</button><button id="btnMenu2" class="primary"><i data-icon="menu" data-size="16"></i> Menü</button></div>
+    </div>
+  </div>
+</div>
+
+  <!-- Video kaydı: kaydet/indir ekranı -->
+<!-- kulüp kartı -->
+<div id="clubDlg" class="dlg hidden"><div class="dlgInner clubCard">
+  <div class="ccHead"><div class="crest" id="ccKit"></div><div><h3 id="ccName"></h3><div class="ccSub" id="ccSub"></div></div><button id="btnCcClose" class="iconBtn" title="Kapat"><i data-icon="x" data-size="18"></i></button></div>
+  <div class="ccKits"><div><span class="kitSw" id="ccKitH"></span>İç saha</div><div><span class="kitSw" id="ccKitA"></span>Deplasman</div><div><span class="kitSw" id="ccKitG"></span>Kaleci</div></div>
+  <div class="ccGrid" id="ccGrid"></div>
+  <div class="ccStrength" id="ccStrength"></div>
+  <details class="ccSquad"><summary><i data-icon="list-ordered" data-size="14"></i> Kadro (ilk 11 + yedekler)</summary><div class="ccXi" id="ccXi"></div></details>
+  <div class="row ccActions"><button id="btnCcHome" class="ghost"><i data-icon="house" data-size="14"></i> Ev sahibi yap</button><button id="btnCcAway" class="ghost"><i data-icon="plane" data-size="14"></i> Deplasman yap</button><button id="btnCcCareer" class="primary"><i data-icon="trophy" data-size="14"></i> Bu kulüple kariyer</button></div>
+</div></div>
+<div id="recDlg" class="dlg hidden">
+  <div class="dlgInner recInner">
+    <h3><i data-icon="video" data-size="20"></i> Kayıt tamamlandı</h3>
+    <p class="info" id="recInfo"></p>
+    <video id="recPreview" controls playsinline></video>
+    <div class="fields">
+      <label>Dosya adı <input id="recName" type="text" maxlength="80"></label>
+    </div>
+    <p class="hint recHint"><i data-icon="info" data-size="12"></i> <span id="recFmt"></span> YouTube'a yüklemek için indirilen dosyayı <b>studio.youtube.com</b> → <b>Oluştur → Video yükle</b> adımıyla seçin. Dikey/kısa video için tarayıcı penceresini daraltıp kaydedin.</p>
+    <div class="row">
+      <button id="recSave" class="primary"><i data-icon="arrow-down-to-line" data-size="16"></i> İndir</button>
+      <button id="recShare" class="ghost hidden"><i data-icon="send" data-size="14"></i> Paylaş…</button>
+      <button id="recDiscard" class="ghost"><i data-icon="x" data-size="14"></i> Sil</button>
+    </div>
+  </div>
+</div>
+
+
+<script src="lib/babylon.js"></script>
+<script src="lib/icons.js"></script>
+<script src="js/core/math.js"></script>
+<script src="js/core/pitch.js"></script>
+<script src="js/core/entities.js"></script>
+<script src="js/data/teams.js"></script>
+<script src="js/data/teams_ext.js"></script>
+<script src="js/data/transfer.js"></script>
+<script src="js/data/career.js"></script>
+<script src="js/sim/weather.js"></script>
+<script src="js/sim/ball.js"></script>
+<script src="js/sim/actions.js"></script>
+<script src="js/sim/ai.js"></script>
+<script src="js/sim/tactics.js"></script>
+<script src="js/sim/human.js"></script>
+<script src="js/sim/officials.js"></script>
+<script src="js/sim/match.js"></script>
+<script src="js/render/stadium.js"></script>
+<script src="js/render/weather_fx.js"></script>
+<script src="js/render/players.js"></script>
+<script src="js/render/camera.js"></script>
+<script src="js/render/voice.js"></script>
+<script src="js/render/audio.js"></script>
+<script src="js/ui/club_picker.js"></script>
+<script src="js/ui/transfer_ui.js"></script>
+<script src="js/ui/career_ui.js"></script>
+<script src="js/ui/touch.js"></script>
+<script src="js/ui/recorder.js"></script>
+<script src="js/ui/tactics_ui.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
