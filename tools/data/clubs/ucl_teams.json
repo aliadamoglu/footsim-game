@@ -1,0 +1,218 @@
+[
+ {
+  "pot": 1,
+  "nat": "FRA",
+  "page": "Paris Saint-Germain FC",
+  "name": "Paris Saint-Germain"
+ },
+ {
+  "pot": 1,
+  "nat": "GER",
+  "page": "FC Bayern Munich",
+  "name": "Bayern Munich"
+ },
+ {
+  "pot": 1,
+  "nat": "ESP",
+  "page": "Real Madrid CF",
+  "name": "Real Madrid"
+ },
+ {
+  "pot": 1,
+  "nat": "ENG",
+  "page": "Liverpool F.C.",
+  "name": "Liverpool"
+ },
+ {
+  "pot": 1,
+  "nat": "ITA",
+  "page": "Inter Milan",
+  "name": "Inter Milan"
+ },
+ {
+  "pot": 1,
+  "nat": "ENG",
+  "page": "Manchester City F.C.",
+  "name": "Manchester City"
+ },
+ {
+  "pot": 1,
+  "nat": "ENG",
+  "page": "Arsenal F.C.",
+  "name": "Arsenal"
+ },
+ {
+  "pot": 1,
+  "nat": "ESP",
+  "page": "FC Barcelona",
+  "name": "Barcelona"
+ },
+ {
+  "pot": 1,
+  "nat": "ESP",
+  "page": "Atlético Madrid",
+  "name": "Atlético Madrid"
+ },
+ {
+  "pot": 2,
+  "nat": "GER",
+  "page": "Borussia Dortmund",
+  "name": "Borussia Dortmund"
+ },
+ {
+  "pot": 2,
+  "nat": "ITA",
+  "page": "AS Roma",
+  "name": "Roma"
+ },
+ {
+  "pot": 2,
+  "nat": "POR",
+  "page": "Sporting CP",
+  "name": "Sporting CP"
+ },
+ {
+  "pot": 2,
+  "nat": "ENG",
+  "page": "Aston Villa F.C.",
+  "name": "Aston Villa"
+ },
+ {
+  "pot": 2,
+  "nat": "POR",
+  "page": "FC Porto",
+  "name": "Porto"
+ },
+ {
+  "pot": 2,
+  "nat": "ENG",
+  "page": "Manchester United F.C.",
+  "name": "Manchester United"
+ },
+ {
+  "pot": 2,
+  "nat": "BEL",
+  "page": "Club Brugge KV",
+  "name": "Club Brugge"
+ },
+ {
+  "pot": 2,
+  "nat": "ESP",
+  "page": "Real Betis",
+  "name": "Real Betis"
+ },
+ {
+  "pot": 2,
+  "nat": "NED",
+  "page": "PSV Eindhoven",
+  "name": "PSV Eindhoven"
+ },
+ {
+  "pot": 3,
+  "nat": "NED",
+  "page": "Feyenoord",
+  "name": "Feyenoord"
+ },
+ {
+  "pot": 3,
+  "nat": "FRA",
+  "page": "Lille OSC",
+  "name": "Lille"
+ },
+ {
+  "pot": 3,
+  "nat": "NOR",
+  "page": "FK Bodø/Glimt",
+  "name": "Bodø/Glimt"
+ },
+ {
+  "pot": 3,
+  "nat": "ITA",
+  "page": "SSC Napoli",
+  "name": "Napoli"
+ },
+ {
+  "pot": 3,
+  "nat": "GER",
+  "page": "RB Leipzig",
+  "name": "RB Leipzig"
+ },
+ {
+  "pot": 3,
+  "nat": "ESP",
+  "page": "Villarreal CF",
+  "name": "Villarreal"
+ },
+ {
+  "pot": 3,
+  "nat": "TUR",
+  "page": "Fenerbahçe S.K. (football)",
+  "name": "Fenerbahçe"
+ },
+ {
+  "pot": 3,
+  "nat": "UKR",
+  "page": "FC Shakhtar Donetsk",
+  "name": "Shakhtar Donetsk"
+ },
+ {
+  "pot": 3,
+  "nat": "TUR",
+  "page": "Galatasaray S.K. (football)",
+  "name": "Galatasaray"
+ },
+ {
+  "pot": 4,
+  "nat": "CZE",
+  "page": "SK Slavia Prague",
+  "name": "Slavia Prague"
+ },
+ {
+  "pot": 4,
+  "nat": "SVK",
+  "page": "ŠK Slovan Bratislava",
+  "name": "Slovan Bratislava"
+ },
+ {
+  "pot": 4,
+  "nat": "GER",
+  "page": "VfB Stuttgart",
+  "name": "VfB Stuttgart"
+ },
+ {
+  "pot": 4,
+  "nat": "GRE",
+  "page": "AEK Athens F.C.",
+  "name": "AEK Athens"
+ },
+ {
+  "pot": 4,
+  "nat": "AUT",
+  "page": "LASK",
+  "name": "LASK"
+ },
+ {
+  "pot": 4,
+  "nat": "ITA",
+  "page": "Como 1907",
+  "name": "Como"
+ },
+ {
+  "pot": 4,
+  "nat": "FRA",
+  "page": "RC Lens",
+  "name": "Lens"
+ },
+ {
+  "pot": 4,
+  "nat": "NOR",
+  "page": "Viking FK",
+  "name": "Viking"
+ },
+ {
+  "pot": 4,
+  "nat": "AZE",
+  "page": "Sabah FK (Azerbaijan)",
+  "name": "Sabah"
+ }
+]

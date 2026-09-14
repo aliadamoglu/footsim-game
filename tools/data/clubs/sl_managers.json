@@ -1,0 +1,108 @@
+{
+ "Alanyaspor": {
+  "manager": "Paulo Victor",
+  "captain": "Iván Cédric"
+ },
+ "Amedspor": {
+  "manager": "Dia Saba",
+  "captain": "Alban Lafont"
+ },
+ "Başakşehir": {
+  "manager": "Edin Višća",
+  "captain": "Olivier Kemen"
+ },
+ "Beşiktaş": {
+  "manager": "Leandro Trossard",
+  "captain": "Junior Olaitan"
+ },
+ "Çorum": {
+  "manager": "Ylber Ramadani",
+  "captain": "Fredy"
+ },
+ "Erzurumspor": {
+  "manager": "Brandon Baiye",
+  "captain": "Nihad Mujakić"
+ },
+ "Eyüpspor": {
+  "manager": "Chandrel Massanga",
+  "captain": "Bilal Boutobba"
+ },
+ "Fenerbahçe": {
+  "manager": "Romelu Lukaku",
+  "captain": "Ederson"
+ },
+ "Galatasaray": {
+  "manager": "Gabriel Sara",
+  "captain": "Davinson Sánchez"
+ },
+ "Gaziantep": {
+  "manager": "Juninho Bacuna",
+  "captain": "Sontje Hansen"
+ },
+ "Gençlerbirliği": {
+  "manager": "Thalisson",
+  "captain": "Dimitrios Goutas"
+ },
+ "Göztepe": {
+  "manager": "Allan Godói",
+  "captain": "André Henrique"
+ },
+ "Kasımpaşa": {
+  "manager": "Haris Hajradinović",
+  "captain": "Cláudio Winck"
+ },
+ "Kocaelispor": {
+  "manager": "Show",
+  "captain": "Bruno Petković"
+ },
+ "Konyaspor": {
+  "manager": "Yhoan Andzouana",
+  "captain": "Arthur Masuaku"
+ },
+ "Rizespor": {
+  "manager": "Qazim Laçi",
+  "captain": "Dal Varešanović"
+ },
+ "Samsunspor": {
+  "manager": "Marius Mouandilmadji",
+  "captain": "Tanguy Coulibaly"
+ },
+ "Trabzonspor": {
+  "manager": "Ernest Muçi",
+  "captain": "Fabinho"
+ },
+ "End of interim spell": {
+  "manager": "İsmail Kartal"
+ },
+ "Mutual consent": {
+  "manager": "Özhan Pulat"
+ },
+ "section=table": {
+  "manager": "Alanyaspor",
+  "captain": "Amedspor"
+ },
+ "rowspan=\"1\"|7": {
+  "manager": "Marmara"
+ },
+ "rowspan=\"1\"|4": {
+  "manager": "Black Sea"
+ },
+ "rowspan=\"2\"|2": {
+  "manager": "Central Anatolia"
+ },
+ "rowspan=\"3\"|1": {
+  "manager": "Aegean"
+ },
+ "rowspan=\"3\"|2": {
+  "manager": "Mohamed Salah"
+ },
+ "rowspan=3|5": {
+  "manager": "Adrian Benedyczak"
+ },
+ "rowspan=11|8": {
+  "manager": "Václav Černý"
+ },
+ "align=center|31 August 2026": {
+  "manager": "Dušan Vlahović"
+ }
+}

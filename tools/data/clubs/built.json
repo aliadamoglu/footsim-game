@@ -1,0 +1,6458 @@
+[
+ {
+  "id": "PSG",
+  "existing": true,
+  "manager": "Luis Enrique",
+  "capacity": 47929,
+  "founded": 1970,
+  "uclPot": 1
+ },
+ {
+  "id": "BAY",
+  "existing": true,
+  "manager": "Vincent Kompany",
+  "capacity": 75024,
+  "founded": 1900,
+  "uclPot": 1
+ },
+ {
+  "id": "RMA",
+  "existing": true,
+  "manager": "José Mourinho",
+  "capacity": 83186,
+  "founded": 1902,
+  "uclPot": 1
+ },
+ {
+  "id": "LIV",
+  "existing": true,
+  "manager": "Andoni Iraola",
+  "capacity": 61276,
+  "founded": 1892,
+  "uclPot": 1
+ },
+ {
+  "id": "INT",
+  "existing": true,
+  "manager": "Cristian Chivu",
+  "capacity": 75817,
+  "founded": 1908,
+  "uclPot": 1
+ },
+ {
+  "id": "MCI",
+  "existing": true,
+  "manager": "Enzo Maresca",
+  "capacity": 61038,
+  "founded": 1880,
+  "uclPot": 1
+ },
+ {
+  "id": "ARS",
+  "existing": true,
+  "manager": "Mikel Arteta",
+  "capacity": 60704,
+  "founded": 1886,
+  "uclPot": 1
+ },
+ {
+  "id": "BAR",
+  "existing": true,
+  "manager": "Hansi Flick",
+  "capacity": 105000,
+  "founded": 1899,
+  "uclPot": 1
+ },
+ {
+  "id": "ATM",
+  "name": "Atlético Madrid",
+  "short": "ATM",
+  "city": "Madrid",
+  "country": "İspanya",
+  "league": "LaLiga",
+  "stadium": "Riyadh Air Metropolitano",
+  "capacity": 70692,
+  "manager": "Diego Simeone",
+  "founded": 1903,
+  "uclPot": 1,
+  "formation": "4-2-3-1",
+  "mentality": 0.45,
+  "kits": {
+   "home": {
+    "pattern": "stripes",
+    "c1": "#CB3524",
+    "c2": "#FFFFFF",
+    "shorts": "#1B2F5B",
+    "socks": "#CB3524",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#1B2F5B",
+    "c2": "#1B2F5B",
+    "shorts": "#1B2F5B",
+    "socks": "#1B2F5B",
+    "num": "#CB3524"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#2BB673",
+    "c2": "#2BB673",
+    "shorts": "#2BB673",
+    "socks": "#2BB673",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    13,
+    "Jan Oblak",
+    "GK",
+    87
+   ],
+   [
+    17,
+    "Dávid Hancko",
+    "RB",
+    81
+   ],
+   [
+    24,
+    "Robin Le Normand",
+    "CB",
+    81
+   ],
+   [
+    21,
+    "Cristian Romero",
+    "CB",
+    79
+   ],
+   [
+    22,
+    "Alejandro Grimaldo",
+    "LB",
+    78
+   ],
+   [
+    23,
+    "Morten Hjulmand",
+    "DM",
+    80
+   ],
+   [
+    14,
+    "Marcos Llorente",
+    "DM",
+    82
+   ],
+   [
+    20,
+    "Giuliano Simeone",
+    "RW",
+    80
+   ],
+   [
+    7,
+    "Lee Kang-in",
+    "AM",
+    78
+   ],
+   [
+    10,
+    "Álex Baena",
+    "LW",
+    83
+   ],
+   [
+    19,
+    "Julián Alvarez",
+    "ST",
+    88
+   ]
+  ],
+  "bench": [
+   [
+    1,
+    "Juan Musso",
+    "GK",
+    77
+   ],
+   [
+    30,
+    "Dani Martínez",
+    "CB",
+    77
+   ],
+   [
+    18,
+    "Marc Pubill",
+    "CB",
+    76
+   ],
+   [
+    8,
+    "Pablo Barrios",
+    "CM",
+    81
+   ],
+   [
+    5,
+    "Johnny Cardoso",
+    "CM",
+    78
+   ],
+   [
+    16,
+    "Arnau Ortiz",
+    "LW",
+    80
+   ],
+   [
+    9,
+    "Alexander Sørloth",
+    "ST",
+    80
+   ],
+   [
+    11,
+    "Ademola Lookman",
+    "LW",
+    80
+   ]
+  ]
+ },
+ {
+  "id": "BVB",
+  "name": "Borussia Dortmund",
+  "short": "BVB",
+  "city": "Dortmund",
+  "country": "Almanya",
+  "league": "Bundesliga",
+  "stadium": "Signal Iduna Park",
+  "capacity": 81365,
+  "manager": "Niko Kovač",
+  "founded": 1909,
+  "uclPot": 2,
+  "formation": "3-5-2",
+  "mentality": 0.6,
+  "kits": {
+   "home": {
+    "pattern": "plain",
+    "c1": "#FDE100",
+    "c2": "#000000",
+    "shorts": "#000000",
+    "socks": "#FDE100",
+    "num": "#000000"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#000000",
+    "c2": "#000000",
+    "shorts": "#000000",
+    "socks": "#000000",
+    "num": "#FDE100"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#4A90D9",
+    "c2": "#4A90D9",
+    "shorts": "#4A90D9",
+    "socks": "#4A90D9",
+    "num": "#FFFFFF"
+   }
+  },
+  "xi": [
+   [
+    1,
+    "Gregor Kobel",
+    "GK",
+    86
+   ],
+   [
+    4,
+    "Nico Schlotterbeck",
+    "CB",
+    84
+   ],
+   [
+    3,
+    "Waldemar Anton",
+    "CB",
+    79
+   ],
+   [
+    39,
+    "Filippo Mane",
+    "CB",
+    76
+   ],
+   [
+    26,
+    "Julian Ryerson",
+    "RWB",
+    77
+   ],
+   [
+    8,
+    "Felix Nmecha",
+    "CM",
+    80
+   ],
+   [
+    23,
+    "Emre Can",
+    "DM",
+    77
+   ],
+   [
+    7,
+    "Jobe Bellingham",
+    "CM",
+    78
+   ],
+   [
+    5,
+    "Ramy Bensebaini",
+    "LWB",
+    78
+   ],
+   [
+    9,
+    "Serhou Guirassy",
+    "ST",
+    85
+   ],
+   [
+    21,
+    "Fábio Silva",
+    "ST",
+    77
+   ]
+  ],
+  "bench": [
+   [
+    30,
+    "Patrick Drewes",
+    "GK",
+    76
+   ],
+   [
+    36,
+    "Kauã Prates",
+    "LB",
+    73
+   ],
+   [
+    49,
+    "Luca Reggiani",
+    "CB",
+    71
+   ],
+   [
+    14,
+    "Maximilian Beier",
+    "AM",
+    79
+   ],
+   [
+    17,
+    "Carney Chukwuemeka",
+    "AM",
+    78
+   ],
+   [
+    41,
+    "Mathis Albert",
+    "ST",
+    68
+   ],
+   [
+    40,
+    "Samuele Inácio",
+    "ST",
+    67
+   ],
+   [
+    20,
+    "Marcel Sabitzer",
+    "CM",
+    78
+   ]
+  ]
+ },
+ {
+  "id": "ROM",
+  "name": "Roma",
+  "short": "ROM",
+  "city": "Roma",
+  "country": "İtalya",
+  "league": "Serie A",
+  "stadium": "Stadio Olimpico",
+  "capacity": 70634,
+  "manager": "Gian Piero Gasperini",
+  "founded": 1927,
+  "uclPot": 2,
+  "formation": "3-5-2",
+  "mentality": 0.55,
+  "kits": {
+   "home": {
+    "pattern": "plain",
+    "c1": "#8E1F2F",
+    "c2": "#F0BC42",
+    "shorts": "#8E1F2F",
+    "socks": "#8E1F2F",
+    "num": "#F0BC42"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#8E1F2F"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#111111",
+    "c2": "#111111",
+    "shorts": "#111111",
+    "socks": "#111111",
+    "num": "#F0BC42"
+   }
+  },
+  "xi": [
+   [
+    99,
+    "Mile Svilar",
+    "GK",
+    84
+   ],
+   [
+    5,
+    "Evan Ndicka",
+    "CB",
+    81
+   ],
+   [
+    23,
+    "Gianluca Mancini",
+    "CB",
+    80
+   ],
+   [
+    3,
+    "Konstantinos Koulierakis",
+    "CB",
+    77
+   ],
+   [
+    43,
+    "Wesley",
+    "RWB",
+    78
+   ],
+   [
+    17,
+    "Manu Koné",
+    "CM",
+    81
+   ],
+   [
+    4,
+    "Bryan Cristante",
+    "DM",
+    78
+   ],
+   [
+    18,
+    "Matías Soulé",
+    "CM",
+    81
+   ],
+   [
+    34,
+    "Anass Salah-Eddine",
+    "LWB",
+    76
+   ],
+   [
+    21,
+    "Paulo Dybala",
+    "ST",
+    84
+   ],
+   [
+    14,
+    "Donyell Malen",
+    "ST",
+    77
+   ]
+  ],
+  "bench": [
+   [
+    32,
+    "Devis Vásquez",
+    "GK",
+    75
+   ],
+   [
+    20,
+    "Nahuel Molina",
+    "RB",
+    77
+   ],
+   [
+    2,
+    "Devyne Rensch",
+    "RB",
+    76
+   ],
+   [
+    7,
+    "Lorenzo Pellegrini",
+    "AM",
+    79
+   ],
+   [
+    15,
+    "Marten de Roon",
+    "DM",
+    74
+   ],
+   [
+    9,
+    "Santiago Castro",
+    "ST",
+    74
+   ],
+   [
+    68,
+    "Antonio Arena",
+    "ST",
+    66
+   ],
+   [
+    22,
+    "Mario Hermoso",
+    "CB",
+    76
+   ]
+  ]
+ },
+ {
+  "id": "SCP",
+  "name": "Sporting CP",
+  "short": "SCP",
+  "city": "Lizbon",
+  "country": "Portekiz",
+  "league": "Liga Portugal",
+  "stadium": "Estádio José Alvalade",
+  "capacity": 52707,
+  "manager": "Rui Borges",
+  "founded": 1906,
+  "uclPot": 2,
+  "formation": "3-5-2",
+  "mentality": 0.6,
+  "kits": {
+   "home": {
+    "pattern": "hoops",
+    "c1": "#008B5A",
+    "c2": "#FFFFFF",
+    "shorts": "#000000",
+    "socks": "#008B5A",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#008B5A"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#F5A800",
+    "c2": "#F5A800",
+    "shorts": "#F5A800",
+    "socks": "#F5A800",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    1,
+    "Rui Silva",
+    "GK",
+    79
+   ],
+   [
+    25,
+    "Gonçalo Inácio",
+    "CB",
+    81
+   ],
+   [
+    6,
+    "Zeno Debast",
+    "CB",
+    78
+   ],
+   [
+    72,
+    "Eduardo Quaresma",
+    "CB",
+    76
+   ],
+   [
+    22,
+    "Iván Fresneda",
+    "RWB",
+    75
+   ],
+   [
+    8,
+    "João Simões",
+    "CM",
+    74
+   ],
+   [
+    5,
+    "Sergi Altimira",
+    "DM",
+    78
+   ],
+   [
+    4,
+    "Silas Andersen",
+    "CM",
+    77
+   ],
+   [
+    11,
+    "Nuno Santos",
+    "LWB",
+    76
+   ],
+   [
+    97,
+    "Luis Suárez",
+    "ST",
+    80
+   ],
+   [
+    7,
+    "Fotis Ioannidis",
+    "ST",
+    78
+   ]
+  ],
+  "bench": [
+   [
+    30,
+    "Kaique Pereira",
+    "GK",
+    75
+   ],
+   [
+    13,
+    "Georgios Vagiannidis",
+    "RB",
+    75
+   ],
+   [
+    18,
+    "Moncef Zekri",
+    "LB",
+    68
+   ],
+   [
+    21,
+    "Pedro Lima",
+    "DM",
+    76
+   ],
+   [
+    17,
+    "Rodrigo Zalazar",
+    "AM",
+    74
+   ],
+   [
+    10,
+    "Geny Catamo",
+    "RW",
+    77
+   ],
+   [
+    20,
+    "Maximiliano Araújo",
+    "ST",
+    77
+   ],
+   [
+    9,
+    "Rafael Nel",
+    "ST",
+    75
+   ]
+  ]
+ },
+ {
+  "id": "AVL",
+  "name": "Aston Villa",
+  "short": "AVL",
+  "city": "Birmingham",
+  "country": "İngiltere",
+  "league": "Premier League",
+  "stadium": "Villa Park",
+  "capacity": 42918,
+  "manager": "Unai Emery",
+  "founded": 1874,
+  "uclPot": 2,
+  "formation": "4-2-3-1",
+  "mentality": 0.55,
+  "kits": {
+   "home": {
+    "pattern": "plain",
+    "c1": "#7A1A3A",
+    "c2": "#94BEE5",
+    "shorts": "#FFFFFF",
+    "socks": "#7A1A3A",
+    "num": "#94BEE5"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#7A1A3A"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#F2C500",
+    "c2": "#F2C500",
+    "shorts": "#F2C500",
+    "socks": "#F2C500",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    1,
+    "Zion Suzuki",
+    "GK",
+    81
+   ],
+   [
+    29,
+    "Aaron Wan-Bissaka",
+    "RB",
+    78
+   ],
+   [
+    14,
+    "Pau Torres",
+    "CB",
+    81
+   ],
+   [
+    5,
+    "Tyrone Mings",
+    "CB",
+    78
+   ],
+   [
+    13,
+    "Matteo Ruggeri",
+    "LB",
+    80
+   ],
+   [
+    8,
+    "Boubacar Kamara",
+    "DM",
+    81
+   ],
+   [
+    24,
+    "Amadou Onana",
+    "DM",
+    80
+   ],
+   [
+    17,
+    "Alejandro Garnacho",
+    "RW",
+    76
+   ],
+   [
+    7,
+    "John McGinn",
+    "AM",
+    80
+   ],
+   [
+    10,
+    "Emiliano Buendía",
+    "LW",
+    77
+   ],
+   [
+    11,
+    "Nicolas Jackson",
+    "ST",
+    80
+   ]
+  ],
+  "bench": [
+   [
+    42,
+    "James Wright",
+    "GK",
+    73
+   ],
+   [
+    2,
+    "Matty Cash",
+    "RB",
+    78
+   ],
+   [
+    22,
+    "Ian Maatsen",
+    "LB",
+    78
+   ],
+   [
+    35,
+    "João Gomes",
+    "CM",
+    78
+   ],
+   [
+    20,
+    "Jamaldeen Jimoh-Aloba",
+    "AM",
+    77
+   ],
+   [
+    18,
+    "Tammy Abraham",
+    "ST",
+    78
+   ],
+   [
+    39,
+    "Brian Madjo",
+    "ST",
+    73
+   ],
+   [
+    27,
+    "Leon Goretzka",
+    "CM",
+    77
+   ]
+  ]
+ },
+ {
+  "id": "POR",
+  "name": "FC Porto",
+  "short": "POR",
+  "city": "Porto",
+  "country": "Portekiz",
+  "league": "Liga Portugal",
+  "stadium": "Estádio do Dragão",
+  "capacity": 50033,
+  "manager": "Francesco Farioli",
+  "founded": 1893,
+  "uclPot": 2,
+  "formation": "4-3-3",
+  "mentality": 0.6,
+  "kits": {
+   "home": {
+    "pattern": "stripes",
+    "c1": "#003E7E",
+    "c2": "#FFFFFF",
+    "shorts": "#003E7E",
+    "socks": "#003E7E",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#003E7E"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#F39200",
+    "c2": "#F39200",
+    "shorts": "#F39200",
+    "socks": "#F39200",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    99,
+    "Diogo Costa",
+    "GK",
+    85
+   ],
+   [
+    52,
+    "Martim Fernandes",
+    "RB",
+    76
+   ],
+   [
+    5,
+    "Jan Bednarek",
+    "CB",
+    78
+   ],
+   [
+    18,
+    "Nehuén Pérez",
+    "CB",
+    77
+   ],
+   [
+    74,
+    "Francisco Moura",
+    "LB",
+    77
+   ],
+   [
+    8,
+    "Victor Froholdt",
+    "CM",
+    77
+   ],
+   [
+    22,
+    "Alan Varela",
+    "DM",
+    81
+   ],
+   [
+    13,
+    "Pablo Rosario",
+    "CM",
+    77
+   ],
+   [
+    10,
+    "Gabri Veiga",
+    "RW",
+    78
+   ],
+   [
+    9,
+    "Samu Aghehowa",
+    "ST",
+    82
+   ],
+   [
+    11,
+    "Pepê",
+    "LW",
+    79
+   ]
+  ],
+  "bench": [
+   [
+    24,
+    "João Costa",
+    "GK",
+    75
+   ],
+   [
+    20,
+    "Alberto Costa",
+    "RB",
+    75
+   ],
+   [
+    4,
+    "Jakub Kiwior",
+    "CB",
+    75
+   ],
+   [
+    16,
+    "Hwang In-beom",
+    "CM",
+    77
+   ],
+   [
+    15,
+    "Vasco Sousa",
+    "CM",
+    76
+   ],
+   [
+    17,
+    "Borja Sainz",
+    "LW",
+    77
+   ],
+   [
+    7,
+    "William Gomes",
+    "LW",
+    76
+   ],
+   [
+    19,
+    "André Silva",
+    "ST",
+    75
+   ]
+  ]
+ },
+ {
+  "id": "MUN",
+  "name": "Manchester United",
+  "short": "MUN",
+  "city": "Manchester",
+  "country": "İngiltere",
+  "league": "Premier League",
+  "stadium": "Old Trafford",
+  "capacity": 74158,
+  "manager": "Michael Carrick",
+  "founded": 1878,
+  "uclPot": 2,
+  "formation": "3-5-2",
+  "mentality": 0.55,
+  "kits": {
+   "home": {
+    "pattern": "plain",
+    "c1": "#DA291C",
+    "c2": "#DA291C",
+    "shorts": "#FFFFFF",
+    "socks": "#000000",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#DA291C"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#2F7B3A",
+    "c2": "#2F7B3A",
+    "shorts": "#2F7B3A",
+    "socks": "#2F7B3A",
+    "num": "#FFFFFF"
+   }
+  },
+  "xi": [
+   [
+    1,
+    "Senne Lammens",
+    "GK",
+    78
+   ],
+   [
+    4,
+    "Matthijs de Ligt",
+    "CB",
+    82
+   ],
+   [
+    6,
+    "Lisandro Martínez",
+    "CB",
+    82
+   ],
+   [
+    15,
+    "Leny Yoro",
+    "CB",
+    80
+   ],
+   [
+    19,
+    "Bryan Mbeumo",
+    "RWB",
+    83
+   ],
+   [
+    8,
+    "Bruno Fernandes",
+    "CM",
+    86
+   ],
+   [
+    25,
+    "Manuel Ugarte",
+    "DM",
+    78
+   ],
+   [
+    18,
+    "Youri Tielemans",
+    "CM",
+    80
+   ],
+   [
+    2,
+    "Diogo Dalot",
+    "LWB",
+    78
+   ],
+   [
+    10,
+    "Matheus Cunha",
+    "ST",
+    83
+   ],
+   [
+    30,
+    "Benjamin Šeško",
+    "ST",
+    80
+   ]
+  ],
+  "bench": [
+   [
+    45,
+    "Dermot Mee",
+    "GK",
+    76
+   ],
+   [
+    3,
+    "Noussair Mazraoui",
+    "CB",
+    79
+   ],
+   [
+    5,
+    "Harry Maguire",
+    "CB",
+    78
+   ],
+   [
+    37,
+    "Kobbie Mainoo",
+    "CM",
+    78
+   ],
+   [
+    20,
+    "Carlos Baleba",
+    "CM",
+    77
+   ],
+   [
+    16,
+    "Amad Diallo",
+    "LW",
+    81
+   ],
+   [
+    9,
+    "Marcus Rashford",
+    "ST",
+    79
+   ],
+   [
+    7,
+    "Mason Mount",
+    "CM",
+    77
+   ]
+  ]
+ },
+ {
+  "id": "CLB",
+  "name": "Club Brugge",
+  "short": "CLB",
+  "city": "Brugge",
+  "country": "Belçika",
+  "league": "Pro League",
+  "stadium": "Jan Breydel Stadion",
+  "capacity": 29062,
+  "manager": "Ivan Leko",
+  "founded": 1891,
+  "uclPot": 2,
+  "formation": "4-2-3-1",
+  "mentality": 0.55,
+  "kits": {
+   "home": {
+    "pattern": "stripes",
+    "c1": "#0056A5",
+    "c2": "#000000",
+    "shorts": "#000000",
+    "socks": "#0056A5",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#0056A5"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#E4A500",
+    "c2": "#E4A500",
+    "shorts": "#E4A500",
+    "socks": "#E4A500",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    29,
+    "Nordin Jackers",
+    "GK",
+    75
+   ],
+   [
+    41,
+    "Hugo Siquet",
+    "RB",
+    74
+   ],
+   [
+    4,
+    "Joel Ordóñez",
+    "CB",
+    78
+   ],
+   [
+    3,
+    "Lee Han-beom",
+    "CB",
+    75
+   ],
+   [
+    64,
+    "Kyriani Sabbe",
+    "LB",
+    74
+   ],
+   [
+    8,
+    "Freddie Potts",
+    "DM",
+    72
+   ],
+   [
+    44,
+    "Brandon Mechele",
+    "DM",
+    76
+   ],
+   [
+    9,
+    "Carlos Forbs",
+    "RW",
+    76
+   ],
+   [
+    20,
+    "Hans Vanaken",
+    "AM",
+    81
+   ],
+   [
+    7,
+    "Nicolò Tresoldi",
+    "LW",
+    74
+   ],
+   [
+    17,
+    "Romeo Vermant",
+    "ST",
+    74
+   ]
+  ],
+  "bench": [
+   [
+    1,
+    "Yann Sommer",
+    "GK",
+    66
+   ],
+   [
+    58,
+    "Jorne Spileers",
+    "CB",
+    73
+   ],
+   [
+    32,
+    "Matteo Dams",
+    "CB",
+    72
+   ],
+   [
+    10,
+    "Hugo Vetlesen",
+    "CM",
+    71
+   ],
+   [
+    80,
+    "Félix Lemaréchal",
+    "CM",
+    70
+   ],
+   [
+    11,
+    "Jan Virgili",
+    "LW",
+    69
+   ],
+   [
+    67,
+    "Mamadou Diakhon",
+    "ST",
+    67
+   ],
+   [
+    16,
+    "Cheveyo Tsawa",
+    "CM",
+    69
+   ]
+  ]
+ },
+ {
+  "id": "BET",
+  "name": "Real Betis",
+  "short": "BET",
+  "city": "Sevilla",
+  "country": "İspanya",
+  "league": "LaLiga",
+  "stadium": "La Cartuja",
+  "capacity": 70000,
+  "manager": "Manuel Pellegrini",
+  "founded": 1907,
+  "uclPot": 2,
+  "formation": "4-2-3-1",
+  "mentality": 0.55,
+  "kits": {
+   "home": {
+    "pattern": "stripes",
+    "c1": "#00954C",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#00954C",
+    "num": "#000000"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#000000",
+    "c2": "#000000",
+    "shorts": "#000000",
+    "socks": "#000000",
+    "num": "#00954C"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#F26522",
+    "c2": "#F26522",
+    "shorts": "#F26522",
+    "socks": "#F26522",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    1,
+    "Álvaro Valles",
+    "GK",
+    78
+   ],
+   [
+    2,
+    "Héctor Bellerín",
+    "RB",
+    76
+   ],
+   [
+    4,
+    "Natan",
+    "CB",
+    77
+   ],
+   [
+    5,
+    "Marc Bartra",
+    "CB",
+    76
+   ],
+   [
+    11,
+    "Fran García",
+    "LB",
+    77
+   ],
+   [
+    21,
+    "Marc Roca",
+    "DM",
+    74
+   ],
+   [
+    6,
+    "Facundo Bernal",
+    "DM",
+    74
+   ],
+   [
+    7,
+    "Antony",
+    "RW",
+    82
+   ],
+   [
+    22,
+    "Isco",
+    "AM",
+    83
+   ],
+   [
+    10,
+    "Abde Ezzalzouli",
+    "LW",
+    79
+   ],
+   [
+    9,
+    "Cucho Hernández",
+    "ST",
+    78
+   ]
+  ],
+  "bench": [
+   [
+    13,
+    "Diego Conde",
+    "GK",
+    75
+   ],
+   [
+    23,
+    "Junior Firpo",
+    "LB",
+    76
+   ],
+   [
+    3,
+    "Diego Llorente",
+    "CB",
+    75
+   ],
+   [
+    8,
+    "Pablo Fornals",
+    "AM",
+    78
+   ],
+   [
+    15,
+    "Álvaro Fidalgo",
+    "CM",
+    75
+   ],
+   [
+    17,
+    "Rodrigo Riquelme",
+    "RW",
+    76
+   ],
+   [
+    19,
+    "Troy Parrott",
+    "ST",
+    75
+   ],
+   [
+    20,
+    "Giovanni Lo Celso",
+    "AM",
+    74
+   ]
+  ]
+ },
+ {
+  "id": "PSV",
+  "name": "PSV Eindhoven",
+  "short": "PSV",
+  "city": "Eindhoven",
+  "country": "Hollanda",
+  "league": "Eredivisie",
+  "stadium": "Philips Stadion",
+  "capacity": 35000,
+  "manager": "Peter Bosz",
+  "founded": 1913,
+  "uclPot": 2,
+  "formation": "4-3-3",
+  "mentality": 0.65,
+  "kits": {
+   "home": {
+    "pattern": "stripes",
+    "c1": "#ED1C24",
+    "c2": "#FFFFFF",
+    "shorts": "#000000",
+    "socks": "#ED1C24",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#ED1C24"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#7AC143",
+    "c2": "#7AC143",
+    "shorts": "#7AC143",
+    "socks": "#7AC143",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    32,
+    "Matěj Kovář",
+    "GK",
+    76
+   ],
+   [
+    8,
+    "Sergiño Dest",
+    "RB",
+    79
+   ],
+   [
+    6,
+    "Ryan Flamingo",
+    "CB",
+    77
+   ],
+   [
+    3,
+    "Yarek Gasiorowski",
+    "CB",
+    75
+   ],
+   [
+    17,
+    "Mauro Júnior",
+    "LB",
+    76
+   ],
+   [
+    20,
+    "Guus Til",
+    "CM",
+    78
+   ],
+   [
+    22,
+    "Jerdy Schouten",
+    "DM",
+    80
+   ],
+   [
+    24,
+    "Kodai Sano",
+    "CM",
+    74
+   ],
+   [
+    27,
+    "Dennis Man",
+    "RW",
+    77
+   ],
+   [
+    9,
+    "Ricardo Pepi",
+    "ST",
+    78
+   ],
+   [
+    5,
+    "Ivan Perišić",
+    "LW",
+    78
+   ]
+  ],
+  "bench": [
+   [
+    1,
+    "Nick Olij",
+    "GK",
+    74
+   ],
+   [
+    2,
+    "Lutsharel Geertruida",
+    "RB",
+    75
+   ],
+   [
+    4,
+    "Armando Obispo",
+    "CB",
+    74
+   ],
+   [
+    10,
+    "Paul Wanner",
+    "AM",
+    76
+   ],
+   [
+    21,
+    "Sven Mijnans",
+    "AM",
+    74
+   ],
+   [
+    7,
+    "Ruben van Bommel",
+    "LW",
+    78
+   ],
+   [
+    14,
+    "Alassane Pléa",
+    "ST",
+    78
+   ],
+   [
+    11,
+    "Sami Ouaissa",
+    "LW",
+    75
+   ]
+  ]
+ },
+ {
+  "id": "FEY",
+  "name": "Feyenoord",
+  "short": "FEY",
+  "city": "Rotterdam",
+  "country": "Hollanda",
+  "league": "Eredivisie",
+  "stadium": "De Kuip",
+  "capacity": 47500,
+  "manager": "Giovanni van Bronckhorst",
+  "founded": 1908,
+  "uclPot": 3,
+  "formation": "4-3-3",
+  "mentality": 0.6,
+  "kits": {
+   "home": {
+    "pattern": "halves",
+    "c1": "#E31C23",
+    "c2": "#FFFFFF",
+    "shorts": "#000000",
+    "socks": "#000000",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#E31C23"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#1A6FBA",
+    "c2": "#1A6FBA",
+    "shorts": "#1A6FBA",
+    "socks": "#1A6FBA",
+    "num": "#FFFFFF"
+   }
+  },
+  "xi": [
+   [
+    39,
+    "Liam Bossin",
+    "GK",
+    74
+   ],
+   [
+    2,
+    "Bart Nieuwkoop",
+    "RB",
+    76
+   ],
+   [
+    4,
+    "Tsuyoshi Watanabe",
+    "CB",
+    76
+   ],
+   [
+    6,
+    "Jerry St. Juste",
+    "CB",
+    75
+   ],
+   [
+    5,
+    "Gijs Smal",
+    "LB",
+    74
+   ],
+   [
+    14,
+    "Sem Steijn",
+    "CM",
+    78
+   ],
+   [
+    7,
+    "Jakub Moder",
+    "DM",
+    75
+   ],
+   [
+    28,
+    "Oussama Targhalline",
+    "CM",
+    75
+   ],
+   [
+    27,
+    "Gaoussou Diarra",
+    "RW",
+    74
+   ],
+   [
+    19,
+    "Nacho Ferri",
+    "ST",
+    74
+   ],
+   [
+    23,
+    "Anis Hadj Moussa",
+    "LW",
+    78
+   ]
+  ],
+  "bench": [
+   [
+    1,
+    "Tjark Ernst",
+    "GK",
+    74
+   ],
+   [
+    26,
+    "Givairo Read",
+    "RB",
+    75
+   ],
+   [
+    15,
+    "Jordan Bos",
+    "LB",
+    74
+   ],
+   [
+    10,
+    "Luciano Valente",
+    "AM",
+    75
+   ],
+   [
+    34,
+    "Charles Vanhoutte",
+    "CM",
+    73
+   ],
+   [
+    17,
+    "Reiss Nelson",
+    "RW",
+    72
+   ],
+   [
+    11,
+    "Gonçalo Borges",
+    "RW",
+    72
+   ],
+   [
+    8,
+    "Gjivai Zechiël",
+    "CM",
+    72
+   ]
+  ]
+ },
+ {
+  "id": "LIL",
+  "name": "Lille",
+  "short": "LIL",
+  "city": "Lille",
+  "country": "Fransa",
+  "league": "Ligue 1",
+  "stadium": "Stade Pierre-Mauroy",
+  "capacity": 50186,
+  "manager": "Davide Ancelotti",
+  "founded": 1944,
+  "uclPot": 3,
+  "formation": "4-2-3-1",
+  "mentality": 0.55,
+  "kits": {
+   "home": {
+    "pattern": "plain",
+    "c1": "#E01E13",
+    "c2": "#E01E13",
+    "shorts": "#FFFFFF",
+    "socks": "#E01E13",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#E01E13"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#111111",
+    "c2": "#111111",
+    "shorts": "#111111",
+    "socks": "#111111",
+    "num": "#E01E13"
+   }
+  },
+  "xi": [
+   [
+    1,
+    "Berke Özer",
+    "GK",
+    78
+   ],
+   [
+    2,
+    "Loun Srdanovic",
+    "RB",
+    74
+   ],
+   [
+    4,
+    "Alexsandro",
+    "CB",
+    80
+   ],
+   [
+    3,
+    "Nathan Ngoy",
+    "CB",
+    76
+   ],
+   [
+    15,
+    "Romain Perraud",
+    "LB",
+    75
+   ],
+   [
+    21,
+    "Benjamin André",
+    "DM",
+    79
+   ],
+   [
+    17,
+    "Ngal'ayel Mukau",
+    "DM",
+    78
+   ],
+   [
+    11,
+    "Osame Sahraoui",
+    "RW",
+    78
+   ],
+   [
+    10,
+    "Hákon Haraldsson",
+    "AM",
+    80
+   ],
+   [
+    19,
+    "Başar Önal",
+    "LW",
+    75
+   ],
+   [
+    29,
+    "Hamza Igamane",
+    "ST",
+    77
+   ]
+  ],
+  "bench": [
+   [
+    12,
+    "Orlando Gill",
+    "GK",
+    75
+   ],
+   [
+    23,
+    "Tanguy Nianzou",
+    "CB",
+    74
+   ],
+   [
+    26,
+    "Isaac Cossier",
+    "CB",
+    72
+   ],
+   [
+    6,
+    "Nabil Bentaleb",
+    "DM",
+    75
+   ],
+   [
+    14,
+    "Maurits Kjærgaard",
+    "CM",
+    72
+   ],
+   [
+    9,
+    "Olivier Giroud",
+    "ST",
+    75
+   ],
+   [
+    7,
+    "Dilane Bakwa",
+    "LW",
+    74
+   ],
+   [
+    18,
+    "Ayase Ueda",
+    "ST",
+    73
+   ]
+  ]
+ },
+ {
+  "id": "BOD",
+  "name": "Bodø/Glimt",
+  "short": "BOD",
+  "city": "Bodø",
+  "country": "Norveç",
+  "league": "Eliteserien",
+  "stadium": "Aspmyra Stadion",
+  "capacity": 8270,
+  "manager": "Kjetil Knutsen",
+  "founded": 1916,
+  "uclPot": 3,
+  "formation": "4-3-3",
+  "mentality": 0.7,
+  "kits": {
+   "home": {
+    "pattern": "plain",
+    "c1": "#FFE100",
+    "c2": "#000000",
+    "shorts": "#000000",
+    "socks": "#FFE100",
+    "num": "#000000"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#000000",
+    "c2": "#000000",
+    "shorts": "#000000",
+    "socks": "#000000",
+    "num": "#FFE100"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#1A6FBA",
+    "c2": "#1A6FBA",
+    "shorts": "#1A6FBA",
+    "socks": "#1A6FBA",
+    "num": "#FFFFFF"
+   }
+  },
+  "xi": [
+   [
+    12,
+    "Nikita Haikin",
+    "GK",
+    76
+   ],
+   [
+    20,
+    "Fredrik Sjøvold",
+    "RB",
+    73
+   ],
+   [
+    4,
+    "Odin Bjørtuft",
+    "CB",
+    75
+   ],
+   [
+    6,
+    "Jostein Gundersen",
+    "CB",
+    74
+   ],
+   [
+    15,
+    "Fredrik André Bjørkan",
+    "LB",
+    75
+   ],
+   [
+    26,
+    "Håkon Evjen",
+    "CM",
+    78
+   ],
+   [
+    7,
+    "Patrick Berg",
+    "DM",
+    79
+   ],
+   [
+    14,
+    "Ulrik Saltnes",
+    "CM",
+    77
+   ],
+   [
+    10,
+    "Jens Petter Hauge",
+    "RW",
+    78
+   ],
+   [
+    9,
+    "Andreas Helmersen",
+    "ST",
+    74
+   ],
+   [
+    11,
+    "Ole Didrik Blomberg",
+    "LW",
+    74
+   ]
+  ],
+  "bench": [
+   [
+    1,
+    "Julian Faye Lund",
+    "GK",
+    71
+   ],
+   [
+    25,
+    "Isak Dybvik Määttä",
+    "LB",
+    74
+   ],
+   [
+    5,
+    "Haitam Aleesami",
+    "LB",
+    73
+   ],
+   [
+    19,
+    "Sondre Brunstad Fet",
+    "CM",
+    75
+   ],
+   [
+    8,
+    "Sondre Auklend",
+    "CM",
+    74
+   ],
+   [
+    22,
+    "Joel Mvuka",
+    "ST",
+    72
+   ],
+   [
+    17,
+    "Ola Brynhildsen",
+    "ST",
+    68
+   ],
+   [
+    2,
+    "Villads Nielsen",
+    "CB",
+    72
+   ]
+  ]
+ },
+ {
+  "id": "NAP",
+  "name": "Napoli",
+  "short": "NAP",
+  "city": "Napoli",
+  "country": "İtalya",
+  "league": "Serie A",
+  "stadium": "Stadio Diego Armando Maradona",
+  "capacity": 54732,
+  "manager": "Massimiliano Allegri",
+  "founded": 1926,
+  "uclPot": 3,
+  "formation": "4-3-3",
+  "mentality": 0.55,
+  "kits": {
+   "home": {
+    "pattern": "plain",
+    "c1": "#12A0D7",
+    "c2": "#12A0D7",
+    "shorts": "#FFFFFF",
+    "socks": "#12A0D7",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#12A0D7"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#F7B500",
+    "c2": "#F7B500",
+    "shorts": "#F7B500",
+    "socks": "#F7B500",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    1,
+    "Alex Meret",
+    "GK",
+    82
+   ],
+   [
+    22,
+    "Giovanni Di Lorenzo",
+    "RB",
+    81
+   ],
+   [
+    4,
+    "Alessandro Buongiorno",
+    "CB",
+    83
+   ],
+   [
+    13,
+    "Amir Rrahmani",
+    "CB",
+    80
+   ],
+   [
+    17,
+    "Mathías Olivera",
+    "LB",
+    78
+   ],
+   [
+    8,
+    "Scott McTominay",
+    "CM",
+    86
+   ],
+   [
+    68,
+    "Stanislav Lobotka",
+    "DM",
+    84
+   ],
+   [
+    11,
+    "Kevin De Bruyne",
+    "CM",
+    85
+   ],
+   [
+    21,
+    "Matteo Politano",
+    "RW",
+    80
+   ],
+   [
+    19,
+    "Rasmus Højlund",
+    "ST",
+    81
+   ],
+   [
+    7,
+    "David Neres",
+    "LW",
+    79
+   ]
+  ],
+  "bench": [
+   [
+    32,
+    "Vanja Milinković-Savić",
+    "GK",
+    80
+   ],
+   [
+    2,
+    "Costantino Favasuli",
+    "CB",
+    79
+   ],
+   [
+    5,
+    "Benoît Badiashile",
+    "CB",
+    79
+   ],
+   [
+    99,
+    "Frank Anguissa",
+    "CM",
+    78
+   ],
+   [
+    26,
+    "Antonio Vergara",
+    "AM",
+    78
+   ],
+   [
+    23,
+    "Giovane",
+    "ST",
+    80
+   ],
+   [
+    70,
+    "Noa Lang",
+    "LW",
+    79
+   ],
+   [
+    20,
+    "Lorenzo Lucca",
+    "ST",
+    78
+   ]
+  ]
+ },
+ {
+  "id": "RBL",
+  "name": "RB Leipzig",
+  "short": "RBL",
+  "city": "Leipzig",
+  "country": "Almanya",
+  "league": "Bundesliga",
+  "stadium": "Red Bull Arena",
+  "capacity": 47069,
+  "manager": "Martín Demichelis",
+  "founded": 2009,
+  "uclPot": 3,
+  "formation": "4-2-3-1",
+  "mentality": 0.6,
+  "kits": {
+   "home": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#DD0741",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#DD0741"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#DD0741",
+    "c2": "#DD0741",
+    "shorts": "#DD0741",
+    "socks": "#DD0741",
+    "num": "#FFFFFF"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#F2C500",
+    "c2": "#F2C500",
+    "shorts": "#F2C500",
+    "socks": "#F2C500",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    26,
+    "Maarten Vandevoordt",
+    "GK",
+    76
+   ],
+   [
+    17,
+    "Ridle Baku",
+    "RB",
+    76
+   ],
+   [
+    23,
+    "Castello Lukeba",
+    "CB",
+    82
+   ],
+   [
+    4,
+    "Willi Orbán",
+    "CB",
+    79
+   ],
+   [
+    22,
+    "David Raum",
+    "LB",
+    80
+   ],
+   [
+    13,
+    "Nicolas Seiwald",
+    "DM",
+    77
+   ],
+   [
+    20,
+    "Rocco Reitz",
+    "DM",
+    75
+   ],
+   [
+    7,
+    "Antonio Nusa",
+    "RW",
+    79
+   ],
+   [
+    14,
+    "Christoph Baumgartner",
+    "AM",
+    78
+   ],
+   [
+    11,
+    "Johan Bakayoko",
+    "LW",
+    78
+   ],
+   [
+    40,
+    "Rômulo",
+    "ST",
+    78
+   ]
+  ],
+  "bench": [
+   [
+    25,
+    "Leopold Zingerle",
+    "GK",
+    74
+   ],
+   [
+    16,
+    "Lukas Klostermann",
+    "RB",
+    76
+   ],
+   [
+    39,
+    "Benjamin Henrichs",
+    "RB",
+    75
+   ],
+   [
+    6,
+    "Ezechiel Banzuzi",
+    "AM",
+    75
+   ],
+   [
+    8,
+    "Assan Ouédraogo",
+    "CM",
+    75
+   ],
+   [
+    28,
+    "Christopher Nkunku",
+    "ST",
+    76
+   ],
+   [
+    9,
+    "Marc Guiu",
+    "ST",
+    72
+   ],
+   [
+    3,
+    "Maxime Estève",
+    "CB",
+    75
+   ]
+  ]
+ },
+ {
+  "id": "VIL",
+  "name": "Villarreal",
+  "short": "VIL",
+  "city": "Villarreal",
+  "country": "İspanya",
+  "league": "LaLiga",
+  "stadium": "Estadio de la Cerámica",
+  "capacity": 23008,
+  "manager": "Iñigo Pérez",
+  "founded": 1923,
+  "uclPot": 3,
+  "formation": "4-3-3",
+  "mentality": 0.6,
+  "kits": {
+   "home": {
+    "pattern": "plain",
+    "c1": "#FFE667",
+    "c2": "#FFE667",
+    "shorts": "#005187",
+    "socks": "#FFE667",
+    "num": "#005187"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#005187",
+    "c2": "#005187",
+    "shorts": "#005187",
+    "socks": "#005187",
+    "num": "#FFE667"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#111111",
+    "c2": "#111111",
+    "shorts": "#111111",
+    "socks": "#111111",
+    "num": "#FFE667"
+   }
+  },
+  "xi": [
+   [
+    1,
+    "Luiz Júnior",
+    "GK",
+    79
+   ],
+   [
+    17,
+    "Tajon Buchanan",
+    "RB",
+    77
+   ],
+   [
+    8,
+    "Juan Foyth",
+    "CB",
+    78
+   ],
+   [
+    12,
+    "Renato Veiga",
+    "CB",
+    78
+   ],
+   [
+    23,
+    "Sergi Cardona",
+    "LB",
+    77
+   ],
+   [
+    22,
+    "Ayoze Pérez",
+    "CM",
+    80
+   ],
+   [
+    18,
+    "Pape Gueye",
+    "DM",
+    79
+   ],
+   [
+    14,
+    "Santi Comesaña",
+    "CM",
+    77
+   ],
+   [
+    19,
+    "Nicolas Pépé",
+    "RW",
+    78
+   ],
+   [
+    7,
+    "Gerard Moreno",
+    "ST",
+    80
+   ],
+   [
+    10,
+    "Alberto Moleiro",
+    "LW",
+    78
+   ]
+  ],
+  "bench": [
+   [
+    13,
+    "Rubén Gómez",
+    "GK",
+    74
+   ],
+   [
+    2,
+    "Logan Costa",
+    "CB",
+    77
+   ],
+   [
+    6,
+    "Pau Navarro",
+    "CB",
+    76
+   ],
+   [
+    24,
+    "Nathan Saliba",
+    "CM",
+    74
+   ],
+   [
+    5,
+    "Alassane Diatta",
+    "CM",
+    74
+   ],
+   [
+    9,
+    "Georges Mikautadze",
+    "ST",
+    80
+   ],
+   [
+    21,
+    "Tani Oluwaseyi",
+    "ST",
+    76
+   ],
+   [
+    11,
+    "Ilias Akhomach",
+    "RW",
+    75
+   ]
+  ]
+ },
+ {
+  "id": "FB",
+  "existing": true,
+  "manager": "Dirk Kuyt",
+  "capacity": 47911,
+  "founded": 1907,
+  "uclPot": 3
+ },
+ {
+  "id": "SHK",
+  "name": "Shakhtar Donetsk",
+  "short": "SHK",
+  "city": "Donetsk",
+  "country": "Ukrayna",
+  "league": "Premyer Liha",
+  "stadium": "Arena Lviv",
+  "capacity": 34915,
+  "manager": "Arda Turan",
+  "founded": 1936,
+  "uclPot": 3,
+  "formation": "4-3-3",
+  "mentality": 0.6,
+  "kits": {
+   "home": {
+    "pattern": "stripes",
+    "c1": "#F26522",
+    "c2": "#000000",
+    "shorts": "#000000",
+    "socks": "#F26522",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#F26522"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#3F7FBF",
+    "c2": "#3F7FBF",
+    "shorts": "#3F7FBF",
+    "socks": "#3F7FBF",
+    "num": "#FFFFFF"
+   }
+  },
+  "xi": [
+   [
+    31,
+    "Dmytro Riznyk",
+    "GK",
+    76
+   ],
+   [
+    17,
+    "Vinicius Tobias",
+    "RB",
+    73
+   ],
+   [
+    22,
+    "Mykola Matviyenko",
+    "CB",
+    76
+   ],
+   [
+    5,
+    "Valeriy Bondar",
+    "CB",
+    75
+   ],
+   [
+    16,
+    "Irakli Azarovi",
+    "LB",
+    74
+   ],
+   [
+    29,
+    "Yehor Nazaryna",
+    "CM",
+    74
+   ],
+   [
+    6,
+    "Marlon Gomes",
+    "DM",
+    76
+   ],
+   [
+    27,
+    "Oleh Ocheretko",
+    "CM",
+    74
+   ],
+   [
+    10,
+    "Pedrinho",
+    "RW",
+    78
+   ],
+   [
+    9,
+    "Kauã Elias",
+    "ST",
+    76
+   ],
+   [
+    11,
+    "Newerton",
+    "LW",
+    74
+   ]
+  ],
+  "bench": [
+   [
+    23,
+    "Kiril Fesyun",
+    "GK",
+    72
+   ],
+   [
+    4,
+    "Marlon Santos",
+    "CB",
+    73
+   ],
+   [
+    18,
+    "Alaa Ghram",
+    "CB",
+    71
+   ],
+   [
+    14,
+    "Isaque",
+    "AM",
+    74
+   ],
+   [
+    8,
+    "Dmytro Kryskiv",
+    "CM",
+    70
+   ],
+   [
+    7,
+    "Eguinaldo",
+    "ST",
+    75
+   ],
+   [
+    37,
+    "Lucas Ferreira",
+    "LW",
+    74
+   ],
+   [
+    49,
+    "Luca Meirelles",
+    "ST",
+    74
+   ]
+  ]
+ },
+ {
+  "id": "GS",
+  "existing": true,
+  "manager": "Okan Buruk",
+  "capacity": 53387,
+  "founded": 1905,
+  "uclPot": 3
+ },
+ {
+  "id": "SLA",
+  "name": "Slavia Praha",
+  "short": "SLA",
+  "city": "Prag",
+  "country": "Çekya",
+  "league": "Chance Liga",
+  "stadium": "Fortuna Arena",
+  "capacity": 19370,
+  "manager": "Jindřich Trpišovský",
+  "founded": 1892,
+  "uclPot": 4,
+  "formation": "3-5-2",
+  "mentality": 0.6,
+  "kits": {
+   "home": {
+    "pattern": "halves",
+    "c1": "#E2231A",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#E2231A",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#E2231A"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#F2C500",
+    "c2": "#F2C500",
+    "shorts": "#F2C500",
+    "socks": "#F2C500",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    35,
+    "Jakub Markovič",
+    "GK",
+    73
+   ],
+   [
+    3,
+    "Tomáš Holeš",
+    "CB",
+    76
+   ],
+   [
+    5,
+    "Igoh Ogbu",
+    "CB",
+    76
+   ],
+   [
+    4,
+    "David Zima",
+    "CB",
+    75
+   ],
+   [
+    39,
+    "David Jurásek",
+    "RWB",
+    70
+   ],
+   [
+    23,
+    "Michal Sadílek",
+    "CM",
+    74
+   ],
+   [
+    27,
+    "Tomáš Vlček",
+    "DM",
+    74
+   ],
+   [
+    16,
+    "David Moses",
+    "CM",
+    70
+   ],
+   [
+    17,
+    "Lukáš Provod",
+    "LWB",
+    76
+   ],
+   [
+    25,
+    "Tomáš Chorý",
+    "ST",
+    76
+   ],
+   [
+    26,
+    "Ivan Schranz",
+    "ST",
+    75
+   ]
+  ],
+  "bench": [
+   [
+    1,
+    "Ondřej Kolář",
+    "GK",
+    71
+   ],
+   [
+    2,
+    "Štěpán Chaloupek",
+    "CB",
+    69
+   ],
+   [
+    6,
+    "Ange N'Guessan",
+    "CB",
+    69
+   ],
+   [
+    30,
+    "Wiktor Nowak",
+    "CM",
+    67
+   ],
+   [
+    15,
+    "Mubarak Suleiman",
+    "CM",
+    65
+   ],
+   [
+    13,
+    "Mojmír Chytil",
+    "ST",
+    74
+   ],
+   [
+    10,
+    "Danijel Šturm",
+    "LW",
+    73
+   ],
+   [
+    8,
+    "Oskar Kubiak",
+    "LW",
+    68
+   ]
+  ]
+ },
+ {
+  "id": "SLB",
+  "name": "Slovan Bratislava",
+  "short": "SLB",
+  "city": "Bratislava",
+  "country": "Slovakya",
+  "league": "Niké Liga",
+  "stadium": "Tehelné pole",
+  "capacity": 22500,
+  "manager": "Yaya Touré",
+  "founded": 1919,
+  "uclPot": 4,
+  "formation": "4-2-3-1",
+  "mentality": 0.5,
+  "kits": {
+   "home": {
+    "pattern": "plain",
+    "c1": "#5AA0DA",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#5AA0DA",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#5AA0DA"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#F2C500",
+    "c2": "#F2C500",
+    "shorts": "#F2C500",
+    "socks": "#F2C500",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    71,
+    "Dominik Takáč",
+    "GK",
+    72
+   ],
+   [
+    57,
+    "Sandro Cruz",
+    "RB",
+    71
+   ],
+   [
+    12,
+    "Kenan Bajrić",
+    "CB",
+    72
+   ],
+   [
+    6,
+    "Kevin Wimmer",
+    "CB",
+    71
+   ],
+   [
+    2,
+    "Samuel Kozlovský",
+    "LB",
+    69
+   ],
+   [
+    5,
+    "Rahim Ibrahim",
+    "DM",
+    72
+   ],
+   [
+    3,
+    "Peter Pokorný",
+    "DM",
+    67
+   ],
+   [
+    11,
+    "Tigran Barseghyan",
+    "RW",
+    74
+   ],
+   [
+    99,
+    "Andraž Šporar",
+    "AM",
+    73
+   ],
+   [
+    10,
+    "Nino Marcelli",
+    "LW",
+    72
+   ],
+   [
+    9,
+    "Mykola Kukharevych",
+    "ST",
+    71
+   ]
+  ],
+  "bench": [
+   [
+    1,
+    "Aleksandar Popović",
+    "GK",
+    69
+   ],
+   [
+    15,
+    "Svetozar Marković",
+    "CB",
+    65
+   ],
+   [
+    28,
+    "César Blackman",
+    "RB",
+    65
+   ],
+   [
+    7,
+    "Leo Hofstädter",
+    "CM",
+    68
+   ],
+   [
+    8,
+    "Artur Gajdoš",
+    "CM",
+    66
+   ],
+   [
+    14,
+    "Alasana Yirajang",
+    "ST",
+    71
+   ],
+   [
+    13,
+    "Roman Čerepkai",
+    "ST",
+    67
+   ],
+   [
+    19,
+    "Manasse Kianga",
+    "ST",
+    67
+   ]
+  ]
+ },
+ {
+  "id": "VFB",
+  "name": "VfB Stuttgart",
+  "short": "VFB",
+  "city": "Stuttgart",
+  "country": "Almanya",
+  "league": "Bundesliga",
+  "stadium": "MHPArena",
+  "capacity": 60058,
+  "manager": "Sebastian Hoeneß",
+  "founded": 1893,
+  "uclPot": 4,
+  "formation": "4-2-3-1",
+  "mentality": 0.6,
+  "kits": {
+   "home": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#E32219",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#E32219"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#E32219",
+    "c2": "#E32219",
+    "shorts": "#E32219",
+    "socks": "#E32219",
+    "num": "#FFFFFF"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#2F7B3A",
+    "c2": "#2F7B3A",
+    "shorts": "#2F7B3A",
+    "socks": "#2F7B3A",
+    "num": "#FFFFFF"
+   }
+  },
+  "xi": [
+   [
+    1,
+    "Fabian Bredlow",
+    "GK",
+    74
+   ],
+   [
+    22,
+    "Lorenz Assignon",
+    "RB",
+    76
+   ],
+   [
+    24,
+    "Jeff Chabot",
+    "CB",
+    78
+   ],
+   [
+    23,
+    "Dan-Axel Zagadou",
+    "CB",
+    76
+   ],
+   [
+    7,
+    "Maximilian Mittelstädt",
+    "LB",
+    80
+   ],
+   [
+    6,
+    "Angelo Stiller",
+    "DM",
+    82
+   ],
+   [
+    16,
+    "Atakan Karazor",
+    "DM",
+    78
+   ],
+   [
+    26,
+    "Deniz Undav",
+    "RW",
+    81
+   ],
+   [
+    11,
+    "Bilal El Khannouss",
+    "AM",
+    78
+   ],
+   [
+    18,
+    "Jamie Leweling",
+    "LW",
+    78
+   ],
+   [
+    9,
+    "Ermedin Demirović",
+    "ST",
+    79
+   ]
+  ],
+  "bench": [
+   [
+    33,
+    "Marius Funk",
+    "GK",
+    72
+   ],
+   [
+    2,
+    "Ameen Al-Dakhil",
+    "CB",
+    76
+   ],
+   [
+    4,
+    "Josha Vagnoman",
+    "CB",
+    76
+   ],
+   [
+    10,
+    "Chris Führich",
+    "CM",
+    77
+   ],
+   [
+    21,
+    "Grischa Prömel",
+    "CM",
+    75
+   ],
+   [
+    8,
+    "Tiago Tomás",
+    "ST",
+    77
+   ],
+   [
+    31,
+    "Justin Diehl",
+    "ST",
+    75
+   ],
+   [
+    29,
+    "Finn Jeltsch",
+    "CB",
+    76
+   ]
+  ]
+ },
+ {
+  "id": "AEK",
+  "name": "AEK Atina",
+  "short": "AEK",
+  "city": "Atina",
+  "country": "Yunanistan",
+  "league": "Süper Lig Yunanistan",
+  "stadium": "OPAP Arena",
+  "capacity": 32500,
+  "manager": "Marko Nikolić",
+  "founded": 1924,
+  "uclPot": 4,
+  "formation": "4-2-3-1",
+  "mentality": 0.5,
+  "kits": {
+   "home": {
+    "pattern": "plain",
+    "c1": "#FFD400",
+    "c2": "#000000",
+    "shorts": "#000000",
+    "socks": "#FFD400",
+    "num": "#000000"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#000000",
+    "c2": "#000000",
+    "shorts": "#000000",
+    "socks": "#000000",
+    "num": "#FFD400"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#1A6FBA",
+    "c2": "#1A6FBA",
+    "shorts": "#1A6FBA",
+    "socks": "#1A6FBA",
+    "num": "#FFFFFF"
+   }
+  },
+  "xi": [
+   [
+    1,
+    "Thomas Strakosha",
+    "GK",
+    76
+   ],
+   [
+    12,
+    "Lazaros Rota",
+    "RB",
+    73
+   ],
+   [
+    2,
+    "Harold Moukoudi",
+    "CB",
+    74
+   ],
+   [
+    21,
+    "Domagoj Vida",
+    "CB",
+    73
+   ],
+   [
+    3,
+    "Stavros Pilios",
+    "LB",
+    71
+   ],
+   [
+    18,
+    "Răzvan Marin",
+    "DM",
+    76
+   ],
+   [
+    8,
+    "Mijat Gaćinović",
+    "DM",
+    74
+   ],
+   [
+    10,
+    "Oleksandr Zubkov",
+    "RW",
+    72
+   ],
+   [
+    20,
+    "Petros Mantalos",
+    "AM",
+    74
+   ],
+   [
+    11,
+    "Aboubakary Koïta",
+    "LW",
+    74
+   ],
+   [
+    9,
+    "Luka Jović",
+    "ST",
+    76
+   ]
+  ],
+  "bench": [
+   [
+    91,
+    "Alberto Brignoli",
+    "GK",
+    63
+   ],
+   [
+    44,
+    "Filipe Relvas",
+    "CB",
+    73
+   ],
+   [
+    22,
+    "Charalampos Lykogiannis",
+    "LB",
+    69
+   ],
+   [
+    14,
+    "Lovro Majer",
+    "CM",
+    70
+   ],
+   [
+    6,
+    "Kaan Kairinen",
+    "CM",
+    70
+   ],
+   [
+    58,
+    "Frantzdy Pierrot",
+    "ST",
+    74
+   ],
+   [
+    7,
+    "Dereck Kutesa",
+    "LW",
+    69
+   ],
+   [
+    27,
+    "Milán Vitális",
+    "CM",
+    68
+   ]
+  ]
+ },
+ {
+  "id": "LSK",
+  "name": "LASK",
+  "short": "LSK",
+  "city": "Linz",
+  "country": "Avusturya",
+  "league": "Bundesliga (Avusturya)",
+  "stadium": "Raiffeisen Arena",
+  "capacity": 19080,
+  "manager": "Dietmar Kühbauer",
+  "founded": 1908,
+  "uclPot": 4,
+  "formation": "3-5-2",
+  "mentality": 0.55,
+  "kits": {
+   "home": {
+    "pattern": "stripes",
+    "c1": "#000000",
+    "c2": "#FFFFFF",
+    "shorts": "#000000",
+    "socks": "#000000",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#000000"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#F2C500",
+    "c2": "#F2C500",
+    "shorts": "#F2C500",
+    "socks": "#F2C500",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    1,
+    "Lukas Jungwirth",
+    "GK",
+    69
+   ],
+   [
+    6,
+    "Melayro Bogarde",
+    "CB",
+    73
+   ],
+   [
+    16,
+    "Andrés Andrade",
+    "CB",
+    73
+   ],
+   [
+    25,
+    "Yvan Dibango",
+    "CB",
+    67
+   ],
+   [
+    20,
+    "Kasper Jørgensen",
+    "RWB",
+    67
+   ],
+   [
+    30,
+    "Sascha Horvath",
+    "CM",
+    75
+   ],
+   [
+    23,
+    "Daniel Elfadli",
+    "DM",
+    68
+   ],
+   [
+    10,
+    "Robert Ljubičić",
+    "CM",
+    68
+   ],
+   [
+    2,
+    "George Bello",
+    "LWB",
+    73
+   ],
+   [
+    7,
+    "Samuel Adeniran",
+    "ST",
+    73
+   ],
+   [
+    27,
+    "Christoph Lang",
+    "ST",
+    72
+   ]
+  ],
+  "bench": [
+   [
+    33,
+    "Tobias Schützenauer",
+    "GK",
+    66
+   ],
+   [
+    4,
+    "Xavier Mbuyamba",
+    "CB",
+    67
+   ],
+   [
+    29,
+    "Florian Flecker",
+    "RB",
+    67
+   ],
+   [
+    9,
+    "Kryštof Daněk",
+    "CM",
+    68
+   ],
+   [
+    5,
+    "Art Smakaj",
+    "DM",
+    65
+   ],
+   [
+    8,
+    "Moses Usor",
+    "LW",
+    73
+   ],
+   [
+    22,
+    "Ramiz Harakaté",
+    "RW",
+    67
+   ],
+   [
+    14,
+    "Saša Kalajdžić",
+    "ST",
+    65
+   ]
+  ]
+ },
+ {
+  "id": "COM",
+  "name": "Como",
+  "short": "COM",
+  "city": "Como",
+  "country": "İtalya",
+  "league": "Serie A",
+  "stadium": "Stadio Giuseppe Sinigaglia",
+  "capacity": 13602,
+  "manager": "Cesc Fàbregas",
+  "founded": 1907,
+  "uclPot": 4,
+  "formation": "4-2-3-1",
+  "mentality": 0.65,
+  "kits": {
+   "home": {
+    "pattern": "plain",
+    "c1": "#1B4FA0",
+    "c2": "#FFFFFF",
+    "shorts": "#1B4FA0",
+    "socks": "#1B4FA0",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#1B4FA0"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#F2C500",
+    "c2": "#F2C500",
+    "shorts": "#F2C500",
+    "socks": "#F2C500",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    12,
+    "Lorenzo Luigi Ginelli",
+    "GK",
+    76
+   ],
+   [
+    28,
+    "Ivan Smolčić",
+    "RB",
+    74
+   ],
+   [
+    2,
+    "Marc-Oliver Kempf",
+    "CB",
+    76
+   ],
+   [
+    4,
+    "Jacobo Ramón",
+    "CB",
+    76
+   ],
+   [
+    3,
+    "Álex Valle",
+    "LB",
+    76
+   ],
+   [
+    5,
+    "Máximo Perrone",
+    "DM",
+    78
+   ],
+   [
+    8,
+    "Maxence Caqueret",
+    "DM",
+    77
+   ],
+   [
+    17,
+    "Jesús Rodríguez",
+    "RW",
+    79
+   ],
+   [
+    10,
+    "Nico Paz",
+    "AM",
+    84
+   ],
+   [
+    11,
+    "Assane Diao",
+    "LW",
+    80
+   ],
+   [
+    20,
+    "Martin Baturina",
+    "ST",
+    79
+   ]
+  ],
+  "bench": [
+   [
+    1,
+    "Jean Butez",
+    "GK",
+    76
+   ],
+   [
+    27,
+    "Yan Couto",
+    "CB",
+    74
+   ],
+   [
+    18,
+    "Edoardo Goldaniga",
+    "CB",
+    74
+   ],
+   [
+    7,
+    "Lucas Da Cunha",
+    "CM",
+    77
+   ],
+   [
+    21,
+    "Samuele Ricci",
+    "DM",
+    75
+   ],
+   [
+    42,
+    "Jayden Addai",
+    "ST",
+    74
+   ],
+   [
+    9,
+    "Anastasios Douvikas",
+    "ST",
+    74
+   ],
+   [
+    6,
+    "Luis Milla",
+    "CM",
+    75
+   ]
+  ]
+ },
+ {
+  "id": "LEN",
+  "name": "Lens",
+  "short": "LEN",
+  "city": "Lens",
+  "country": "Fransa",
+  "league": "Ligue 1",
+  "stadium": "Stade Bollaert-Delelis",
+  "capacity": 38223,
+  "manager": "Dino Toppmöller",
+  "founded": 1906,
+  "uclPot": 4,
+  "formation": "3-5-2",
+  "mentality": 0.6,
+  "kits": {
+   "home": {
+    "pattern": "halves",
+    "c1": "#EC1C24",
+    "c2": "#FFD200",
+    "shorts": "#FFD200",
+    "socks": "#EC1C24",
+    "num": "#000000"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#EC1C24"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#111111",
+    "c2": "#111111",
+    "shorts": "#111111",
+    "socks": "#111111",
+    "num": "#FFD200"
+   }
+  },
+  "xi": [
+   [
+    40,
+    "Robin Risser",
+    "GK",
+    75
+   ],
+   [
+    24,
+    "Jonathan Gradit",
+    "CB",
+    76
+   ],
+   [
+    14,
+    "Matthieu Udol",
+    "CB",
+    75
+   ],
+   [
+    20,
+    "Jean-Clair Todibo",
+    "CB",
+    74
+   ],
+   [
+    2,
+    "Ruben Aguilar",
+    "RWB",
+    75
+   ],
+   [
+    8,
+    "Yacine Titraoui",
+    "CM",
+    73
+   ],
+   [
+    21,
+    "Amadou Haidara",
+    "DM",
+    72
+   ],
+   [
+    9,
+    "Thorgan Hazard",
+    "CM",
+    74
+   ],
+   [
+    13,
+    "Jhoanner Chávez",
+    "LWB",
+    74
+   ],
+   [
+    11,
+    "Odsonne Édouard",
+    "ST",
+    77
+   ],
+   [
+    10,
+    "Florian Thauvin",
+    "ST",
+    80
+   ]
+  ],
+  "bench": [
+   [
+    1,
+    "Régis Gurtner",
+    "GK",
+    66
+   ],
+   [
+    6,
+    "Samson Baidoo",
+    "CB",
+    74
+   ],
+   [
+    3,
+    "Maik Nawrocki",
+    "CB",
+    73
+   ],
+   [
+    27,
+    "Michaël Cuisance",
+    "CM",
+    71
+   ],
+   [
+    5,
+    "Andrija Bulatović",
+    "CM",
+    71
+   ],
+   [
+    19,
+    "Abdallah Sima",
+    "ST",
+    74
+   ],
+   [
+    28,
+    "Junior Kadile",
+    "ST",
+    73
+   ],
+   [
+    4,
+    "Nidal Čelik",
+    "CB",
+    72
+   ]
+  ]
+ },
+ {
+  "id": "VIK",
+  "name": "Viking",
+  "short": "VIK",
+  "city": "Stavanger",
+  "country": "Norveç",
+  "league": "Eliteserien",
+  "stadium": "SR-Bank Arena",
+  "capacity": 15900,
+  "manager": "Bjarte Lunde Aarsheim",
+  "founded": 1899,
+  "uclPot": 4,
+  "formation": "4-3-3",
+  "mentality": 0.6,
+  "kits": {
+   "home": {
+    "pattern": "plain",
+    "c1": "#1B3F8F",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#1B3F8F",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#1B3F8F"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#F2C500",
+    "c2": "#F2C500",
+    "shorts": "#F2C500",
+    "socks": "#F2C500",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    30,
+    "Ľubomír Belko",
+    "GK",
+    63
+   ],
+   [
+    2,
+    "Herman Haugen",
+    "RB",
+    72
+   ],
+   [
+    4,
+    "Martin Ove Roseth",
+    "CB",
+    67
+   ],
+   [
+    5,
+    "Henrik Heggheim",
+    "CB",
+    67
+   ],
+   [
+    18,
+    "Sondre Bjørshol",
+    "LB",
+    71
+   ],
+   [
+    8,
+    "Joe Bell",
+    "CM",
+    69
+   ],
+   [
+    6,
+    "Gianni Stensness",
+    "DM",
+    71
+   ],
+   [
+    26,
+    "Simen Kvia-Egeskog",
+    "CM",
+    71
+   ],
+   [
+    20,
+    "Peter Christiansen",
+    "RW",
+    66
+   ],
+   [
+    9,
+    "Nicholas D'Agostino",
+    "ST",
+    67
+   ],
+   [
+    10,
+    "Zlatko Tripić",
+    "LW",
+    73
+   ]
+  ],
+  "bench": [
+   [
+    12,
+    "Erlend Jacobsen",
+    "GK",
+    62
+   ],
+   [
+    3,
+    "Viljar Vevatne",
+    "CB",
+    66
+   ],
+   [
+    25,
+    "Henrik Falchener",
+    "CB",
+    66
+   ],
+   [
+    7,
+    "Kristoffer Askildsen",
+    "CM",
+    65
+   ],
+   [
+    16,
+    "Henrik Bjørdal",
+    "CM",
+    63
+   ],
+   [
+    11,
+    "Romano Postema",
+    "ST",
+    65
+   ],
+   [
+    22,
+    "Erik Botheim",
+    "ST",
+    64
+   ],
+   [
+    21,
+    "Anders Bærtelsen",
+    "CB",
+    66
+   ]
+  ]
+ },
+ {
+  "id": "SAB",
+  "name": "Sabah",
+  "short": "SAB",
+  "city": "Bakü",
+  "country": "Azerbaycan",
+  "league": "Premyer Liqa",
+  "stadium": "Bank Respublika Arena",
+  "capacity": 8969,
+  "manager": "Valdas Dambrauskas",
+  "founded": 2017,
+  "uclPot": 4,
+  "formation": "4-2-3-1",
+  "mentality": 0.5,
+  "kits": {
+   "home": {
+    "pattern": "stripes",
+    "c1": "#111111",
+    "c2": "#FFFFFF",
+    "shorts": "#111111",
+    "socks": "#111111",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#111111"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#F2C500",
+    "c2": "#F2C500",
+    "shorts": "#F2C500",
+    "socks": "#F2C500",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    92,
+    "Stas Pokatilov",
+    "GK",
+    67
+   ],
+   [
+    17,
+    "Tellur Mutallimov",
+    "RB",
+    62
+   ],
+   [
+    3,
+    "Steve Solvet",
+    "CB",
+    67
+   ],
+   [
+    5,
+    "Rahman Dashdamirov",
+    "CB",
+    67
+   ],
+   [
+    27,
+    "Tymoteusz Puchacz",
+    "LB",
+    68
+   ],
+   [
+    7,
+    "Umarali Rakhmonaliev",
+    "DM",
+    68
+   ],
+   [
+    10,
+    "Aleksey Isayev",
+    "DM",
+    69
+   ],
+   [
+    20,
+    "Joy-Lance Mickels",
+    "RW",
+    69
+   ],
+   [
+    11,
+    "Kaheem Parris",
+    "AM",
+    69
+   ],
+   [
+    8,
+    "Christian Nwachukwu",
+    "LW",
+    68
+   ],
+   [
+    99,
+    "Orphé Mbina",
+    "ST",
+    68
+   ]
+  ],
+  "bench": [
+   [
+    1,
+    "Amin Ramazanov",
+    "GK",
+    61
+   ],
+   [
+    33,
+    "Erivaldo Almeida",
+    "CB",
+    66
+   ],
+   [
+    4,
+    "Aden McCarthy",
+    "CB",
+    59
+   ],
+   [
+    13,
+    "Ivan Lepinjica",
+    "CM",
+    68
+   ],
+   [
+    22,
+    "Zinédine Ould Khaled",
+    "CM",
+    68
+   ],
+   [
+    21,
+    "Veljko Simić",
+    "RW",
+    68
+   ],
+   [
+    23,
+    "Younes Lachaab",
+    "LW",
+    67
+   ],
+   [
+    37,
+    "Du Queiroz",
+    "CM",
+    68
+   ]
+  ]
+ },
+ {
+  "id": "ALA",
+  "name": "Alanyaspor",
+  "short": "ALA",
+  "city": "Alanya",
+  "country": "Türkiye",
+  "league": "Süper Lig",
+  "stadium": "Alanya Oba Stadyumu",
+  "capacity": 9789,
+  "manager": "João Pereira",
+  "founded": 1948,
+  "uclPot": null,
+  "formation": "4-2-3-1",
+  "mentality": 0.5,
+  "kits": {
+   "home": {
+    "pattern": "stripes",
+    "c1": "#F37021",
+    "c2": "#00A651",
+    "shorts": "#F37021",
+    "socks": "#F37021",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#F37021"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#111111",
+    "c2": "#111111",
+    "shorts": "#111111",
+    "socks": "#111111",
+    "num": "#F37021"
+   }
+  },
+  "xi": [
+   [
+    23,
+    "Mert Bayram",
+    "GK",
+    64
+   ],
+   [
+    20,
+    "Fatih Aksoy",
+    "RB",
+    69
+   ],
+   [
+    3,
+    "Nuno Lima",
+    "CB",
+    70
+   ],
+   [
+    4,
+    "Bedirhan Özyurt",
+    "CB",
+    67
+   ],
+   [
+    5,
+    "Fidan Aliti",
+    "LB",
+    70
+   ],
+   [
+    88,
+    "Yusuf Özdemir",
+    "DM",
+    66
+   ],
+   [
+    8,
+    "Enes Keskin",
+    "DM",
+    68
+   ],
+   [
+    22,
+    "Paolo Fernandes",
+    "RW",
+    71
+   ],
+   [
+    7,
+    "İbrahim Kaya",
+    "AM",
+    71
+   ],
+   [
+    10,
+    "Ianis Hagi",
+    "LW",
+    70
+   ],
+   [
+    12,
+    "Meschak Elia",
+    "ST",
+    68
+   ]
+  ],
+  "bench": [
+   [
+    54,
+    "Yusuf Karagöz",
+    "GK",
+    64
+   ],
+   [
+    94,
+    "Florent Hadergjonaj",
+    "RB",
+    62
+   ],
+   [
+    58,
+    "Nejdet Bilin",
+    "CB",
+    61
+   ],
+   [
+    14,
+    "Emre Demir",
+    "AM",
+    65
+   ],
+   [
+    30,
+    "Maestro",
+    "CM",
+    64
+   ],
+   [
+    26,
+    "İzzet Çelik",
+    "RW",
+    68
+   ],
+   [
+    17,
+    "Arda Usluoğlu",
+    "ST",
+    67
+   ],
+   [
+    19,
+    "Iván Cédric",
+    "ST",
+    67
+   ]
+  ]
+ },
+ {
+  "id": "AMD",
+  "name": "Amedspor",
+  "short": "AMD",
+  "city": "Diyarbakır",
+  "country": "Türkiye",
+  "league": "Süper Lig",
+  "stadium": "Diyarbakır Stadyumu",
+  "capacity": 30480,
+  "manager": "Besnik Hasi",
+  "founded": 1972,
+  "uclPot": null,
+  "formation": "4-2-3-1",
+  "mentality": 0.5,
+  "kits": {
+   "home": {
+    "pattern": "halves",
+    "c1": "#E30613",
+    "c2": "#00843D",
+    "shorts": "#E30613",
+    "socks": "#E30613",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#E30613"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#F2C500",
+    "c2": "#F2C500",
+    "shorts": "#F2C500",
+    "socks": "#F2C500",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    27,
+    "Burak Bozan",
+    "GK",
+    66
+   ],
+   [
+    5,
+    "Lumbardh Dellova",
+    "RB",
+    66
+   ],
+   [
+    4,
+    "David Bates",
+    "CB",
+    69
+   ],
+   [
+    21,
+    "Mehmet Yeşil",
+    "CB",
+    66
+   ],
+   [
+    17,
+    "Umut Meraş",
+    "LB",
+    67
+   ],
+   [
+    18,
+    "Gökhan Gül",
+    "DM",
+    68
+   ],
+   [
+    6,
+    "Cem Üstündag",
+    "DM",
+    68
+   ],
+   [
+    7,
+    "Ermal Krasniqi",
+    "RW",
+    70
+   ],
+   [
+    22,
+    "Rayan Raveloson",
+    "AM",
+    66
+   ],
+   [
+    11,
+    "Yira Sor",
+    "LW",
+    69
+   ],
+   [
+    10,
+    "Samuel Ballet",
+    "ST",
+    65
+   ]
+  ],
+  "bench": [
+   [
+    40,
+    "Alban Lafont",
+    "GK",
+    63
+   ],
+   [
+    3,
+    "Miraç Acer",
+    "CB",
+    65
+   ],
+   [
+    47,
+    "Kahraman Demirtaş",
+    "CB",
+    62
+   ],
+   [
+    8,
+    "Furkan Soyalp",
+    "CM",
+    66
+   ],
+   [
+    93,
+    "Rayan Lutin",
+    "CM",
+    61
+   ],
+   [
+    99,
+    "Gift Orban",
+    "ST",
+    65
+   ],
+   [
+    19,
+    "Muhammed Yıldırım",
+    "ST",
+    61
+   ],
+   [
+    33,
+    "Amadou Cissé",
+    "CB",
+    62
+   ]
+  ]
+ },
+ {
+  "id": "IBFK",
+  "name": "Başakşehir",
+  "short": "BAŞ",
+  "city": "İstanbul",
+  "country": "Türkiye",
+  "league": "Süper Lig",
+  "stadium": "Başakşehir Fatih Terim Stadyumu",
+  "capacity": 17319,
+  "manager": "Nuri Şahin",
+  "founded": 1990,
+  "uclPot": null,
+  "formation": "4-2-3-1",
+  "mentality": 0.5,
+  "kits": {
+   "home": {
+    "pattern": "plain",
+    "c1": "#F47B20",
+    "c2": "#1E2A5A",
+    "shorts": "#1E2A5A",
+    "socks": "#F47B20",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#1E2A5A",
+    "c2": "#1E2A5A",
+    "shorts": "#1E2A5A",
+    "socks": "#1E2A5A",
+    "num": "#F47B20"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#2BB673",
+    "c2": "#2BB673",
+    "shorts": "#2BB673",
+    "socks": "#2BB673",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    16,
+    "Muhammed Şengezer",
+    "GK",
+    73
+   ],
+   [
+    42,
+    "Ömer Ali Şahiner",
+    "RB",
+    69
+   ],
+   [
+    3,
+    "Jerome Opoku",
+    "CB",
+    72
+   ],
+   [
+    23,
+    "Emin Bayram",
+    "CB",
+    72
+   ],
+   [
+    33,
+    "Michał Karbownik",
+    "LB",
+    71
+   ],
+   [
+    8,
+    "Olivier Kemen",
+    "DM",
+    75
+   ],
+   [
+    20,
+    "Umut Güneş",
+    "DM",
+    73
+   ],
+   [
+    77,
+    "Ivan Brnić",
+    "RW",
+    70
+   ],
+   [
+    11,
+    "Abbosbek Fayzullaev",
+    "AM",
+    73
+   ],
+   [
+    7,
+    "Yusuf Sarı",
+    "LW",
+    72
+   ],
+   [
+    17,
+    "Umut Bozok",
+    "ST",
+    71
+   ]
+  ],
+  "bench": [
+   [
+    1,
+    "Volkan Babacan",
+    "GK",
+    68
+   ],
+   [
+    27,
+    "Ousseynou Ba",
+    "CB",
+    71
+   ],
+   [
+    21,
+    "Christopher Opéri",
+    "LB",
+    71
+   ],
+   [
+    18,
+    "Jakub Kałuziński",
+    "CM",
+    71
+   ],
+   [
+    19,
+    "Berkay Özcan",
+    "CM",
+    71
+   ],
+   [
+    91,
+    "Bertuğ Yıldırım",
+    "ST",
+    71
+   ],
+   [
+    9,
+    "Davie Selke",
+    "ST",
+    70
+   ],
+   [
+    14,
+    "Eldor Shomurodov",
+    "ST",
+    70
+   ]
+  ]
+ },
+ {
+  "id": "BJK",
+  "existing": true,
+  "manager": "Vincenzo Italiano",
+  "capacity": 42684,
+  "founded": 1903,
+  "uclPot": null
+ },
+ {
+  "id": "COR",
+  "name": "Çorum FK",
+  "short": "ÇOR",
+  "city": "Çorum",
+  "country": "Türkiye",
+  "league": "Süper Lig",
+  "stadium": "Çorum Şehir Stadyumu",
+  "capacity": 13119,
+  "manager": "Uğur Uçar",
+  "founded": 1997,
+  "uclPot": null,
+  "formation": "4-2-3-1",
+  "mentality": 0.5,
+  "kits": {
+   "home": {
+    "pattern": "stripes",
+    "c1": "#E30613",
+    "c2": "#1F2A5C",
+    "shorts": "#1F2A5C",
+    "socks": "#E30613",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#E30613"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#F2C500",
+    "c2": "#F2C500",
+    "shorts": "#F2C500",
+    "socks": "#F2C500",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    1,
+    "Marcos Felipe",
+    "GK",
+    67
+   ],
+   [
+    5,
+    "Alexandre Penetra",
+    "RB",
+    69
+   ],
+   [
+    6,
+    "Hrvoje Smolčić",
+    "CB",
+    70
+   ],
+   [
+    4,
+    "Serdar Saatçı",
+    "CB",
+    67
+   ],
+   [
+    88,
+    "Cemali Sertel",
+    "LB",
+    65
+   ],
+   [
+    20,
+    "Ylber Ramadani",
+    "DM",
+    66
+   ],
+   [
+    3,
+    "Berat Özdemir",
+    "DM",
+    66
+   ],
+   [
+    89,
+    "Alexandros Kyziridis",
+    "RW",
+    63
+   ],
+   [
+    26,
+    "Ermin Mahmić",
+    "AM",
+    65
+   ],
+   [
+    23,
+    "Cengiz Ünder",
+    "LW",
+    66
+   ],
+   [
+    19,
+    "Jesús Ramírez",
+    "ST",
+    67
+   ]
+  ],
+  "bench": [
+   [
+    18,
+    "Erhan Erentürk",
+    "GK",
+    67
+   ],
+   [
+    58,
+    "Çağlar Söyüncü",
+    "CB",
+    66
+   ],
+   [
+    22,
+    "Hüseyin Bulut",
+    "CB",
+    63
+   ],
+   [
+    11,
+    "Gökhan Sazdağı",
+    "CM",
+    67
+   ],
+   [
+    30,
+    "Ahmed Ildız",
+    "CM",
+    67
+   ],
+   [
+    17,
+    "Emircan Gürlük",
+    "LW",
+    65
+   ],
+   [
+    57,
+    "Youssoufa Moukoko",
+    "ST",
+    64
+   ],
+   [
+    8,
+    "Markus Karlsbakk",
+    "CM",
+    65
+   ]
+  ]
+ },
+ {
+  "id": "ERZ",
+  "name": "Erzurumspor",
+  "short": "ERZ",
+  "city": "Erzurum",
+  "country": "Türkiye",
+  "league": "Süper Lig",
+  "stadium": "Kazım Karabekir Stadyumu",
+  "capacity": 21374,
+  "manager": "Serkan Özbalta",
+  "founded": 2005,
+  "uclPot": null,
+  "formation": "4-2-3-1",
+  "mentality": 0.45,
+  "kits": {
+   "home": {
+    "pattern": "stripes",
+    "c1": "#1B4FA0",
+    "c2": "#FFFFFF",
+    "shorts": "#1B4FA0",
+    "socks": "#1B4FA0",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#1B4FA0"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#F2C500",
+    "c2": "#F2C500",
+    "shorts": "#F2C500",
+    "socks": "#F2C500",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    17,
+    "Erkan Anapa",
+    "GK",
+    63
+   ],
+   [
+    2,
+    "Festy Ebosele",
+    "RB",
+    65
+   ],
+   [
+    4,
+    "Amar Gërxhaliu",
+    "CB",
+    68
+   ],
+   [
+    3,
+    "Yakup Kırtay",
+    "CB",
+    67
+   ],
+   [
+    15,
+    "Guram Giorbelidze",
+    "LB",
+    66
+   ],
+   [
+    8,
+    "Sefa Akgün",
+    "DM",
+    69
+   ],
+   [
+    6,
+    "Brandon Baiye",
+    "DM",
+    67
+   ],
+   [
+    20,
+    "Miguel Cardoso",
+    "RW",
+    63
+   ],
+   [
+    65,
+    "Martín Rodríguez",
+    "AM",
+    63
+   ],
+   [
+    9,
+    "Gyrano Kerk",
+    "LW",
+    68
+   ],
+   [
+    19,
+    "Ibrahim Diabate",
+    "ST",
+    67
+   ]
+  ],
+  "bench": [
+   [
+    1,
+    "Ertuğrul Taşkıran",
+    "GK",
+    62
+   ],
+   [
+    18,
+    "Nihad Mujakić",
+    "CB",
+    65
+   ],
+   [
+    23,
+    "Cengizhan Bayrak",
+    "CB",
+    64
+   ],
+   [
+    42,
+    "Elisha Owusu",
+    "CM",
+    64
+   ],
+   [
+    54,
+    "Lawrence Agyekum",
+    "CM",
+    60
+   ],
+   [
+    10,
+    "Eren Tozlu",
+    "ST",
+    61
+   ],
+   [
+    90,
+    "Nariman Akhundzade",
+    "RW",
+    60
+   ],
+   [
+    22,
+    "Mustafa Yumlu",
+    "CB",
+    61
+   ]
+  ]
+ },
+ {
+  "id": "EYP",
+  "name": "Eyüpspor",
+  "short": "EYP",
+  "city": "İstanbul",
+  "country": "Türkiye",
+  "league": "Süper Lig",
+  "stadium": "Recep Tayyip Erdoğan Stadyumu",
+  "capacity": 14234,
+  "manager": "Özhan Pulat",
+  "founded": 1919,
+  "uclPot": null,
+  "formation": "4-2-3-1",
+  "mentality": 0.5,
+  "kits": {
+   "home": {
+    "pattern": "stripes",
+    "c1": "#6A2C91",
+    "c2": "#FFD200",
+    "shorts": "#6A2C91",
+    "socks": "#6A2C91",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#6A2C91"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#2BB673",
+    "c2": "#2BB673",
+    "shorts": "#2BB673",
+    "socks": "#2BB673",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    1,
+    "Emre Bilgin",
+    "GK",
+    71
+   ],
+   [
+    7,
+    "Talha Ülvan",
+    "RB",
+    73
+   ],
+   [
+    4,
+    "Anıl Yaşar",
+    "CB",
+    70
+   ],
+   [
+    5,
+    "Jawad El Yamiq",
+    "CB",
+    68
+   ],
+   [
+    21,
+    "Simone Giordano",
+    "LB",
+    71
+   ],
+   [
+    18,
+    "Hamza Akman",
+    "DM",
+    70
+   ],
+   [
+    15,
+    "Charles-André Raux-Yao",
+    "DM",
+    67
+   ],
+   [
+    77,
+    "Konrad Michalak",
+    "RW",
+    68
+   ],
+   [
+    8,
+    "David Costa",
+    "AM",
+    71
+   ],
+   [
+    11,
+    "Lenny Pintor",
+    "LW",
+    70
+   ],
+   [
+    9,
+    "Yusuf Barası",
+    "ST",
+    70
+   ]
+  ],
+  "bench": [
+   [
+    31,
+    "Horațiu Moldovan",
+    "GK",
+    70
+   ],
+   [
+    3,
+    "Arda Yavuz",
+    "CB",
+    68
+   ],
+   [
+    33,
+    "Zak Jules",
+    "CB",
+    67
+   ],
+   [
+    10,
+    "Abdelhamid Sabiri",
+    "AM",
+    69
+   ],
+   [
+    88,
+    "Chandrel Massanga",
+    "CM",
+    67
+   ],
+   [
+    29,
+    "Ahmed Abdullahi",
+    "ST",
+    69
+   ],
+   [
+    98,
+    "Bilal Boutobba",
+    "LW",
+    69
+   ],
+   [
+    70,
+    "Mete Demir",
+    "RW",
+    66
+   ]
+  ]
+ },
+ {
+  "id": "GFK",
+  "name": "Gaziantep FK",
+  "short": "GAZ",
+  "city": "Gaziantep",
+  "country": "Türkiye",
+  "league": "Süper Lig",
+  "stadium": "Gaziantep Stadyumu",
+  "capacity": 30320,
+  "manager": "Orhan Ak",
+  "founded": 1988,
+  "uclPot": null,
+  "formation": "4-2-3-1",
+  "mentality": 0.5,
+  "kits": {
+   "home": {
+    "pattern": "stripes",
+    "c1": "#E30613",
+    "c2": "#000000",
+    "shorts": "#000000",
+    "socks": "#E30613",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#E30613"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#F2C500",
+    "c2": "#F2C500",
+    "shorts": "#F2C500",
+    "socks": "#F2C500",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    25,
+    "Kacper Tobiasz",
+    "GK",
+    69
+   ],
+   [
+    2,
+    "Luis Pérez",
+    "RB",
+    71
+   ],
+   [
+    6,
+    "Ulrich Meleke",
+    "CB",
+    70
+   ],
+   [
+    4,
+    "Arda Kızıldağ",
+    "CB",
+    70
+   ],
+   [
+    23,
+    "Kerim Çalhanoğlu",
+    "LB",
+    71
+   ],
+   [
+    3,
+    "Drissa Camara",
+    "DM",
+    71
+   ],
+   [
+    61,
+    "Ogün Özçiçek",
+    "DM",
+    67
+   ],
+   [
+    27,
+    "Enver Kulašin",
+    "RW",
+    67
+   ],
+   [
+    8,
+    "Victor Gidado",
+    "AM",
+    68
+   ],
+   [
+    11,
+    "Mirza Cihan",
+    "LW",
+    67
+   ],
+   [
+    28,
+    "Halil Dervişoğlu",
+    "ST",
+    70
+   ]
+  ],
+  "bench": [
+   [
+    30,
+    "Ataberk Dadakdeniz",
+    "GK",
+    64
+   ],
+   [
+    14,
+    "Myenty Abena",
+    "CB",
+    69
+   ],
+   [
+    18,
+    "Deian Sorescu",
+    "RB",
+    67
+   ],
+   [
+    10,
+    "Kacper Kozłowski",
+    "CM",
+    68
+   ],
+   [
+    7,
+    "Juninho Bacuna",
+    "CM",
+    68
+   ],
+   [
+    9,
+    "Trivante Stewart",
+    "ST",
+    70
+   ],
+   [
+    22,
+    "Sontje Hansen",
+    "RW",
+    67
+   ],
+   [
+    62,
+    "Abakar Sylla",
+    "CB",
+    65
+   ]
+  ]
+ },
+ {
+  "id": "GB",
+  "name": "Gençlerbirliği",
+  "short": "GEN",
+  "city": "Ankara",
+  "country": "Türkiye",
+  "league": "Süper Lig",
+  "stadium": "Eryaman Stadyumu",
+  "capacity": 20560,
+  "manager": "Metin Diyadin",
+  "founded": 1923,
+  "uclPot": null,
+  "formation": "4-2-3-1",
+  "mentality": 0.5,
+  "kits": {
+   "home": {
+    "pattern": "halves",
+    "c1": "#E30613",
+    "c2": "#000000",
+    "shorts": "#000000",
+    "socks": "#E30613",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#E30613"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#2BB673",
+    "c2": "#2BB673",
+    "shorts": "#2BB673",
+    "socks": "#2BB673",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    23,
+    "Gökhan Akkan",
+    "GK",
+    66
+   ],
+   [
+    13,
+    "Pedro Pereira",
+    "RB",
+    68
+   ],
+   [
+    2,
+    "Thalisson",
+    "CB",
+    68
+   ],
+   [
+    6,
+    "Dimitrios Goutas",
+    "CB",
+    67
+   ],
+   [
+    77,
+    "Abdurrahim Dursun",
+    "LB",
+    67
+   ],
+   [
+    35,
+    "Oğulcan Ülgün",
+    "DM",
+    69
+   ],
+   [
+    19,
+    "Cheikh Niasse",
+    "DM",
+    66
+   ],
+   [
+    7,
+    "Tiago Gouveia",
+    "RW",
+    71
+   ],
+   [
+    5,
+    "Peter Etebo",
+    "AM",
+    69
+   ],
+   [
+    10,
+    "Franco Tongya",
+    "LW",
+    69
+   ],
+   [
+    59,
+    "Pedro Mendes",
+    "ST",
+    65
+   ]
+  ],
+  "bench": [
+   [
+    70,
+    "İrfan Can Eğribayat",
+    "GK",
+    66
+   ],
+   [
+    3,
+    "Hamza Aydar",
+    "CB",
+    66
+   ],
+   [
+    55,
+    "Kévin Rodrigues",
+    "LB",
+    65
+   ],
+   [
+    88,
+    "Fıratcan Üzüm",
+    "CM",
+    63
+   ],
+   [
+    60,
+    "Rafael Luís",
+    "DM",
+    62
+   ],
+   [
+    14,
+    "Adama Traoré",
+    "RW",
+    65
+   ],
+   [
+    20,
+    "Sékou Koïta",
+    "ST",
+    65
+   ],
+   [
+    15,
+    "Arda Çağan Çelik",
+    "CB",
+    63
+   ]
+  ]
+ },
+ {
+  "id": "GOZ",
+  "name": "Göztepe",
+  "short": "GÖZ",
+  "city": "İzmir",
+  "country": "Türkiye",
+  "league": "Süper Lig",
+  "stadium": "Gürsel Aksel Stadyumu",
+  "capacity": 20035,
+  "manager": "Stanimir Stoilov",
+  "founded": 1925,
+  "uclPot": null,
+  "formation": "3-5-2",
+  "mentality": 0.55,
+  "kits": {
+   "home": {
+    "pattern": "stripes",
+    "c1": "#F5B800",
+    "c2": "#E30613",
+    "shorts": "#E30613",
+    "socks": "#F5B800",
+    "num": "#000000"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#E30613"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#111111",
+    "c2": "#111111",
+    "shorts": "#111111",
+    "socks": "#111111",
+    "num": "#F5B800"
+   }
+  },
+  "xi": [
+   [
+    25,
+    "Luka Gugeshashvili",
+    "GK",
+    72
+   ],
+   [
+    4,
+    "Taha Altıkardeş",
+    "CB",
+    74
+   ],
+   [
+    26,
+    "Malcom Bokele",
+    "CB",
+    73
+   ],
+   [
+    23,
+    "Furkan Bayır",
+    "CB",
+    72
+   ],
+   [
+    16,
+    "Ogün Bayrak",
+    "RWB",
+    74
+   ],
+   [
+    10,
+    "Efkan Bekiroğlu",
+    "CM",
+    74
+   ],
+   [
+    5,
+    "Rhaldney",
+    "DM",
+    75
+   ],
+   [
+    8,
+    "Alexis Antunes",
+    "CM",
+    74
+   ],
+   [
+    20,
+    "Novatus Miroshi",
+    "LWB",
+    74
+   ],
+   [
+    39,
+    "Janderson",
+    "ST",
+    72
+   ],
+   [
+    9,
+    "Juan",
+    "ST",
+    73
+   ]
+  ],
+  "bench": [
+   [
+    1,
+    "Arda Özçimen",
+    "GK",
+    72
+   ],
+   [
+    13,
+    "Ege Yıldırım",
+    "CB",
+    71
+   ],
+   [
+    3,
+    "Allan Godói",
+    "CB",
+    70
+   ],
+   [
+    6,
+    "Alex Matos",
+    "DM",
+    72
+   ],
+   [
+    54,
+    "Tino Anjorin",
+    "AM",
+    67
+   ],
+   [
+    17,
+    "Gökdeniz Bayrakdar",
+    "RW",
+    72
+   ],
+   [
+    7,
+    "André Henrique",
+    "ST",
+    71
+   ],
+   [
+    2,
+    "Arda Okan Kurtulan",
+    "RW",
+    71
+   ]
+  ]
+ },
+ {
+  "id": "KAS",
+  "name": "Kasımpaşa",
+  "short": "KAS",
+  "city": "İstanbul",
+  "country": "Türkiye",
+  "league": "Süper Lig",
+  "stadium": "Recep Tayyip Erdoğan Stadyumu",
+  "capacity": 14234,
+  "manager": "Emre Belözoğlu",
+  "founded": 1921,
+  "uclPot": null,
+  "formation": "4-2-3-1",
+  "mentality": 0.5,
+  "kits": {
+   "home": {
+    "pattern": "stripes",
+    "c1": "#1B3F8F",
+    "c2": "#FFFFFF",
+    "shorts": "#1B3F8F",
+    "socks": "#1B3F8F",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#1B3F8F"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#F2C500",
+    "c2": "#F2C500",
+    "shorts": "#F2C500",
+    "socks": "#F2C500",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    25,
+    "Ali Emre Yanar",
+    "GK",
+    70
+   ],
+   [
+    2,
+    "Cláudio Winck",
+    "RB",
+    69
+   ],
+   [
+    4,
+    "Adem Arous",
+    "CB",
+    70
+   ],
+   [
+    24,
+    "Salih Arıcı",
+    "CB",
+    68
+   ],
+   [
+    5,
+    "Jakob Jessen",
+    "LB",
+    71
+   ],
+   [
+    8,
+    "Atakan Müjde",
+    "DM",
+    72
+   ],
+   [
+    26,
+    "Kerem Demirbay",
+    "DM",
+    70
+   ],
+   [
+    19,
+    "Marcus Rafferty",
+    "RW",
+    70
+   ],
+   [
+    10,
+    "Haris Hajradinović",
+    "AM",
+    72
+   ],
+   [
+    11,
+    "Thiemoko Diarra",
+    "LW",
+    70
+   ],
+   [
+    7,
+    "Ali Yavuz Kol",
+    "ST",
+    72
+   ]
+  ],
+  "bench": [
+   [
+    1,
+    "Andreas Gianniotis",
+    "GK",
+    67
+   ],
+   [
+    27,
+    "Matei Ilie",
+    "CB",
+    68
+   ],
+   [
+    45,
+    "Ayberk Karapo",
+    "CB",
+    68
+   ],
+   [
+    34,
+    "Fousseni Diabaté",
+    "AM",
+    68
+   ],
+   [
+    16,
+    "Andri Fannar Baldursson",
+    "CM",
+    67
+   ],
+   [
+    9,
+    "Adrian Benedyczak",
+    "ST",
+    69
+   ],
+   [
+    23,
+    "Sinan Alkaş",
+    "ST",
+    68
+   ],
+   [
+    14,
+    "Kévin Mouanga",
+    "CB",
+    68
+   ]
+  ]
+ },
+ {
+  "id": "KOC",
+  "name": "Kocaelispor",
+  "short": "KOC",
+  "city": "İzmit",
+  "country": "Türkiye",
+  "league": "Süper Lig",
+  "stadium": "Kocaeli Stadyumu",
+  "capacity": 34829,
+  "manager": "Selçuk İnan",
+  "founded": 1966,
+  "uclPot": null,
+  "formation": "4-2-3-1",
+  "mentality": 0.5,
+  "kits": {
+   "home": {
+    "pattern": "stripes",
+    "c1": "#00843D",
+    "c2": "#000000",
+    "shorts": "#000000",
+    "socks": "#00843D",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#00843D"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#F2C500",
+    "c2": "#F2C500",
+    "shorts": "#F2C500",
+    "socks": "#F2C500",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    23,
+    "Onurcan Piri",
+    "GK",
+    67
+   ],
+   [
+    22,
+    "Uğur Kaan Yıldız",
+    "RB",
+    68
+   ],
+   [
+    4,
+    "Tanguy Zoukrou",
+    "CB",
+    69
+   ],
+   [
+    5,
+    "Emir Ortakaya",
+    "CB",
+    69
+   ],
+   [
+    6,
+    "Matej Maglica",
+    "LB",
+    70
+   ],
+   [
+    20,
+    "Mahamadou Susoho",
+    "DM",
+    65
+   ],
+   [
+    14,
+    "Show",
+    "DM",
+    66
+   ],
+   [
+    8,
+    "Tobias Gulliksen",
+    "RW",
+    69
+   ],
+   [
+    10,
+    "Berkan Kutlu",
+    "AM",
+    71
+   ],
+   [
+    32,
+    "Makana Baku",
+    "LW",
+    66
+   ],
+   [
+    7,
+    "Dan Agyei",
+    "ST",
+    70
+   ]
+  ],
+  "bench": [
+   [
+    56,
+    "Aleksandar Jovanović",
+    "GK",
+    63
+   ],
+   [
+    2,
+    "Anfernee Dijksteel",
+    "RB",
+    67
+   ],
+   [
+    75,
+    "Tayfur Bingöl",
+    "RB",
+    65
+   ],
+   [
+    27,
+    "Ege Bilim",
+    "CM",
+    64
+   ],
+   [
+    89,
+    "Bedirhan Yıldız",
+    "CM",
+    58
+   ],
+   [
+    17,
+    "Arda Özyar",
+    "ST",
+    68
+   ],
+   [
+    26,
+    "Metehan Altunbaş",
+    "ST",
+    67
+   ],
+   [
+    97,
+    "Florian Ayé",
+    "ST",
+    66
+   ]
+  ]
+ },
+ {
+  "id": "KON",
+  "name": "Konyaspor",
+  "short": "KON",
+  "city": "Konya",
+  "country": "Türkiye",
+  "league": "Süper Lig",
+  "stadium": "Konya Büyükşehir Stadyumu",
+  "capacity": 41600,
+  "manager": "İlhan Palut",
+  "founded": 1922,
+  "uclPot": null,
+  "formation": "4-2-3-1",
+  "mentality": 0.5,
+  "kits": {
+   "home": {
+    "pattern": "stripes",
+    "c1": "#00843D",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#00843D",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#00843D"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#111111",
+    "c2": "#111111",
+    "shorts": "#111111",
+    "socks": "#111111",
+    "num": "#00843D"
+   }
+  },
+  "xi": [
+   [
+    13,
+    "Bahadır Han Güngördü",
+    "GK",
+    69
+   ],
+   [
+    2,
+    "Ahmet Oğuz",
+    "RB",
+    71
+   ],
+   [
+    4,
+    "Adil Demirbağ",
+    "CB",
+    74
+   ],
+   [
+    5,
+    "Uğurcan Yazğılı",
+    "CB",
+    71
+   ],
+   [
+    26,
+    "Arthur Masuaku",
+    "LB",
+    69
+   ],
+   [
+    8,
+    "Marko Jevtović",
+    "DM",
+    70
+   ],
+   [
+    9,
+    "Deniz Türüç",
+    "DM",
+    71
+   ],
+   [
+    19,
+    "Ebrima Colley",
+    "RW",
+    69
+   ],
+   [
+    10,
+    "Enis Bardhi",
+    "AM",
+    71
+   ],
+   [
+    7,
+    "Diogo Gonçalves",
+    "LW",
+    73
+   ],
+   [
+    11,
+    "Jackson Muleka",
+    "ST",
+    69
+   ]
+  ],
+  "bench": [
+   [
+    1,
+    "Deniz Ertaş",
+    "GK",
+    66
+   ],
+   [
+    15,
+    "Chidozie Awaziem",
+    "CB",
+    70
+   ],
+   [
+    3,
+    "Arif Boşluk",
+    "LB",
+    69
+   ],
+   [
+    24,
+    "Mücahit İbrahimoğlu",
+    "CM",
+    68
+   ],
+   [
+    25,
+    "Ömer Çobanoğlu",
+    "CM",
+    68
+   ],
+   [
+    91,
+    "Jean-Luc Dompé",
+    "LW",
+    69
+   ],
+   [
+    94,
+    "Enis Destan",
+    "ST",
+    65
+   ],
+   [
+    42,
+    "Mostafa Mohamed",
+    "CB",
+    68
+   ]
+  ]
+ },
+ {
+  "id": "RIZ",
+  "name": "Çaykur Rizespor",
+  "short": "RİZ",
+  "city": "Rize",
+  "country": "Türkiye",
+  "league": "Süper Lig",
+  "stadium": "Rize Şehir Stadyumu",
+  "capacity": 14879,
+  "manager": "Recep Uçar",
+  "founded": 1953,
+  "uclPot": null,
+  "formation": "4-2-3-1",
+  "mentality": 0.5,
+  "kits": {
+   "home": {
+    "pattern": "stripes",
+    "c1": "#00843D",
+    "c2": "#1B3F8F",
+    "shorts": "#00843D",
+    "socks": "#00843D",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#00843D"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#F2C500",
+    "c2": "#F2C500",
+    "shorts": "#F2C500",
+    "socks": "#F2C500",
+    "num": "#000000"
+   }
+  },
+  "xi": [
+   [
+    30,
+    "Zafer Görgen",
+    "GK",
+    69
+   ],
+   [
+    37,
+    "Muhammet Taha Şahin",
+    "RB",
+    68
+   ],
+   [
+    5,
+    "Tayyip Talha Sanuç",
+    "CB",
+    69
+   ],
+   [
+    4,
+    "Attila Mocsi",
+    "CB",
+    69
+   ],
+   [
+    7,
+    "Valentin Mihăilă",
+    "LB",
+    72
+   ],
+   [
+    14,
+    "Taylan Antalyalı",
+    "DM",
+    68
+   ],
+   [
+    20,
+    "Qazim Laçi",
+    "DM",
+    68
+   ],
+   [
+    10,
+    "Ibrahim Olawoyin",
+    "RW",
+    70
+   ],
+   [
+    8,
+    "Dal Varešanović",
+    "AM",
+    69
+   ],
+   [
+    11,
+    "Adedire Mebude",
+    "LW",
+    70
+   ],
+   [
+    23,
+    "Ahmed Kutucu",
+    "ST",
+    69
+   ]
+  ],
+  "bench": [
+   [
+    75,
+    "Yahia Fofana",
+    "GK",
+    64
+   ],
+   [
+    2,
+    "Husniddin Aliqulov",
+    "CB",
+    68
+   ],
+   [
+    19,
+    "Umut Erdem",
+    "CB",
+    66
+   ],
+   [
+    6,
+    "Moussa Diakité",
+    "CM",
+    68
+   ],
+   [
+    59,
+    "Can Bozdoğan",
+    "CM",
+    68
+   ],
+   [
+    9,
+    "Ali Sowe",
+    "ST",
+    68
+   ],
+   [
+    99,
+    "Emrecan Bulut",
+    "RW",
+    66
+   ],
+   [
+    60,
+    "Gennaro Borrelli",
+    "ST",
+    66
+   ]
+  ]
+ },
+ {
+  "id": "SAM",
+  "name": "Samsunspor",
+  "short": "SAM",
+  "city": "Samsun",
+  "country": "Türkiye",
+  "league": "Süper Lig",
+  "stadium": "Samsun 19 Mayıs Stadyumu",
+  "capacity": 33919,
+  "manager": "Thorsten Fink",
+  "founded": 1965,
+  "uclPot": null,
+  "formation": "4-2-3-1",
+  "mentality": 0.55,
+  "kits": {
+   "home": {
+    "pattern": "stripes",
+    "c1": "#E30613",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#E30613",
+    "num": "#FFFFFF"
+   },
+   "away": {
+    "pattern": "plain",
+    "c1": "#FFFFFF",
+    "c2": "#FFFFFF",
+    "shorts": "#FFFFFF",
+    "socks": "#FFFFFF",
+    "num": "#E30613"
+   },
+   "gk": {
+    "pattern": "plain",
+    "c1": "#111111",
+    "c2": "#111111",
+    "shorts": "#111111",
+    "socks": "#111111",
+    "num": "#E30613"
+   }
+  },
+  "xi": [
+   [
+    25,
+    "Bilal Bayazıt",
+    "GK",
+    74
+   ],
+   [
+    2,
+    "Joe Mendes",
+    "RB",
+    74
+   ],
+   [
+    16,
+    "Strahinja Eraković",
+    "CB",
+    73
+   ],
+   [
+    3,
+    "Igor Drapiński",
+    "CB",
+    73
+   ],
+   [
+    17,
+    "Logi Tómasson",
+    "LB",
+    72
+   ],
+   [
+    4,
+    "Elliot Watt",
+    "DM",
+    75
+   ],
+   [
+    20,
+    "Yalçın Kayan",
+    "DM",
+    74
+   ],
+   [
+    7,
+    "Elayis Tavsan",
+    "RW",
+    73
+   ],
+   [
+    8,
+    "Samed Onur",
+    "AM",
+    75
+   ],
+   [
+    10,
+    "Tanguy Coulibaly",
+    "LW",
+    74
+   ],
+   [
+    9,
+    "Marius Mouandilmadji",
+    "ST",
+    74
+   ]
+  ],
+  "bench": [
+   [
+    1,
+    "Okan Kocuk",
+    "GK",
+    73
+   ],
+   [
+    34,
+    "Gabriele Guarino",
+    "CB",
+    73
+   ],
+   [
+    22,
+    "Yunus Emre Çift",
+    "CB",
+    71
+   ],
+   [
+    5,
+    "Celil Yüksel",
+    "CM",
+    73
+   ],
+   [
+    19,
+    "Oskar Øhlenschlæger",
+    "CM",
+    71
+   ],
+   [
+    14,
+    "Fatih Kaya",
+    "ST",
+    74
+   ],
+   [
+    15,
+    "Jaurès Assoumou",
+    "ST",
+    74
+   ],
+   [
+    11,
+    "Emre Kılınç",
+    "LW",
+    73
+   ]
+  ]
+ },
+ {
+  "id": "TS",
+  "existing": true,
+  "manager": "Hüseyin Çimşir",
+  "capacity": 40980,
+  "founded": 1967,
+  "uclPot": null
+ }
+]

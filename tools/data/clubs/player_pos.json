@@ -1,0 +1,5570 @@
+{
+"Achraf Hakimi": {
+"pos": "Right-back",
+"born": 1998
+},
+"Lucas Beraldo": {
+"pos": "",
+"born": 2003
+},
+"Marquinhos": {
+"pos": "Centre-back",
+"born": 1994
+},
+"Illia Zabarnyi": {
+"pos": "Centre-back",
+"born": 2002
+},
+"Khvicha Kvaratskhelia": {
+"pos": "Left winger",
+"born": 2001
+},
+"Fabián Ruiz": {
+"pos": "Central midfielder",
+"born": 1996
+},
+"Ferran Torres": {
+"pos": "Forward",
+"born": 2000
+},
+"Ousmane Dembélé": {
+"pos": "Forward, right winger",
+"born": 1997
+},
+"Maghnes Akliouche": {
+"pos": "Attacking midfielder, right winger",
+"born": 2002
+},
+"Lucas Digne": {
+"pos": "Left-back",
+"born": 1993
+},
+"Désiré Doué": {
+"pos": "Attacking midfielder, winger",
+"born": 2005
+},
+"Alessandro Longoni": {
+"pos": "Goalkeeper",
+"born": 2008
+},
+"Vitinha (footballer, born February 2000)": {
+"pos": "Central midfielder",
+"born": 2000
+},
+"Lucas Hernandez": {
+"pos": "Centre-back, left-back",
+"born": 1996
+},
+"Mika Godts": {
+"pos": "Left winger",
+"born": 2005
+},
+"Senny Mayulu": {
+"pos": "Midfielder",
+"born": 2006
+},
+"Nuno Mendes (footballer, born 2002)": {
+"pos": "Left-back",
+"born": 2002
+},
+"Dro Fernández": {
+"pos": "Attacking midfielder, left winger",
+"born": 2008
+},
+"Lucas Chevalier": {
+"pos": "Goalkeeper",
+"born": 2001
+},
+"Warren Zaïre-Emery": {
+"pos": "Midfielder",
+"born": 2006
+},
+"Matvey Safonov": {
+"pos": "Goalkeeper",
+"born": 1999
+},
+"Quentin Ndjantou": {
+"pos": "Forward, left winger, attacking midfielder",
+"born": 2007
+},
+"Willian Pacho": {
+"pos": "Centre-back",
+"born": 2001
+},
+"João Neves": {
+"pos": "Midfielder",
+"born": 2004
+},
+"Manuel Neuer": {
+"pos": "Goalkeeper",
+"born": 1986
+},
+"Dayot Upamecano": {
+"pos": "Centre-back",
+"born": 1998
+},
+"Kim Min-jae (footballer)": {
+"pos": "Centre-back",
+"born": 1996
+},
+"Jonathan Tah": {
+"pos": "Centre-back",
+"born": 1996
+},
+"Joshua Kimmich": {
+"pos": "",
+"born": 1995
+},
+"Serge Gnabry": {
+"pos": "",
+"born": 1995
+},
+"Tom Bischof": {
+"pos": "Midfielder; Full-back",
+"born": 2005
+},
+"Harry Kane": {
+"pos": "Striker",
+"born": 1993
+},
+"Jamal Musiala": {
+"pos": "Attacking midfielder",
+"born": 2003
+},
+"Nathaniel Brown (footballer)": {
+"pos": "Left-back",
+"born": 2003
+},
+"Luis Díaz (footballer, born 1997)": {
+"pos": "Left winger, left midfielder",
+"born": 1997
+},
+"Michael Olise": {
+"pos": "",
+"born": 2001
+},
+"Alphonso Davies": {
+"pos": "",
+"born": 2000
+},
+"Hiroki Itō (footballer, born 1999)": {
+"pos": "",
+"born": 1999
+},
+"Sacha Boey": {
+"pos": "",
+"born": 2000
+},
+"Sven Ulreich": {
+"pos": "Goalkeeper",
+"born": 1988
+},
+"Konrad Laimer": {
+"pos": "",
+"born": 1997
+},
+"Ismael Saibari": {
+"pos": "",
+"born": 2001
+},
+"Bara Sapoko Ndiaye": {
+"pos": "Midfielder",
+"born": 2007
+},
+"Jonas Urbig": {
+"pos": "Goalkeeper",
+"born": 2003
+},
+"Lennart Karl": {
+"pos": "",
+"born": 2008
+},
+"Josip Stanišić": {
+"pos": "",
+"born": 2000
+},
+"Aleksandar Pavlović (footballer)": {
+"pos": "Defensive midfielder",
+"born": 2004
+},
+"David Santos Daiber": {
+"pos": "Midfielder",
+"born": 2007
+},
+"Cassiano Kiala": {
+"pos": "Defender",
+"born": 2009
+},
+"Jannis Bärtl": {
+"pos": "Goalkeeper",
+"born": 2006
+},
+"Filip Pavić": {
+"pos": "",
+"born": 2010
+},
+"Tim Binder": {
+"pos": "",
+"born": 2007
+},
+"Bastian Assomo": {
+"pos": "Striker",
+"born": 2010
+},
+"Maycon Cardozo": {
+"pos": "",
+"born": 2008
+},
+"Leon Klanac": {
+"pos": "Goalkeeper",
+"born": 2007
+},
+"Leonard Prescott": {
+"pos": "Goalkeeper",
+"born": 2009
+},
+"Tarek Buchmann": {
+"pos": "Centre-back",
+"born": 2005
+},
+"Vincent Manuba": {
+"pos": "",
+"born": 2005
+},
+"Guido Della Rovere": {
+"pos": "Midfielder",
+"born": 2007
+},
+"Erblin Osmani": {
+"pos": "Midfielder",
+"born": 2009
+},
+"Thibaut Courtois": {
+"pos": "Goalkeeper",
+"born": 1992
+},
+"Raúl Asencio (footballer, born 2003)": {
+"pos": "Centre-back",
+"born": 2003
+},
+"Éder Militão": {
+"pos": "Centre-back",
+"born": 1998
+},
+"Dean Huijsen": {
+"pos": "Centre-back",
+"born": 2005
+},
+"Jude Bellingham": {
+"pos": "Attacking midfielder, central midfielder",
+"born": 2003
+},
+"Eduardo Camavinga": {
+"pos": "Midfielder, left-back",
+"born": 2002
+},
+"Vinícius Júnior": {
+"pos": "Forward, left winger",
+"born": 2000
+},
+"Federico Valverde": {
+"pos": "Central midfielder",
+"born": 1998
+},
+"Endrick": {
+"pos": "Striker",
+"born": 2006
+},
+"Kylian Mbappé": {
+"pos": "Forward",
+"born": 1998
+},
+"Rodrygo": {
+"pos": "Winger",
+"born": 2001
+},
+"Trent Alexander-Arnold": {
+"pos": "Right-back, midfielder",
+"born": 1998
+},
+"Andriy Lunin": {
+"pos": "Goalkeeper",
+"born": 1999
+},
+"Aurélien Tchouaméni": {
+"pos": "Defensive midfielder, centre-back",
+"born": 2000
+},
+"Arda Güler": {
+"pos": "Attacking midfielder,",
+"born": 2005
+},
+"Ibrahima Konaté": {
+"pos": "Centre-back",
+"born": 1999
+},
+"Marc Cucurella": {
+"pos": "Left-back, left wing-back",
+"born": 1998
+},
+"Álvaro Carreras": {
+"pos": "Left-back",
+"born": 2003
+},
+"Carlos Espí": {
+"pos": "Forward",
+"born": 2005
+},
+"Bernardo Silva": {
+"pos": "Midfielder",
+"born": 1994
+},
+"Brahim Díaz": {
+"pos": "Attacking midfielder, winger",
+"born": 1999
+},
+"Antonio Rüdiger": {
+"pos": "Centre-back",
+"born": 1993
+},
+"Ferland Mendy": {
+"pos": "Left-back",
+"born": 1995
+},
+"Denzel Dumfries": {
+"pos": "Right-back, right wing-back",
+"born": 1996
+},
+"Yan Diomande": {
+"pos": "winger",
+"born": 2006
+},
+"Thiago Pitarch": {
+"pos": "Midfielder",
+"born": 2007
+},
+"Sergio Mestre (footballer)": {
+"pos": "Goalkeeper",
+"born": 2005
+},
+"Jesús Fortea": {
+"pos": "Right-back",
+"born": 2007
+},
+"Jorge Cestero": {
+"pos": "Midfielder",
+"born": 2006
+},
+"Joan Martínez": {
+"pos": "",
+"born": null
+},
+"Javi Navarro (footballer, born 2007)": {
+"pos": "Goalkeeper",
+"born": 2007
+},
+"Mario Rivas (footballer, born 2007)": {
+"pos": "Centre-back",
+"born": 2007
+},
+"Daniel Yáñez": {
+"pos": "Winger",
+"born": 2007
+},
+"Alexis Ciria": {
+"pos": "Winger",
+"born": 2008
+},
+"Gabri Valero": {
+"pos": "Winger",
+"born": 2007
+},
+"Sergio Martínez (Spanish footballer)": {
+"pos": "Defensive midfielder",
+"born": 2007
+},
+"Alisson Becker": {
+"pos": "Goalkeeper",
+"born": 1992
+},
+"Joe Gomez": {
+"pos": "Defender",
+"born": 1997
+},
+"Wataru Endo": {
+"pos": "Defensive midfielder / Centre-back",
+"born": 1993
+},
+"Virgil van Dijk": {
+"pos": "Centre-back",
+"born": 1991
+},
+"Jérémy Jacquet": {
+"pos": "Centre-back",
+"born": 2005
+},
+"Milos Kerkez": {
+"pos": "Left-back",
+"born": 2003
+},
+"Florian Wirtz": {
+"pos": "Attacking midfielder, left midfielder",
+"born": 2003
+},
+"Dominik Szoboszlai": {
+"pos": "Midfielder",
+"born": 2000
+},
+"Alexander Isak": {
+"pos": "Striker",
+"born": 1999
+},
+"Alexis Mac Allister": {
+"pos": "Midfielder",
+"born": 1998
+},
+"Conor Bradley": {
+"pos": "Right-back",
+"born": 2003
+},
+"Federico Chiesa": {
+"pos": "Forward, winger",
+"born": 1997
+},
+"Giovanni Leoni": {
+"pos": "Centre-back",
+"born": 2006
+},
+"Cody Gakpo": {
+"pos": "Left winger, forward",
+"born": 1999
+},
+"Kostas Tsimikas": {
+"pos": "Left-back",
+"born": 1996
+},
+"Hugo Ekitike": {
+"pos": "Striker",
+"born": 2002
+},
+"Víctor Muñoz (footballer, born 2003)": {
+"pos": "Left winger, forward",
+"born": 2003
+},
+"Giorgi Mamardashvili": {
+"pos": "Goalkeeper",
+"born": 2000
+},
+"Freddie Woodman": {
+"pos": "Goalkeeper",
+"born": 1997
+},
+"Bradley Barcola": {
+"pos": "Forward",
+"born": 2002
+},
+"Jeremie Frimpong": {
+"pos": "Right-back, right wing-back, right winger",
+"born": 2000
+},
+"Ronald Araújo": {
+"pos": "Centre-back",
+"born": 1999
+},
+"Ryan Gravenberch": {
+"pos": "Defensive midfielder",
+"born": 2002
+},
+"Trey Nyoni": {
+"pos": "Midfielder",
+"born": 2007
+},
+"Luke Chambers (footballer, born 2004)": {
+"pos": "Left-back",
+"born": 2004
+},
+"James McConnell (footballer, born 2004)": {
+"pos": "Midfielder",
+"born": 2004
+},
+"Vítězslav Jaroš": {
+"pos": "Goalkeeper",
+"born": 2001
+},
+"Lewis Koumas": {
+"pos": "Forward, winger",
+"born": 2005
+},
+"Rio Ngumoha": {
+"pos": "Left winger, left midfielder,right winger",
+"born": 2008
+},
+"Jayden Danns": {
+"pos": "Forward",
+"born": 2006
+},
+"Harvey Davies": {
+"pos": "Goalkeeper",
+"born": 2003
+},
+"Harvey Elliott": {
+"pos": "Attacking midfielder",
+"born": 2003
+},
+"Ármin Pécsi": {
+"pos": "Goalkeeper",
+"born": 2005
+},
+"Calvin Ramsay": {
+"pos": "Right-back",
+"born": 2003
+},
+"Ifeanyi Ndukwe": {
+"pos": "Centre-back",
+"born": 2008
+},
+"Kaide Gordon": {
+"pos": "Winger, attacking midfielder",
+"born": 2004
+},
+"Isaac Mabaya": {
+"pos": "Right-back",
+"born": 2004
+},
+"Owen Beck (footballer)": {
+"pos": "Left-back",
+"born": 2002
+},
+"Wellity Lucky": {
+"pos": "Centre-back",
+"born": 2006
+},
+"Calum Scanlon": {
+"pos": "Left-back",
+"born": 2005
+},
+"Amara Nallo": {
+"pos": "Centre-back",
+"born": 2006
+},
+"Kieran Morrison (footballer)": {
+"pos": "Right winger",
+"born": 2006
+},
+"Diogo Jota": {
+"pos": "Forward, winger",
+"born": 1996
+},
+"Josep Martínez": {
+"pos": "Goalkeeper",
+"born": 1998
+},
+"Aleksandar Stanković (footballer, born 2005)": {
+"pos": "Defensive midfielder",
+"born": 2005
+},
+"John Stones": {
+"pos": "Centre-back, defensive midfielder",
+"born": 1994
+},
+"Piotr Zieliński": {
+"pos": "Midfielder",
+"born": 1994
+},
+"Petar Sučić": {
+"pos": "midfielder",
+"born": 2003
+},
+"Marcus Thuram": {
+"pos": "Striker",
+"born": 1997
+},
+"Lautaro Martínez": {
+"pos": "Striker",
+"born": 1997
+},
+"Luis Henrique (footballer, born 2001)": {
+"pos": "Winger, wing-back",
+"born": 2001
+},
+"Raffaele Di Gennaro": {
+"pos": "Goalkeeper",
+"born": 1993
+},
+"Ange-Yoan Bonny": {
+"pos": "Forward",
+"born": 2003
+},
+"Andy Diouf": {
+"pos": "Central midfielder, right wing-back",
+"born": 2003
+},
+"Hakan Çalhanoğlu": {
+"pos": "Midfielder",
+"born": 1994
+},
+"Curtis Jones (footballer, born 2001)": {
+"pos": "Midfielder",
+"born": 2001
+},
+"Henrikh Mkhitaryan": {
+"pos": "Central midfielder, attacking midfielder",
+"born": 1989
+},
+"Nicolò Barella": {
+"pos": "Midfielder",
+"born": 1997
+},
+"Manuel Akanji": {
+"pos": "Defender",
+"born": 1995
+},
+"Benjamin Pavard": {
+"pos": "Centre-back, right-back",
+"born": 1996
+},
+"Carlos Augusto (footballer)": {
+"pos": "Left-back, left midfielder, centre-back",
+"born": 1999
+},
+"Yann Bisseck": {
+"pos": "Centre-back",
+"born": 2000
+},
+"Federico Dimarco": {
+"pos": "Left wing-back",
+"born": 1997
+},
+"Ivan Provedel": {
+"pos": "Goalkeeper",
+"born": 1994
+},
+"Pio Esposito": {
+"pos": "Striker",
+"born": 2005
+},
+"Alessandro Bastoni": {
+"pos": "Centre-back",
+"born": 1999
+},
+"Djed Spence": {
+"pos": "Full-back, wing-back",
+"born": 2000
+},
+"Mattia Mosconi": {
+"pos": "forward",
+"born": 2007
+},
+"Jamal Iddrissou": {
+"pos": "Winger, forward",
+"born": 2007
+},
+"Gianluigi Donnarumma": {
+"pos": "Goalkeeper",
+"born": 1999
+},
+"Rúben Dias": {
+"pos": "Centre-back",
+"born": 1997
+},
+"Elliot Anderson": {
+"pos": "Midfielder",
+"born": 2002
+},
+"Marc Guéhi": {
+"pos": "Centre-back",
+"born": 2000
+},
+"Iliman Ndiaye": {
+"pos": "winger",
+"born": 2000
+},
+"Mateo Kovačić": {
+"pos": "Central midfielder",
+"born": 1994
+},
+"Erling Haaland": {
+"pos": "Striker",
+"born": 2000
+},
+"Rayan Cherki": {
+"pos": "Attacking midfielder, winger",
+"born": 2003
+},
+"Jérémy Doku": {
+"pos": "Winger",
+"born": 2002
+},
+"Marcus Bettinelli": {
+"pos": "Goalkeeper",
+"born": 1992
+},
+"Enzo Fernández": {
+"pos": "Midfielder",
+"born": 2001
+},
+"Rayan Aït-Nouri": {
+"pos": "Left-back, left wing-back",
+"born": 2001
+},
+"Vitor Reis": {
+"pos": "Centre-back",
+"born": 2006
+},
+"Joško Gvardiol": {
+"pos": "Centre-back, left-back",
+"born": 2002
+},
+"Matheus Nunes": {
+"pos": "Right-back, midfielder",
+"born": 1998
+},
+"Gerónimo Rulli": {
+"pos": "Goalkeeper",
+"born": 1992
+},
+"Ayyoub Bouaddi": {
+"pos": "Midfielder",
+"born": 2007
+},
+"Nico O'Reilly": {
+"pos": "Left-back, midfielder",
+"born": 2005
+},
+"Allan (footballer, born 2004)": {
+"pos": "Attacking midfielder, winger",
+"born": 2004
+},
+"Antoine Semenyo": {
+"pos": "winger",
+"born": 2000
+},
+"Abdukodir Khusanov": {
+"pos": "Centre-back, Right-back",
+"born": 2004
+},
+"Phil Foden": {
+"pos": "Midfielder",
+"born": 2000
+},
+"Ryan McAidoo": {
+"pos": "Winger",
+"born": 2008
+},
+"Kaden Braithwaite": {
+"pos": "Defender",
+"born": 2008
+},
+"Floyd Samba": {
+"pos": "Midfielder",
+"born": 2009
+},
+"Rico Lewis": {
+"pos": "Full-back, defensive midfielder",
+"born": 2004
+},
+"Jack Grealish": {
+"pos": "Winger",
+"born": 1995
+},
+"Claudio Echeverri": {
+"pos": "Attacking midfielder, winger",
+"born": 2006
+},
+"Jeremy Monga": {
+"pos": "Winger",
+"born": 2009
+},
+"Sverre Nypan": {
+"pos": "Attacking midfielder",
+"born": 2006
+},
+"Kalvin Phillips": {
+"pos": "Defensive midfielder",
+"born": 1995
+},
+"Max Alleyne": {
+"pos": "Centre-back",
+"born": 2005
+},
+"Pierce Charles": {
+"pos": "Goalkeeper",
+"born": 2005
+},
+"Omar Marmoush": {
+"pos": "Striker, left winger",
+"born": 1999
+},
+"Josh Wilson-Esbrand": {
+"pos": "Left-back",
+"born": 2002
+},
+"Max Hudson": {
+"pos": "Goalkeeper",
+"born": 2007
+},
+"Kian Noble": {
+"pos": "Defender",
+"born": 2007
+},
+"Tyrone Samba": {
+"pos": "Forward",
+"born": 2007
+},
+"Charlie Gray (footballer)": {
+"pos": "Defensive midfielder",
+"born": 2006
+},
+"Divine Mukasa": {
+"pos": "Forward, attacking midfielder",
+"born": 2007
+},
+"Divin Mubama": {
+"pos": "Forward",
+"born": 2004
+},
+"Spike Brits": {
+"pos": "Goalkeeper",
+"born": 2007
+},
+"Jaden Heskey": {
+"pos": "Attacking midfielder",
+"born": 2005
+},
+"Stephen Mfuni": {
+"pos": "Centre-back, left-back",
+"born": 2008
+},
+"Mathys Detourbet": {
+"pos": "Winger",
+"born": 2007
+},
+"Marc-Vivien Foé": {
+"pos": "Midfielder",
+"born": 1975
+},
+"David Raya": {
+"pos": "Goalkeeper",
+"born": 1995
+},
+"William Saliba": {
+"pos": "Centre-back",
+"born": 2001
+},
+"Cristhian Mosquera": {
+"pos": "Centre back",
+"born": 2004
+},
+"Ben White (footballer)": {
+"pos": "Defender",
+"born": 1997
+},
+"Piero Hincapié": {
+"pos": "Centre-back, left-back",
+"born": 2002
+},
+"Gabriel Magalhães": {
+"pos": "Centre-back",
+"born": 1997
+},
+"Bukayo Saka": {
+"pos": "Right winger",
+"born": 2001
+},
+"Martin Ødegaard": {
+"pos": "Midfielder",
+"born": 1998
+},
+"Eberechi Eze": {
+"pos": "Attacking midfielder",
+"born": 1998
+},
+"Jurriën Timber": {
+"pos": "Defender",
+"born": 2001
+},
+"Kepa Arrizabalaga": {
+"pos": "Goalkeeper",
+"born": 1994
+},
+"Viktor Gyökeres": {
+"pos": "Striker",
+"born": 1998
+},
+"Ezri Konsa": {
+"pos": "Centre-back, right-back",
+"born": 1997
+},
+"Christos Tzolis": {
+"pos": "Left winger",
+"born": 2002
+},
+"Noni Madueke": {
+"pos": "Winger",
+"born": 2002
+},
+"Mikel Merino": {
+"pos": "Midfielder, striker",
+"born": 1996
+},
+"Kai Havertz": {
+"pos": "Forward, Attacking midfielder",
+"born": 1999
+},
+"Illan Meslier": {
+"pos": "Goalkeeper",
+"born": 2000
+},
+"Riccardo Calafiori": {
+"pos": "Left-back / Centre-back",
+"born": 2002
+},
+"Martín Zubimendi": {
+"pos": "Defensive midfielder",
+"born": 1999
+},
+"Bruno Guimarães": {
+"pos": "Central midfielder",
+"born": 1997
+},
+"Declan Rice": {
+"pos": "Midfielder",
+"born": 1999
+},
+"Myles Lewis-Skelly": {
+"pos": "Midfielder, Left-back",
+"born": 2006
+},
+"Ethan Nwaneri": {
+"pos": "Attacking midfielder, winger",
+"born": 2007
+},
+"Tommy Setford": {
+"pos": "Goalkeeper",
+"born": 2006
+},
+"Jaden Dixon": {
+"pos": "Centre-back, right-back",
+"born": 2007
+},
+"Andre Harriman-Annous": {
+"pos": "Striker",
+"born": 2007
+},
+"Ife Ibrahim": {
+"pos": "Midfielder",
+"born": 2008
+},
+"Jack Porter (footballer)": {
+"pos": "Goalkeeper",
+"born": 2008
+},
+"Max Dowman": {
+"pos": "Attacking midfielder, winger",
+"born": 2009
+},
+"Brando Bailey-Joseph": {
+"pos": "Winger",
+"born": 2008
+},
+"Marli Salmon": {
+"pos": "Centre-back, Right-back",
+"born": 2009
+},
+"Ismeal Kabia": {
+"pos": "Winger",
+"born": 2005
+},
+"Charles Sagoe Jr": {
+"pos": "Left winger",
+"born": 2004
+},
+"Joan Garcia": {
+"pos": "Goalkeeper",
+"born": 2001
+},
+"João Cancelo": {
+"pos": "Full-back",
+"born": 1994
+},
+"Alejandro Balde": {
+"pos": "Left-back",
+"born": 2003
+},
+"Brian Fariñas": {
+"pos": "Midfielder",
+"born": 2006
+},
+"Pau Cubarsí": {
+"pos": "Centre-back",
+"born": 2007
+},
+"Gavi (footballer)": {
+"pos": "Central midfielder",
+"born": 2004
+},
+"Fermín López": {
+"pos": "Attacking midfielder, winger",
+"born": 2003
+},
+"Pedri": {
+"pos": "Midfielder",
+"born": 2002
+},
+"Gabriel Jesus": {
+"pos": "Forward",
+"born": 1997
+},
+"Lamine Yamal": {
+"pos": "Winger",
+"born": 2007
+},
+"Raphinha": {
+"pos": "Winger, forward",
+"born": 1996
+},
+"Xavi Espart": {
+"pos": "Full-back, defensive midfielder",
+"born": 2007
+},
+"Wojciech Szczęsny": {
+"pos": "Goalkeeper",
+"born": 1990
+},
+"Karim Adeyemi": {
+"pos": "Right winger, forward",
+"born": 2002
+},
+"Andreas Christensen": {
+"pos": "Centre-back",
+"born": 1996
+},
+"Rodri": {
+"pos": "Defensive midfielder",
+"born": 1996
+},
+"Anthony Gordon (footballer)": {
+"pos": "Left winger",
+"born": 2001
+},
+"Gerard Martín (footballer)": {
+"pos": "Defender",
+"born": 2002
+},
+"Roony Bardghji": {
+"pos": "Right winger",
+"born": 2005
+},
+"Dani Olmo": {
+"pos": "Attacking midfielder, winger",
+"born": 1998
+},
+"Frenkie de Jong": {
+"pos": "Midfielder",
+"born": 1997
+},
+"Marc Bernal": {
+"pos": "Defensive midfielder",
+"born": 2007
+},
+"Jules Koundé": {
+"pos": "Defender",
+"born": 1998
+},
+"Eric Garcia (footballer, born 2001)": {
+"pos": "Defender, defensive midfielder",
+"born": 2001
+},
+"Dominik Livaković": {
+"pos": "Goalkeeper",
+"born": 1995
+},
+"Jesse Bisiwu": {
+"pos": "winger",
+"born": 2008
+},
+"Hamza Abdelkarim": {
+"pos": "Striker",
+"born": 2008
+},
+"Ebrima Tunkara": {
+"pos": "Attacking midfielder",
+"born": 2010
+},
+"Eder Aller": {
+"pos": "Goalkeeper",
+"born": 2007
+},
+"Orian Goren": {
+"pos": "Midfielder",
+"born": 2009
+},
+"Jordi Pesquer": {
+"pos": "Left-back",
+"born": 2009
+},
+"Juan Musso": {
+"pos": "Goalkeeper",
+"born": 1994
+},
+"Obed Vargas": {
+"pos": "Central midfielder",
+"born": 2005
+},
+"Rodrigo Mendoza": {
+"pos": "Midfielder",
+"born": 2005
+},
+"Johnny Cardoso": {
+"pos": "Midfielder",
+"born": 2001
+},
+"Koke (footballer, born 1992)": {
+"pos": "Midfielder",
+"born": 1992
+},
+"Lee Kang-in": {
+"pos": "Attacking midfielder, winger",
+"born": 2001
+},
+"Pablo Barrios (footballer)": {
+"pos": "Midfielder",
+"born": 2003
+},
+"Alexander Sørloth": {
+"pos": "Striker, right winger",
+"born": 1995
+},
+"Álex Baena": {
+"pos": "Left midfielder, attacking midfielder",
+"born": 2001
+},
+"Ademola Lookman": {
+"pos": "Winger, second striker",
+"born": 1997
+},
+"Jan Oblak": {
+"pos": "Goalkeeper",
+"born": 1993
+},
+"Marcos Llorente": {
+"pos": "Midfielder, right-back",
+"born": 1995
+},
+"Jonathan David": {
+"pos": "Forward",
+"born": 2000
+},
+"Arnau Ortiz": {
+"pos": "Winger",
+"born": 2001
+},
+"Dávid Hancko": {
+"pos": "Centre-back, left-back",
+"born": 1997
+},
+"Marc Pubill": {
+"pos": "Defender",
+"born": 2003
+},
+"Julián Alvarez": {
+"pos": "Forward",
+"born": 2000
+},
+"Giuliano Simeone": {
+"pos": "Right midfielder, winger",
+"born": 2002
+},
+"Cristian Romero": {
+"pos": "Centre-back",
+"born": 1998
+},
+"Alejandro Grimaldo": {
+"pos": "Left wing-back, left-back",
+"born": 1995
+},
+"Morten Hjulmand": {
+"pos": "Defensive midfielder",
+"born": 1999
+},
+"Robin Le Normand": {
+"pos": "Centre-back",
+"born": 1996
+},
+"Salvi Esquivel": {
+"pos": "Goalkeeper",
+"born": 2005
+},
+"Dani Martínez": {
+"pos": "Centre-back",
+"born": 2004
+},
+"Jorge Domínguez (footballer, born 2009)": {
+"pos": "Centre-back",
+"born": 2009
+},
+"Miguel Cubo": {
+"pos": "Striker",
+"born": 2008
+},
+"Gregor Kobel": {
+"pos": "Goalkeeper",
+"born": 1997
+},
+"Waldemar Anton": {
+"pos": "Centre-back",
+"born": 1996
+},
+"Nico Schlotterbeck": {
+"pos": "Centre-back",
+"born": 1999
+},
+"Ramy Bensebaini": {
+"pos": "Left-back, centre-back",
+"born": 1995
+},
+"Jobe Bellingham": {
+"pos": "Midfielder, forward",
+"born": 2005
+},
+"Felix Nmecha": {
+"pos": "Midfielder",
+"born": 2000
+},
+"Serhou Guirassy": {
+"pos": "Striker",
+"born": 1996
+},
+"Maximilian Beier": {
+"pos": "Forward; Winger; Second striker",
+"born": 2002
+},
+"Carney Chukwuemeka": {
+"pos": "Attacking midfielder, left winger",
+"born": 2003
+},
+"Konstantinos Karetsas": {
+"pos": "Attacking midfielder, right winger",
+"born": 2007
+},
+"Marcel Sabitzer": {
+"pos": "Midfielder, forward",
+"born": 1994
+},
+"Fábio Silva (footballer, born 2002)": {
+"pos": "Forward",
+"born": 2002
+},
+"Joane Gadou": {
+"pos": "Centre-back",
+"born": 2007
+},
+"Emre Can": {
+"pos": "Defensive midfielder, centre-back",
+"born": 1994
+},
+"Daniel Svensson (footballer, born 2002)": {
+"pos": "Central midfielder, left-back",
+"born": 2002
+},
+"Joey Veerman": {
+"pos": "Central midfielder",
+"born": 1998
+},
+"Julian Ryerson": {
+"pos": "Full-back, wing-back",
+"born": 1997
+},
+"Justin Lerma": {
+"pos": "Attacking Midfielder",
+"born": 2008
+},
+"Patrick Drewes": {
+"pos": "Goalkeeper",
+"born": 1993
+},
+"Silas Ostrzinski": {
+"pos": "Goalkeeper",
+"born": 2003
+},
+"Alexander Meyer (footballer, born 1991)": {
+"pos": "Goalkeeper",
+"born": 1991
+},
+"Kauã Prates": {
+"pos": "Left-back",
+"born": 2008
+},
+"Filippo Mane": {
+"pos": "Centre-back, right-back",
+"born": 2005
+},
+"Samuele Inácio": {
+"pos": "Forward, attacking midfielder, winger",
+"born": 2008
+},
+"Mathis Albert": {
+"pos": "",
+"born": 2009
+},
+"Enzo dos Santos": {
+"pos": "Midfielder",
+"born": 2009
+},
+"Giannis Konstantelias": {
+"pos": "Attacking midfielder, left winger",
+"born": 2003
+},
+"Mussa Kaba": {
+"pos": "",
+"born": 2008
+},
+"Luca Reggiani": {
+"pos": "Centre-back",
+"born": 2008
+},
+"Devyne Rensch": {
+"pos": "Right-back, left-back",
+"born": 2003
+},
+"Konstantinos Koulierakis": {
+"pos": "Centre-back",
+"born": 2003
+},
+"Bryan Cristante": {
+"pos": "Defensive midfielder",
+"born": 1995
+},
+"Evan Ndicka": {
+"pos": "Centre-back",
+"born": 1999
+},
+"Lorenzo Pellegrini": {
+"pos": "Attacking midfielder",
+"born": 1996
+},
+"Santiago Castro (footballer, born 2004)": {
+"pos": "Centre forward",
+"born": 2004
+},
+"Donyell Malen": {
+"pos": "Centre-forward, winger",
+"born": 1999
+},
+"Marten de Roon": {
+"pos": "Defensive midfielder",
+"born": 1991
+},
+"Manu Koné": {
+"pos": "Midfielder",
+"born": 2001
+},
+"Matías Soulé": {
+"pos": "Attacking midfielder, right winger, forward",
+"born": 2003
+},
+"Nahuel Molina": {
+"pos": "Right-back",
+"born": 1998
+},
+"Paulo Dybala": {
+"pos": "Forward, attacking midfielder",
+"born": 1993
+},
+"Mario Hermoso": {
+"pos": "Defender",
+"born": 1995
+},
+"Gianluca Mancini": {
+"pos": "Centre-back",
+"born": 1996
+},
+"Leonardo Balerdi": {
+"pos": "Centre-back",
+"born": 1999
+},
+"Wesley França": {
+"pos": "Right-back, left-back",
+"born": 2003
+},
+"Niccolò Pisilli": {
+"pos": "Midfielder",
+"born": 2004
+},
+"Giorgio De Marzi": {
+"pos": "Goalkeeper",
+"born": 2007
+},
+"Emanuele Lulli": {
+"pos": "Right-back, right wing-back",
+"born": 2007
+},
+"Rodrigo Mora (footballer, born 2007)": {
+"pos": "Attacking midfielder, winger",
+"born": 2007
+},
+"Daniele Ghilardi": {
+"pos": "Centre-back",
+"born": 2003
+},
+"Pierluigi Gollini": {
+"pos": "Goalkeeper",
+"born": 1995
+},
+"Mile Svilar": {
+"pos": "Goalkeeper",
+"born": 1999
+},
+"Antonio Arena": {
+"pos": "Striker",
+"born": 2009
+},
+"Devis Vásquez": {
+"pos": "Goalkeeper",
+"born": 1998
+},
+"Anass Salah-Eddine": {
+"pos": "Left-back, left wing-back",
+"born": 2002
+},
+"Rui Silva (footballer, born 1994)": {
+"pos": "Goalkeeper",
+"born": 1994
+},
+"Silas Andersen": {
+"pos": "Midfielder",
+"born": 2004
+},
+"Sergi Altimira": {
+"pos": "Defensive midfielder",
+"born": 2001
+},
+"Zeno Debast": {
+"pos": "Centre-back, defensive midfielder",
+"born": 2003
+},
+"Fotis Ioannidis": {
+"pos": "Forward",
+"born": 2000
+},
+"João Simões (footballer, born 2007)": {
+"pos": "Midfielder",
+"born": 2007
+},
+"Rafael Nel": {
+"pos": "Forward",
+"born": 2005
+},
+"Geny Catamo": {
+"pos": "Right winger",
+"born": 2001
+},
+"Nuno Santos (footballer, born 1995)": {
+"pos": "Winger, wing-back",
+"born": 1995
+},
+"Georgios Vagiannidis": {
+"pos": "Right-back",
+"born": 2001
+},
+"Rodrigo Zalazar": {
+"pos": "Attacking midfielder",
+"born": 1999
+},
+"Moncef Zekri": {
+"pos": "Left-back",
+"born": 2008
+},
+"Nestory Irankunda": {
+"pos": "Winger",
+"born": 2006
+},
+"Maximiliano Araújo": {
+"pos": "Left-back, left midfielder",
+"born": 2000
+},
+"Pedro Lima (footballer, born 2003)": {
+"pos": "Defensive midfielder",
+"born": 2003
+},
+"Iván Fresneda": {
+"pos": "Right-back, Wing-back",
+"born": 2004
+},
+"Gonçalo Inácio": {
+"pos": "Centre-back",
+"born": 2001
+},
+"Jesse Derry": {
+"pos": "Winger",
+"born": 2007
+},
+"Kaique Pereira": {
+"pos": "Goalkeeper",
+"born": 2003
+},
+"Luis Guilherme": {
+"pos": "Winger",
+"born": 2006
+},
+"Diego Callai": {
+"pos": "Goalkeeper",
+"born": 2004
+},
+"Ibrahima Ba (footballer, born 2005)": {
+"pos": "Centre-back",
+"born": 2005
+},
+"Flávio Gonçalves": {
+"pos": "Winger, attacking midfielder",
+"born": 2007
+},
+"Eduardo Quaresma": {
+"pos": "Centre-back",
+"born": 2002
+},
+"Eduardo Felicíssimo": {
+"pos": "Defensive midfielder",
+"born": 2007
+},
+"Issa Doumbia (footballer)": {
+"pos": "Midfielder",
+"born": 2003
+},
+"Luis Suárez (Colombian footballer)": {
+"pos": "Forward",
+"born": 1997
+},
+"Francisco Silva (footballer, born 2005)": {
+"pos": "Goalkeeper",
+"born": 2005
+},
+"Zion Suzuki": {
+"pos": "Goalkeeper",
+"born": 2002
+},
+"Matty Cash": {
+"pos": "Right-back",
+"born": 1997
+},
+"Victor Lindelöf": {
+"pos": "Centre-back",
+"born": 1994
+},
+"Taylor Harwood-Bellis": {
+"pos": "Centre-back",
+"born": 2002
+},
+"Tyrone Mings": {
+"pos": "Centre-back",
+"born": 1993
+},
+"Ross Barkley": {
+"pos": "Midfielder",
+"born": 1993
+},
+"John McGinn": {
+"pos": "Midfielder",
+"born": 1994
+},
+"Boubacar Kamara": {
+"pos": "Defensive midfielder",
+"born": 1999
+},
+"Emiliano Buendía": {
+"pos": "Attacking midfielder, left winger",
+"born": 1996
+},
+"Nicolas Jackson": {
+"pos": "Striker",
+"born": 2001
+},
+"Matteo Ruggeri": {
+"pos": "Left-back",
+"born": 2002
+},
+"Pau Torres": {
+"pos": "Centre-back",
+"born": 1997
+},
+"Alejandro Garnacho": {
+"pos": "Winger",
+"born": 2004
+},
+"Tammy Abraham": {
+"pos": "Striker",
+"born": 1997
+},
+"Ibrahim Mbaye": {
+"pos": "Forward",
+"born": 2008
+},
+"Jamaldeen Jimoh-Aloba": {
+"pos": "Attacking Midfielder",
+"born": 2006
+},
+"Ian Maatsen": {
+"pos": "Left-back / Winger",
+"born": 2002
+},
+"Amadou Onana": {
+"pos": "Defensive midfielder",
+"born": 2001
+},
+"Lamare Bogarde": {
+"pos": "Right-back, defensive midfielder",
+"born": 2004
+},
+"Leon Goretzka": {
+"pos": "Midfielder",
+"born": 1995
+},
+"Aaron Wan-Bissaka": {
+"pos": "Right-back",
+"born": 1997
+},
+"João Gomes (footballer, born 2001)": {
+"pos": "Central midfielder",
+"born": 2001
+},
+"Brian Madjo": {
+"pos": "Forward",
+"born": 2009
+},
+"Marco Bizot": {
+"pos": "Goalkeeper",
+"born": 1991
+},
+"James Wright (footballer)": {
+"pos": "Goalkeeper",
+"born": 2004
+},
+"Johan Manzambi": {
+"pos": "Midfielder",
+"born": 2005
+},
+"Alysson (footballer, born 2006)": {
+"pos": "Striker",
+"born": 2006
+},
+"Modou Kéba Cissé": {
+"pos": "Defender",
+"born": 2005
+},
+"George Hemmings": {
+"pos": "Midfielder",
+"born": 2007
+},
+"Jakub Kiwior": {
+"pos": "Centre-back, left-back",
+"born": 2000
+},
+"Jan Bednarek": {
+"pos": "Centre-back",
+"born": 1996
+},
+"William Gomes": {
+"pos": "Winger",
+"born": 2006
+},
+"Victor Froholdt": {
+"pos": "Midfielder",
+"born": 2006
+},
+"Samu Aghehowa": {
+"pos": "Forward",
+"born": 2004
+},
+"Gabri Veiga": {
+"pos": "Attacking midfielder",
+"born": 2002
+},
+"Pepê (footballer, born 1997)": {
+"pos": "Winger, right-back",
+"born": 1997
+},
+"Zaidu Sanusi": {
+"pos": "Left-back",
+"born": 1997
+},
+"Pablo Rosario": {
+"pos": "Midfielder",
+"born": 1997
+},
+"Cláudio Ramos (footballer)": {
+"pos": "Goalkeeper",
+"born": 1991
+},
+"Vasco Sousa (footballer)": {
+"pos": "Midfielder",
+"born": 2003
+},
+"Hwang In-beom": {
+"pos": "Midfielder",
+"born": 1996
+},
+"Borja Sainz": {
+"pos": "Left winger",
+"born": 2001
+},
+"Nehuén Pérez": {
+"pos": "Centre-back",
+"born": 2000
+},
+"André Silva (footballer, born 1995)": {
+"pos": "Striker",
+"born": 1995
+},
+"Alberto Costa (footballer, born 2003)": {
+"pos": "Right-back",
+"born": 2003
+},
+"Dominik Prpić": {
+"pos": "Centre-back",
+"born": 2004
+},
+"Alan Varela": {
+"pos": "Defensive midfielder, central midfielder",
+"born": 2001
+},
+"João Costa (footballer, born 1996)": {
+"pos": "Goalkeeper",
+"born": 1996
+},
+"Santiago Giménez": {
+"pos": "Striker",
+"born": 2001
+},
+"Souza (footballer, born 2006)": {
+"pos": "Left-back",
+"born": 2006
+},
+"Gabriel Mec": {
+"pos": "Left winger, attacking midfielder",
+"born": 2008
+},
+"Seko Fofana": {
+"pos": "Central midfielder",
+"born": 1995
+},
+"João Afonso (footballer, born 2007)": {
+"pos": "Goalkeeper",
+"born": null
+},
+"Martim Fernandes": {
+"pos": "Right-back",
+"born": 2006
+},
+"Francisco Moura": {
+"pos": "Left-back",
+"born": 1999
+},
+"Oskar Pietuszewski": {
+"pos": "Winger",
+"born": 2008
+},
+"Diogo Costa": {
+"pos": "Goalkeeper",
+"born": 1999
+},
+"Gabriel Veron": {
+"pos": "Winger, forward",
+"born": 2002
+},
+"Senne Lammens": {
+"pos": "Goalkeeper",
+"born": 2002
+},
+"Diogo Dalot": {
+"pos": "Full-back, wing-back",
+"born": 1999
+},
+"Noussair Mazraoui": {
+"pos": "Defender",
+"born": 1997
+},
+"Matthijs de Ligt": {
+"pos": "Centre-back",
+"born": 1999
+},
+"Harry Maguire": {
+"pos": "Centre-back",
+"born": 1993
+},
+"Lisandro Martínez": {
+"pos": "Centre-back",
+"born": 1998
+},
+"Mason Mount": {
+"pos": "Midfielder",
+"born": 1999
+},
+"Bruno Fernandes": {
+"pos": "Attacking midfielder",
+"born": 1994
+},
+"Marcus Rashford": {
+"pos": "Forward",
+"born": 1997
+},
+"Matheus Cunha": {
+"pos": "Forward, attacking midfielder, winger",
+"born": 1999
+},
+"Joshua Zirkzee": {
+"pos": "Forward",
+"born": 2001
+},
+"Karl Darlow": {
+"pos": "Goalkeeper",
+"born": 1990
+},
+"Patrick Dorgu": {
+"pos": "Full-back, wing-back, winger",
+"born": 2004
+},
+"Leny Yoro": {
+"pos": "Centre-back",
+"born": 2005
+},
+"Amad Diallo": {
+"pos": "Winger, attacking midfielder",
+"born": 2002
+},
+"Andrey Santos": {
+"pos": "Midfielder",
+"born": 2004
+},
+"Youri Tielemans": {
+"pos": "Midfielder",
+"born": 1997
+},
+"Bryan Mbeumo": {
+"pos": "Right-winger,Striker",
+"born": 1999
+},
+"Carlos Baleba": {
+"pos": "Midfielder",
+"born": 2004
+},
+"Tom Heaton": {
+"pos": "Goalkeeper",
+"born": 1986
+},
+"Luke Shaw": {
+"pos": "Left-back, centre-back",
+"born": 1995
+},
+"Manuel Ugarte (footballer)": {
+"pos": "Defensive midfielder, central midfielder",
+"born": 2001
+},
+"Ayden Heaven": {
+"pos": "Centre-back",
+"born": 2006
+},
+"Benjamin Šeško": {
+"pos": "Striker",
+"born": 2003
+},
+"Shea Lacey": {
+"pos": "Winger, attacking midfielder",
+"born": 2007
+},
+"Kobbie Mainoo": {
+"pos": "Midfielder",
+"born": 2005
+},
+"Jack Fletcher (footballer, born 2007)": {
+"pos": "Midfielder",
+"born": 2007
+},
+"Tyler Fletcher": {
+"pos": "Midfielder",
+"born": 2007
+},
+"Harry Amass": {
+"pos": "Left-back",
+"born": 2007
+},
+"Dermot Mee": {
+"pos": "Goalkeeper",
+"born": 2002
+},
+"Yann Sommer": {
+"pos": "Goalkeeper",
+"born": 1988
+},
+"Lee Han-beom": {
+"pos": "Centre-back",
+"born": 2002
+},
+"Joel Ordóñez": {
+"pos": "Centre-back",
+"born": 2004
+},
+"Nicolò Tresoldi": {
+"pos": "Striker",
+"born": 2004
+},
+"Freddie Potts": {
+"pos": "Defensive midfielder",
+"born": 2003
+},
+"Carlos Forbs": {
+"pos": "Winger",
+"born": 2004
+},
+"Hugo Vetlesen": {
+"pos": "Midfielder",
+"born": 2000
+},
+"Jan Virgili": {
+"pos": "Winger",
+"born": 2006
+},
+"Cheveyo Tsawa": {
+"pos": "Midfielder",
+"born": 2006
+},
+"Romeo Vermant": {
+"pos": "Forward",
+"born": 2004
+},
+"Hans Vanaken": {
+"pos": "Attacking midfielder",
+"born": 1992
+},
+"Wisdom Mike": {
+"pos": "Winger",
+"born": 2008
+},
+"Nordin Jackers": {
+"pos": "Goalkeeper",
+"born": 1997
+},
+"Matteo Dams": {
+"pos": "Defender",
+"born": 2004
+},
+"Hugo Siquet": {
+"pos": "Right-back",
+"born": 2002
+},
+"Brandon Mechele": {
+"pos": "Centre-backSweeper",
+"born": 1993
+},
+"Jorne Spileers": {
+"pos": "Defender",
+"born": 2005
+},
+"Lynnt Audoor": {
+"pos": "Midfielder",
+"born": 2003
+},
+"Kyriani Sabbe": {
+"pos": "Full-back, wing-back",
+"born": 2005
+},
+"Joaquin Seys": {
+"pos": "Left-back",
+"born": 2005
+},
+"Mamadou Diakhon": {
+"pos": "Forward",
+"born": 2005
+},
+"Alejandro Granados": {
+"pos": "Midfielder",
+"born": 2006
+},
+"Andrej Vasovic": {
+"pos": "Forward",
+"born": 2007
+},
+"Félix Lemaréchal": {
+"pos": "Midfielder",
+"born": 2003
+},
+"Tian Nai Koren": {
+"pos": "Midfielder",
+"born": 2009
+},
+"Gianluca Okon": {
+"pos": "Defensive midfielder",
+"born": 2009
+},
+"Álvaro Valles": {
+"pos": "Goalkeeper",
+"born": 1997
+},
+"Héctor Bellerín": {
+"pos": "Right-back, wing-back",
+"born": 1995
+},
+"Diego Llorente": {
+"pos": "Centre-back",
+"born": 1993
+},
+"Natan (footballer, born 2001)": {
+"pos": "Centre-back",
+"born": 2001
+},
+"Marc Bartra": {
+"pos": "Centre-back",
+"born": 1991
+},
+"Facundo Bernal": {
+"pos": "Defensive midfielder",
+"born": 2003
+},
+"Antony (footballer, born 2000)": {
+"pos": "Right winger",
+"born": 2000
+},
+"Pablo Fornals": {
+"pos": "Attacking midfielder",
+"born": 1996
+},
+"Cucho Hernández": {
+"pos": "Striker, winger",
+"born": 1999
+},
+"Abde Ezzalzouli": {
+"pos": "left winger",
+"born": 2001
+},
+"Fran García (footballer, born 1999)": {
+"pos": "Left-back",
+"born": 1999
+},
+"Ángel Ortiz (footballer, born 2004)": {
+"pos": "Right-back",
+"born": 2004
+},
+"Diego Conde": {
+"pos": "Goalkeeper",
+"born": 1998
+},
+"Iker Losada": {
+"pos": "Forward",
+"born": 2001
+},
+"Álvaro Fidalgo": {
+"pos": "Midfielder",
+"born": 1997
+},
+"Valentín Gómez": {
+"pos": "Centre-back",
+"born": 2003
+},
+"Rodrigo Riquelme (footballer, born 2000)": {
+"pos": "Winger, attacking midfielder",
+"born": 2000
+},
+"Nelson Deossa": {
+"pos": "Central midfielder",
+"born": 2000
+},
+"Troy Parrott": {
+"pos": "Striker",
+"born": 2002
+},
+"Giovanni Lo Celso": {
+"pos": "Attacking midfielder",
+"born": 1996
+},
+"Marc Roca": {
+"pos": "Defensive midfielder",
+"born": 1996
+},
+"Isco": {
+"pos": "Attacking midfielder, winger",
+"born": 1992
+},
+"Junior Firpo": {
+"pos": "Left-back",
+"born": 1996
+},
+"Aitor Ruibal": {
+"pos": "Right-back, winger",
+"born": 1996
+},
+"Dani Ceballos": {
+"pos": "Central midfielder",
+"born": 1996
+},
+"Nick Olij": {
+"pos": "Goalkeeper",
+"born": 1995
+},
+"Lutsharel Geertruida": {
+"pos": "Right-back, centre-back, defensive midfielder",
+"born": 2000
+},
+"Yarek Gasiorowski": {
+"pos": "Centre-back",
+"born": 2005
+},
+"Armando Obispo": {
+"pos": "Centre-back",
+"born": 1999
+},
+"Ivan Perišić": {
+"pos": "Left winger",
+"born": 1989
+},
+"Ryan Flamingo": {
+"pos": "Defender",
+"born": 2002
+},
+"Ruben van Bommel": {
+"pos": "Winger",
+"born": 2004
+},
+"Sergiño Dest": {
+"pos": "Full-back",
+"born": 2000
+},
+"Ricardo Pepi": {
+"pos": "Striker",
+"born": 2003
+},
+"Paul Wanner": {
+"pos": "Attacking midfielder, winger",
+"born": 2005
+},
+"Sami Ouaissa": {
+"pos": "Winger, attacking midfielder",
+"born": 2004
+},
+"Alassane Pléa": {
+"pos": "Forward, left winger, attacking midfielder",
+"born": 1993
+},
+"Mauro Júnior": {
+"pos": "Left back, Midfielder",
+"born": 1999
+},
+"Filip Kostić": {
+"pos": "Left midfielder, left wing-back",
+"born": 1992
+},
+"Esmir Bajraktarević": {
+"pos": "Winger",
+"born": 2005
+},
+"Guus Til": {
+"pos": "Attacking midfielder",
+"born": 1997
+},
+"Sven Mijnans": {
+"pos": "Attacking midfielder",
+"born": 2000
+},
+"Jerdy Schouten": {
+"pos": "Defensive midfielder",
+"born": 1997
+},
+"Mikkel Bro Hansen": {
+"pos": "Striker",
+"born": 2009
+},
+"Kodai Sano (footballer)": {
+"pos": "Midfielder",
+"born": 2003
+},
+"Kiliann Sildillia": {
+"pos": "Right-back",
+"born": 2002
+},
+"Dennis Man": {
+"pos": "Winger, attacking midfielder",
+"born": 1998
+},
+"Sam Lammers": {
+"pos": "Forward",
+"born": 1997
+},
+"Noah Fernandez": {
+"pos": "Midfielder",
+"born": 2008
+},
+"Matěj Kovář": {
+"pos": "Goalkeeper",
+"born": 2000
+},
+"Ayoni Santos": {
+"pos": "Attacking midfielder",
+"born": 2005
+},
+"Amir Bouhamdi": {
+"pos": "Winger",
+"born": 2008
+},
+"Fabian Merién": {
+"pos": "Defender, midfielder",
+"born": 2008
+},
+"Adamo Nagalo": {
+"pos": "Centre-back",
+"born": 2002
+},
+"Tijn Smolenaars": {
+"pos": "Goalkeeper",
+"born": 2005
+},
+"Tjark Ernst": {
+"pos": "Goalkeeper",
+"born": 2003
+},
+"Bart Nieuwkoop": {
+"pos": "Right-back",
+"born": 1996
+},
+"Thomas Beelen": {
+"pos": "Centre-back",
+"born": 2001
+},
+"Tsuyoshi Watanabe": {
+"pos": "Centre-back",
+"born": 1997
+},
+"Gijs Smal": {
+"pos": "Left-back",
+"born": 1997
+},
+"Jerry St. Juste": {
+"pos": "Centre-back",
+"born": 1996
+},
+"Jakub Moder": {
+"pos": "Midfielder",
+"born": 1999
+},
+"Gjivai Zechiël": {
+"pos": "Midfielder",
+"born": 2004
+},
+"Luciano Valente": {
+"pos": "Attacking midfielder",
+"born": 2003
+},
+"Gonçalo Borges": {
+"pos": "Right winger",
+"born": 2001
+},
+"Sem Steijn": {
+"pos": "Attacking midfielder",
+"born": 2001
+},
+"Jordan Bos": {
+"pos": "Left back",
+"born": 2002
+},
+"Javi López (footballer, born 2002)": {
+"pos": "Left-back",
+"born": 2002
+},
+"Reiss Nelson": {
+"pos": "Winger",
+"born": 1999
+},
+"Nacho Ferri": {
+"pos": "Striker",
+"born": 2004
+},
+"Mats Deijl": {
+"pos": "Right-back",
+"born": 1997
+},
+"Tobias van den Elshout": {
+"pos": "Midfielder",
+"born": 2007
+},
+"Anis Hadj Moussa": {
+"pos": "Winger",
+"born": 2002
+},
+"Thijs Kraaijeveld": {
+"pos": "Midfielder",
+"born": 2007
+},
+"Givairo Read": {
+"pos": "Right-back",
+"born": 2006
+},
+"Gaoussou Diarra": {
+"pos": "Winger",
+"born": 2002
+},
+"Oussama Targhalline": {
+"pos": "Midfielder",
+"born": 2002
+},
+"Florian Kastenmeier": {
+"pos": "Goalkeeper",
+"born": 1997
+},
+"Charles Vanhoutte": {
+"pos": "Midfielder",
+"born": 1998
+},
+"Mika Mármol": {
+"pos": "Centre-back, left-back",
+"born": 2001
+},
+"Jivayno Zinhagel": {
+"pos": "Forward",
+"born": 2009
+},
+"Liam Bossin": {
+"pos": "Goalkeeper",
+"born": 1996
+},
+"Shaqueel van Persie": {
+"pos": "Forward",
+"born": 2006
+},
+"Berke Özer": {
+"pos": "Goalkeeper",
+"born": 2000
+},
+"Loun Srdanovic": {
+"pos": "Right-back",
+"born": 2006
+},
+"Nathan Ngoy": {
+"pos": "Defender",
+"born": 2003
+},
+"Alexsandro (footballer, born 1999)": {
+"pos": "Centre-back",
+"born": 1999
+},
+"Nabil Bentaleb": {
+"pos": "Defensive midfielder",
+"born": 1994
+},
+"Dilane Bakwa": {
+"pos": "Winger",
+"born": 2002
+},
+"Ethan Mbappé": {
+"pos": "Midfielder",
+"born": 2006
+},
+"Olivier Giroud": {
+"pos": "Striker",
+"born": 1986
+},
+"Hákon Haraldsson": {
+"pos": "Attacking midfielder, winger",
+"born": 2003
+},
+"Osame Sahraoui": {
+"pos": "Left winger",
+"born": 2001
+},
+"Orlando Gill": {
+"pos": "Goalkeeper",
+"born": 2000
+},
+"Maurits Kjærgaard": {
+"pos": "Midfielder",
+"born": 2003
+},
+"Romain Perraud": {
+"pos": "Left-back",
+"born": 1997
+},
+"Arnaud Bodart": {
+"pos": "Goalkeeper",
+"born": 1998
+},
+"Ngal'ayel Mukau": {
+"pos": "Midfielder",
+"born": 2004
+},
+"Ayase Ueda": {
+"pos": "Striker",
+"born": 1998
+},
+"Başar Önal": {
+"pos": "Left winger, left midfielder",
+"born": 2004
+},
+"Benjamin André": {
+"pos": "Central midfielder, defensive midfielder",
+"born": 1990
+},
+"Tiago Santos": {
+"pos": "Right-back",
+"born": 2002
+},
+"Tanguy Nianzou": {
+"pos": "Centre-back",
+"born": 2002
+},
+"Calvin Verdonk": {
+"pos": "Left-back, centre-back",
+"born": 1997
+},
+"Isaac Cossier": {
+"pos": "Centre-back",
+"born": 2006
+},
+"Gaëtan Perrin": {
+"pos": "Right midfielder",
+"born": 1996
+},
+"Hamza Igamane": {
+"pos": "Striker",
+"born": 2002
+},
+"Soriba Diaoune": {
+"pos": "Winger",
+"born": 2007
+},
+"Maxima Goffi": {
+"pos": "Centre-back",
+"born": 2008
+},
+"Julian Faye Lund": {
+"pos": "Goalkeeper",
+"born": 1999
+},
+"Villads Nielsen": {
+"pos": "Centre-back",
+"born": 2005
+},
+"Odin Bjørtuft": {
+"pos": "Centre-back",
+"born": 1998
+},
+"Haitam Aleesami": {
+"pos": "Left-back, Centre-back",
+"born": 1991
+},
+"Jostein Gundersen": {
+"pos": "Defender",
+"born": 1996
+},
+"Patrick Berg": {
+"pos": "Defensive midfielder",
+"born": 1997
+},
+"Sondre Auklend": {
+"pos": "Midfielder",
+"born": 2003
+},
+"Andreas Helmersen": {
+"pos": "Forward",
+"born": 1998
+},
+"Jens Petter Hauge": {
+"pos": "Left winger",
+"born": 1999
+},
+"Ole Didrik Blomberg": {
+"pos": "Winger",
+"born": 2000
+},
+"Nikita Haikin": {
+"pos": "Goalkeeper",
+"born": 1995
+},
+"Ulrik Saltnes": {
+"pos": "Midfielder",
+"born": 1992
+},
+"Fredrik André Bjørkan": {
+"pos": "Left-back",
+"born": 1998
+},
+"Joshua Kitolano": {
+"pos": "Midfielder",
+"born": 2001
+},
+"Ola Brynhildsen": {
+"pos": "Forward",
+"born": 1999
+},
+"Sondre Brunstad Fet": {
+"pos": "Midfielder",
+"born": 1997
+},
+"Fredrik Sjøvold": {
+"pos": "Right back",
+"born": 2003
+},
+"Joel Mvuka": {
+"pos": "Forward",
+"born": 2002
+},
+"Magnus Riisnæs": {
+"pos": "Midfielder",
+"born": 2004
+},
+"Isak Dybvik Määttä": {
+"pos": "Left back, midfielder",
+"born": 2001
+},
+"Håkon Evjen": {
+"pos": "Midfielder",
+"born": 2000
+},
+"August Mikkelsen": {
+"pos": "Attacking midfielder, forward",
+"born": 2000
+},
+"Alex Meret": {
+"pos": "Goalkeeper",
+"born": 1997
+},
+"Costantino Favasuli": {
+"pos": "",
+"born": 2004
+},
+"Alessandro Buongiorno": {
+"pos": "Centre-back",
+"born": 1999
+},
+"Benoît Badiashile": {
+"pos": "Centre-back",
+"born": 2001
+},
+"Billy Gilmour": {
+"pos": "Defensive midfielder",
+"born": 2001
+},
+"David Neres": {
+"pos": "Winger",
+"born": 1997
+},
+"Scott McTominay": {
+"pos": "Midfielder",
+"born": 1996
+},
+"Kevin De Bruyne": {
+"pos": "Midfielder",
+"born": 1991
+},
+"Amir Rrahmani": {
+"pos": "Centre-back",
+"born": 1994
+},
+"Nikita Contini": {
+"pos": "Goalkeeper",
+"born": 1996
+},
+"Rafa Marín": {
+"pos": "Centre-back",
+"born": 2002
+},
+"Mathías Olivera": {
+"pos": "Left-back, centre-back",
+"born": 1997
+},
+"Rasmus Højlund": {
+"pos": "Striker",
+"born": 2003
+},
+"Lorenzo Lucca": {
+"pos": "Striker",
+"born": 2000
+},
+"Matteo Politano": {
+"pos": "Winger",
+"born": 1993
+},
+"Giovanni Di Lorenzo": {
+"pos": "Right-back",
+"born": 1993
+},
+"Giovane (footballer, born 2003)": {
+"pos": "Striker",
+"born": 2003
+},
+"Antonio Vergara": {
+"pos": "Attacking Midfielder",
+"born": 2003
+},
+"Alisson Santos": {
+"pos": "Winger",
+"born": 2002
+},
+"Sam Beukema": {
+"pos": "Centre-back",
+"born": 1998
+},
+"Vanja Milinković-Savić": {
+"pos": "Goalkeeper",
+"born": 1997
+},
+"Luca Marianucci": {
+"pos": "Centre-back",
+"born": 2004
+},
+"Leonardo Spinazzola": {
+"pos": "Left-back",
+"born": 1993
+},
+"Stanislav Lobotka": {
+"pos": "Defensive midfielder",
+"born": 1994
+},
+"Noa Lang": {
+"pos": "Left winger/left midfielder",
+"born": 1999
+},
+"Frank Anguissa": {
+"pos": "Central midfielder",
+"born": 1995
+},
+"Ørjan Nyland": {
+"pos": "Goalkeeper",
+"born": 1990
+},
+"Abdoul Koné": {
+"pos": "Centre-back",
+"born": 2005
+},
+"Maxime Estève": {
+"pos": "Centre-back",
+"born": 2002
+},
+"Willi Orbán": {
+"pos": "Centre-back",
+"born": 1992
+},
+"Ezechiel Banzuzi": {
+"pos": "Attacking midfielder",
+"born": 2005
+},
+"Antonio Nusa": {
+"pos": "Winger, attacking midfielder",
+"born": 2005
+},
+"Assan Ouédraogo": {
+"pos": "Midfielder",
+"born": 2006
+},
+"Marc Guiu": {
+"pos": "Striker",
+"born": 2006
+},
+"Brajan Gruda": {
+"pos": "Attacking midfielder",
+"born": 2004
+},
+"Johan Bakayoko": {
+"pos": "Winger, forward",
+"born": 2003
+},
+"Nicolas Seiwald": {
+"pos": "Defensive midfielder",
+"born": 2001
+},
+"Christoph Baumgartner": {
+"pos": "Attacking midfielder, forward",
+"born": 1999
+},
+"Lukas Klostermann": {
+"pos": "Right-back, centre-back",
+"born": 1996
+},
+"Ridle Baku": {
+"pos": "Right-back, winger, midfielder",
+"born": 1998
+},
+"Suleman Sani": {
+"pos": "Winger",
+"born": 2006
+},
+"Rocco Reitz": {
+"pos": "Defensive midfielder",
+"born": 2002
+},
+"Neil El Aynaoui": {
+"pos": "Central midfielder",
+"born": 2001
+},
+"David Raum": {
+"pos": "Left midfielder, left-back",
+"born": 1998
+},
+"Castello Lukeba": {
+"pos": "Centre-back",
+"born": 2002
+},
+"Leopold Zingerle": {
+"pos": "Goalkeeper",
+"born": 1994
+},
+"Maarten Vandevoordt": {
+"pos": "Goalkeeper",
+"born": 2002
+},
+"Tidiam Gomis": {
+"pos": "Forward",
+"born": 2006
+},
+"Christopher Nkunku": {
+"pos": "",
+"born": 1997
+},
+"Andrija Maksimović": {
+"pos": "Midfielder",
+"born": 2007
+},
+"Max Finkgräfe": {
+"pos": "Left-back",
+"born": 2004
+},
+"Benjamin Henrichs": {
+"pos": "Full-back, midfielder",
+"born": 1997
+},
+"Rômulo Cardoso": {
+"pos": "Forward",
+"born": 2002
+},
+"Samba Konaté": {
+"pos": "Forward",
+"born": 2009
+},
+"Viggo Gebel": {
+"pos": "Midfielder",
+"born": 2007
+},
+"Luiz Júnior (footballer, born 2001)": {
+"pos": "Goalkeeper",
+"born": 2001
+},
+"Logan Costa": {
+"pos": "Centre-back",
+"born": 2001
+},
+"Alex Freeman": {
+"pos": "",
+"born": 2004
+},
+"Alassane Diatta": {
+"pos": "Midfielder",
+"born": 2005
+},
+"Pau Navarro (footballer)": {
+"pos": "Centre-back",
+"born": 2005
+},
+"Gerard Moreno": {
+"pos": "Striker",
+"born": 1992
+},
+"Juan Foyth": {
+"pos": "Centre-back, right-back",
+"born": 1998
+},
+"Georges Mikautadze": {
+"pos": "Forward",
+"born": 2000
+},
+"Alberto Moleiro": {
+"pos": "Winger, attacking midfielder",
+"born": 2003
+},
+"Ilias Akhomach": {
+"pos": "Right winger",
+"born": 2004
+},
+"Renato Veiga": {
+"pos": "Defender, defensive midfielder",
+"born": 2003
+},
+"Rubén Gómez (footballer, born 2002)": {
+"pos": "Goalkeeper",
+"born": 2002
+},
+"Santi Comesaña": {
+"pos": "Central midfielder",
+"born": 1996
+},
+"Santiago Mouriño": {
+"pos": "Centre-back, right-back",
+"born": 2002
+},
+"Carlos Maciá": {
+"pos": "Midfielder",
+"born": 2008
+},
+"Tajon Buchanan": {
+"pos": "Full-back, winger",
+"born": 1999
+},
+"Pape Gueye": {
+"pos": "Defensive midfielder",
+"born": 1999
+},
+"Nicolas Pépé": {
+"pos": "Right winger, forward",
+"born": 1995
+},
+"Carlos Romero (footballer, born 2001)": {
+"pos": "Left-back",
+"born": 2001
+},
+"Tani Oluwaseyi": {
+"pos": "Forward",
+"born": 2000
+},
+"Ayoze Pérez": {
+"pos": "Attacking midfielder, left winger",
+"born": 1993
+},
+"Sergi Cardona": {
+"pos": "Left-back",
+"born": 1999
+},
+"Nathan Saliba": {
+"pos": "Central midfielder",
+"born": 2004
+},
+"Péter Gulácsi": {
+"pos": "Goalkeeper",
+"born": 1990
+},
+"Archie Brown (footballer)": {
+"pos": "Left-back",
+"born": 2002
+},
+"İsmail Yüksek": {
+"pos": "Midfielder",
+"born": 1999
+},
+"Mattéo Guendouzi": {
+"pos": "Midfielder",
+"born": 1999
+},
+"Kerem Aktürkoğlu": {
+"pos": "Winger, wide midfielder",
+"born": 1998
+},
+"Mert Hakan Yandaş": {
+"pos": "Attacking midfielder/Central Midfielder",
+"born": 1994
+},
+"Romelu Lukaku": {
+"pos": "Striker",
+"born": 1993
+},
+"Marco Asensio": {
+"pos": "Winger, attacking midfielder",
+"born": 1996
+},
+"Mason Greenwood": {
+"pos": "Forward, right winger",
+"born": 2001
+},
+"Tarık Çetin": {
+"pos": "Goalkeeper",
+"born": 1997
+},
+"Yiğit Efe Demir": {
+"pos": "Centre back",
+"born": 2004
+},
+"Nathan Aké": {
+"pos": "Centre-back, left-back",
+"born": 1995
+},
+"İrfan Can Kahveci": {
+"pos": "Attacking midfielder, winger",
+"born": 1995
+},
+"Mert Müldür": {
+"pos": "Full-back, centre-back",
+"born": 1999
+},
+"Vedat Muriqi": {
+"pos": "Striker",
+"born": 1994
+},
+"Kojo Peprah Oppong": {
+"pos": "Centre-back",
+"born": 2004
+},
+"Levent Mercan": {
+"pos": "Defender",
+"born": 2000
+},
+"Jayden Oosterwolde": {
+"pos": "Left-back, centre-back",
+"born": 2001
+},
+"Nélson Semedo": {
+"pos": "Right-back, right wing-back",
+"born": 1993
+},
+"Bartuğ Elmaz": {
+"pos": "Defensive midfielder",
+"born": 2003
+},
+"Ederson (footballer, born 1993)": {
+"pos": "Goalkeeper",
+"born": 1993
+},
+"Mert Günok": {
+"pos": "Goalkeeper",
+"born": 1989
+},
+"Milan Škriniar": {
+"pos": "Centre-back",
+"born": 1995
+},
+"Dorgeles Nene": {
+"pos": "Winger",
+"born": 2002
+},
+"Oğuz Aydın": {
+"pos": "Winger",
+"born": 2000
+},
+"Ognjen Mimović": {
+"pos": "Right-back",
+"born": 2004
+},
+"N'Golo Kanté": {
+"pos": "Defensive midfielder",
+"born": 1991
+},
+"Lassina Traoré": {
+"pos": "Forward",
+"born": 2001
+},
+"Marlon (footballer, born September 1995)": {
+"pos": "Centre-back",
+"born": 1995
+},
+"Valeriy Bondar": {
+"pos": "Centre-back",
+"born": 1999
+},
+"Marlon Gomes": {
+"pos": "Midfielder",
+"born": 2003
+},
+"Eguinaldo": {
+"pos": "Forward",
+"born": 2004
+},
+"Dmytro Kryskiv": {
+"pos": "Central midfielder",
+"born": 2000
+},
+"Kauã Elias": {
+"pos": "Forward",
+"born": 2006
+},
+"Pedrinho (footballer, born April 1998)": {
+"pos": "Attacking midfielder",
+"born": 1998
+},
+"Newerton": {
+"pos": "Left winger",
+"born": 2005
+},
+"Pedrinho (footballer, born 2002)": {
+"pos": "Left back",
+"born": 2002
+},
+"Isaque (footballer, born 2007)": {
+"pos": "Attacking midfielder",
+"born": 2007
+},
+"Irakli Azarovi": {
+"pos": "Left-back",
+"born": 2002
+},
+"Vinicius Tobias": {
+"pos": "Right-back",
+"born": 2004
+},
+"Alaa Ghram": {
+"pos": "Central defender",
+"born": 2001
+},
+"Oleksandr Karavayev": {
+"pos": "Midfielder",
+"born": 1992
+},
+"Mykola Matviyenko": {
+"pos": "Centre-back, left-back",
+"born": 1996
+},
+"Kiril Fesyun": {
+"pos": "Goalkeeper",
+"born": 2002
+},
+"Viktor Tsukanov": {
+"pos": "Central midfielder",
+"born": 2006
+},
+"Gabriel Carvalho": {
+"pos": "Right winger, forward",
+"born": 2007
+},
+"Oleh Ocheretko": {
+"pos": "Midfielder",
+"born": 2003
+},
+"Alan Matturro": {
+"pos": "Centre-back",
+"born": 2004
+},
+"Yehor Nazaryna": {
+"pos": "Central midfielder",
+"born": 1997
+},
+"Alisson Santana": {
+"pos": "Winger, attacking midfielder",
+"born": 2005
+},
+"Dmytro Riznyk": {
+"pos": "Goalkeeper",
+"born": 1999
+},
+"Lucas Ferreira (Brazilian footballer)": {
+"pos": "Winger, attacking midfielder",
+"born": 2006
+},
+"Luca Meirelles": {
+"pos": "Forward",
+"born": 2007
+},
+"Prosper Obah": {
+"pos": "Winger, forward",
+"born": 2003
+},
+"Ryan Roberto": {
+"pos": "forward",
+"born": 2008
+},
+"Gleiker Mendoza": {
+"pos": "Winger",
+"born": 2001
+},
+"Bruninho (footballer, born 2008)": {
+"pos": "Winger",
+"born": 2008
+},
+"Viktor Korniyenko": {
+"pos": "Defender",
+"born": 1999
+},
+"Maryan Shved": {
+"pos": "Right winger",
+"born": 1997
+},
+"Uğurcan Çakır": {
+"pos": "Goalkeeper",
+"born": 1996
+},
+"El Chadaille Bitshiabu": {
+"pos": "Centre-back",
+"born": 2005
+},
+"Ismail Jakobs": {
+"pos": "Left-back",
+"born": 1999
+},
+"Eyüp Aydın": {
+"pos": "Defensive midfielder",
+"born": 2004
+},
+"Davinson Sánchez": {
+"pos": "Centre-back",
+"born": 1996
+},
+"Roland Sallai": {
+"pos": "Right-back",
+"born": 1997
+},
+"Gabriel Sara": {
+"pos": "Midfielder",
+"born": 1999
+},
+"Leroy Sané": {
+"pos": "Winger, attacking midfielder",
+"born": 1996
+},
+"Yunus Akgün": {
+"pos": "Attacking midfielder, right winger",
+"born": 2000
+},
+"Eren Elmalı": {
+"pos": "Left-back",
+"born": 2000
+},
+"Lesley Ugochukwu": {
+"pos": "Midfielder",
+"born": 2004
+},
+"Günay Güvenç": {
+"pos": "Goalkeeper",
+"born": 1991
+},
+"İlkay Gündoğan": {
+"pos": "Midfielder",
+"born": 1990
+},
+"Deniz Gül": {
+"pos": "Forward",
+"born": 2004
+},
+"Kaan Ayhan": {
+"pos": "Defender",
+"born": 1994
+},
+"Jankat Yılmaz": {
+"pos": "Goalkeeper",
+"born": 2004
+},
+"Rafael Leão": {
+"pos": "Left winger",
+"born": 1999
+},
+"Can Armando Güner": {
+"pos": "Winger",
+"born": 2008
+},
+"Lucas Torreira": {
+"pos": "Defensive midfielder",
+"born": 1996
+},
+"Abdülkerim Bardakcı": {
+"pos": "Centre-back",
+"born": 1994
+},
+"Victor Osimhen": {
+"pos": "Striker",
+"born": 1998
+},
+"Barış Alper Yılmaz": {
+"pos": "Winger",
+"born": 2000
+},
+"Ada Yüzgeç": {
+"pos": "Striker",
+"born": 2009
+},
+"Berat Luş": {
+"pos": "Winger",
+"born": 2007
+},
+"Renato Nhaga": {
+"pos": "Midfielder",
+"born": 2007
+},
+"Aleksey Batrakov": {
+"pos": "Attacking midfielder",
+"born": 2005
+},
+"Kazımcan Karataş": {
+"pos": "Left-back{{cite news|author=|title=Galatasaray'a genç sol be",
+"born": 2003
+},
+"Wilfried Singo": {
+"pos": "Defender",
+"born": 2000
+},
+"Arda Ünyay": {
+"pos": "Centre-back",
+"born": 2007
+},
+"Mario Lemina": {
+"pos": "Defensive midfielder",
+"born": 1993
+},
+"Ondřej Kolář (footballer)": {
+"pos": "Goalkeeper",
+"born": 1994
+},
+"Štěpán Chaloupek": {
+"pos": "Centre-back, defensive midfielder",
+"born": 2003
+},
+"Tomáš Holeš": {
+"pos": "Centre-back, right-back, defensive midfielder",
+"born": 1993
+},
+"David Zima": {
+"pos": "Defender",
+"born": 2000
+},
+"Igoh Ogbu": {
+"pos": "Centre-back",
+"born": 2000
+},
+"Ange N'Guessan (footballer, born 2002)": {
+"pos": "Defender",
+"born": 2003
+},
+"Oskar Kubiak": {
+"pos": "Winger",
+"born": 2006
+},
+"Danijel Šturm": {
+"pos": "Left winger",
+"born": 1999
+},
+"Mojmír Chytil": {
+"pos": "Forward",
+"born": 1999
+},
+"David Moses (footballer)": {
+"pos": "Central midfielder",
+"born": 2004
+},
+"Lukáš Provod": {
+"pos": "Left winger",
+"born": 1996
+},
+"Adonija Ouanda": {
+"pos": "Winger",
+"born": 2005
+},
+"Emmanuel Ayaosi": {
+"pos": "Winger",
+"born": 2004
+},
+"Toumani Diakité": {
+"pos": "Midfielder",
+"born": 2006
+},
+"Michal Sadílek": {
+"pos": "Midfielder",
+"born": 1999
+},
+"Tomáš Chorý": {
+"pos": "Forward",
+"born": 1995
+},
+"Ivan Schranz": {
+"pos": "Forward, winger",
+"born": 1993
+},
+"Tomáš Vlček": {
+"pos": "Centre-back",
+"born": 2001
+},
+"Wiktor Nowak": {
+"pos": "Midfielder",
+"born": 2004
+},
+"Jakub Markovič": {
+"pos": "Goalkeeper",
+"born": 2001
+},
+"David Jurásek": {
+"pos": "Left-back",
+"born": 2000
+},
+"Aleksandar Popović (footballer, born 1999)": {
+"pos": "Goalkeeper",
+"born": 1999
+},
+"Samuel Kozlovský": {
+"pos": "Left-back",
+"born": 1999
+},
+"Peter Pokorný (footballer)": {
+"pos": "Defensive midfielder",
+"born": 2001
+},
+"Rahim Ibrahim": {
+"pos": "Midfielder",
+"born": 2001
+},
+"Kevin Wimmer": {
+"pos": "Centre back",
+"born": 1992
+},
+"Artur Gajdoš": {
+"pos": "Midfielder",
+"born": 2004
+},
+"Mykola Kukharevych": {
+"pos": "Forward",
+"born": 2001
+},
+"Nino Marcelli (Slovak footballer)": {
+"pos": "Winger",
+"born": 2005
+},
+"Tigran Barseghyan": {
+"pos": "Winger, Forward",
+"born": 1993
+},
+"Kenan Bajrić": {
+"pos": "Centre-back",
+"born": 1994
+},
+"Roman Čerepkai": {
+"pos": "Forward",
+"born": 2002
+},
+"Alasana Yirajang": {
+"pos": "Centre-forward{{Cite web|url=http://www.zpfutbal.sk/do-podbr",
+"born": 2004
+},
+"Svetozar Marković (footballer)": {
+"pos": "Centre-back",
+"born": 2000
+},
+"Jurij Medveděv": {
+"pos": "Right back",
+"born": 1996
+},
+"Manasse Kianga": {
+"pos": "Forward",
+"born": 2002
+},
+"Alen Mustafić": {
+"pos": "Midfielder",
+"born": 1999
+},
+"Suleiman Camara": {
+"pos": "Winger",
+"born": 2001
+},
+"César Blackman": {
+"pos": "Right-back",
+"born": 1998
+},
+"Adam Griger": {
+"pos": "Forward",
+"born": 2004
+},
+"Matúš Macík": {
+"pos": "Goalkeeper",
+"born": 1993
+},
+"Sandro Cruz": {
+"pos": "Left-back",
+"born": 2001
+},
+"Cristian Martínez (Panamanian footballer)": {
+"pos": "Midfielder",
+"born": 1997
+},
+"Dominik Takáč": {
+"pos": "Goalkeeper",
+"born": 1999
+},
+"Danylo Ihnatenko": {
+"pos": "Midfielder",
+"born": 1997
+},
+"Daiki Matsuoka": {
+"pos": "Defensive midfielder",
+"born": 2001
+},
+"Kelvin Ofori": {
+"pos": "Winger, attacking midfielder",
+"born": 2001
+},
+"Andraž Šporar": {
+"pos": "Forward",
+"born": 1994
+},
+"Sahmkou Camara": {
+"pos": "Central defender",
+"born": 2003
+},
+"Fabian Bredlow": {
+"pos": "Goalkeeper",
+"born": 1995
+},
+"Ameen Al-Dakhil": {
+"pos": "Centre-back",
+"born": 2002
+},
+"Ramon Hendriks": {
+"pos": "Centre-back",
+"born": 2001
+},
+"Josha Vagnoman": {
+"pos": "Defender",
+"born": 2000
+},
+"Angelo Stiller": {
+"pos": "Defensive midfielder",
+"born": 2001
+},
+"Maximilian Mittelstädt": {
+"pos": "Left-back",
+"born": 1997
+},
+"Tiago Tomás": {
+"pos": "Forward",
+"born": 2002
+},
+"Ermedin Demirović": {
+"pos": "Forward",
+"born": 1998
+},
+"Chris Führich": {
+"pos": "Central midfielder, left winger",
+"born": 1998
+},
+"Bilal El Khannouss": {
+"pos": "Attacking midfielder",
+"born": 2004
+},
+"Luca Jaquez": {
+"pos": "Centre-back",
+"born": 2003
+},
+"Atakan Karazor": {
+"pos": "Defensive midfielder",
+"born": 1996
+},
+"Dženan Pejčinović": {
+"pos": "Forward",
+"born": 2005
+},
+"Jamie Leweling": {
+"pos": "Attacking midfielder, right winger, forward",
+"born": 2001
+},
+"Leonidas Stergiou": {
+"pos": "Centre-back",
+"born": 2002
+},
+"Grischa Prömel": {
+"pos": "Midfielder",
+"born": 1995
+},
+"Lorenz Assignon": {
+"pos": "Right-back",
+"born": 2000
+},
+"Dan-Axel Zagadou": {
+"pos": "Centre-back",
+"born": 1999
+},
+"Jeff Chabot": {
+"pos": "Centre-back",
+"born": 1998
+},
+"Deniz Undav": {
+"pos": "Forward",
+"born": 1996
+},
+"Nikolas Nartey": {
+"pos": "Midfielder",
+"born": 2000
+},
+"Finn Jeltsch": {
+"pos": "Centre-back",
+"born": 2006
+},
+"Justin Diehl": {
+"pos": "Forward",
+"born": 2004
+},
+"Marius Funk": {
+"pos": "Goalkeeper",
+"born": 1996
+},
+"Dennis Seimen": {
+"pos": "Goalkeeper",
+"born": 2005
+},
+"Jarzinho Malanga": {
+"pos": "Winger",
+"born": 2006
+},
+"Leo Sauer": {
+"pos": "Winger",
+"born": 2005
+},
+"Stefan Drljača": {
+"pos": "Goalkeeper",
+"born": 1999
+},
+"Thomas Strakosha": {
+"pos": "Goalkeeper",
+"born": 1995
+},
+"Harold Moukoudi": {
+"pos": "Centre-back",
+"born": 1997
+},
+"Stavros Pilios": {
+"pos": "Left-back, Wing-back",
+"born": 2000
+},
+"Christos Alexiou": {
+"pos": "Centre-back",
+"born": 2005
+},
+"Kaan Kairinen": {
+"pos": "Central midfielder",
+"born": 1998
+},
+"Dereck Kutesa": {
+"pos": "Winger",
+"born": 1997
+},
+"Mijat Gaćinović": {
+"pos": "Midfielder, Winger",
+"born": 1995
+},
+"Luka Jović": {
+"pos": "Striker",
+"born": 1997
+},
+"Oleksandr Zubkov": {
+"pos": "Winger, attacking midfielder",
+"born": 1996
+},
+"Aboubakary Koïta": {
+"pos": "Winger, Forward",
+"born": 1998
+},
+"Lazaros Rota": {
+"pos": "Right-back",
+"born": 1997
+},
+"Lovro Majer": {
+"pos": "Midfielder",
+"born": 1998
+},
+"Martin Georgiev": {
+"pos": "Defender",
+"born": 2005
+},
+"Kervin Arriaga": {
+"pos": "Defensive midfielder",
+"born": 1998
+},
+"Dimitris Kaloskamis": {
+"pos": "Attacking midfielder",
+"born": 2005
+},
+"Răzvan Marin": {
+"pos": "Midfielder",
+"born": 1996
+},
+"Barnabás Varga": {
+"pos": "Striker",
+"born": 1994
+},
+"Petros Mantalos": {
+"pos": "Midfielder",
+"born": 1991
+},
+"Domagoj Vida": {
+"pos": "Centre-back",
+"born": 1989
+},
+"Charalampos Lykogiannis": {
+"pos": "Left-back",
+"born": 1993
+},
+"João Mário (footballer, born January 1993)": {
+"pos": "Midfielder",
+"born": 1993
+},
+"Milán Vitális": {
+"pos": "Midfielder",
+"born": 2002
+},
+"Filipe Relvas": {
+"pos": "Defender",
+"born": 1999
+},
+"Hakim Sahabo": {
+"pos": "Midfielder",
+"born": 2005
+},
+"Zini (footballer)": {
+"pos": "Forward",
+"born": 2002
+},
+"Alberto Brignoli": {
+"pos": "Goalkeeper",
+"born": 1991
+},
+"Frantzdy Pierrot": {
+"pos": "Forward",
+"born": 1995
+},
+"Lukas Jungwirth": {
+"pos": "Goalkeeper",
+"born": 2004
+},
+"George Bello": {
+"pos": "Left-back",
+"born": 2002
+},
+"Miguel Freckleton": {
+"pos": "Defender",
+"born": 2003
+},
+"Xavier Mbuyamba": {
+"pos": "Centre-back",
+"born": 2001
+},
+"Art Smakaj": {
+"pos": "Defensive midfielder",
+"born": 2003
+},
+"Melayro Bogarde": {
+"pos": "Centre-back",
+"born": 2002
+},
+"Samuel Adeniran": {
+"pos": "Forward",
+"born": 1998
+},
+"Moses Usor": {
+"pos": "Winger",
+"born": 2002
+},
+"Kryštof Daněk": {
+"pos": "Midfielder",
+"born": 2003
+},
+"Robert Ljubičić": {
+"pos": "Midfielder",
+"born": 1999
+},
+"Saša Kalajdžić": {
+"pos": "Striker",
+"born": 1997
+},
+"Andrés Andrade (footballer, born 1998)": {
+"pos": "Defender",
+"born": 1998
+},
+"Alessandro Schöpf": {
+"pos": "Midfielder",
+"born": 1994
+},
+"Kasper Jørgensen (footballer)": {
+"pos": "Right-back",
+"born": 1999
+},
+"Ramiz Harakaté": {
+"pos": "Winger, forward",
+"born": 2002
+},
+"Daniel Elfadli": {
+"pos": "Defensive midfielder",
+"born": 1997
+},
+"Yvan Dibango": {
+"pos": "Defender",
+"born": 2002
+},
+"Christoph Lang": {
+"pos": "Forward",
+"born": 2002
+},
+"Florian Flecker": {
+"pos": "Right winger",
+"born": 1995
+},
+"Sascha Horvath": {
+"pos": "Midfielder",
+"born": 1996
+},
+"Tobias Schützenauer": {
+"pos": "Goalkeeper",
+"born": 1997
+},
+"Alemão (footballer, born November 2002)": {
+"pos": "Centre-back",
+"born": 2002
+},
+"Jean Butez": {
+"pos": "Goalkeeper",
+"born": 1995
+},
+"Marc-Oliver Kempf": {
+"pos": "Centre-back",
+"born": 1995
+},
+"Álex Valle": {
+"pos": "Left-back",
+"born": 2004
+},
+"Jacobo Ramón": {
+"pos": "Centre-back",
+"born": 2005
+},
+"Máximo Perrone": {
+"pos": "Defensive midfielder",
+"born": 2003
+},
+"Luis Milla (footballer, born 1994)": {
+"pos": "Central midfielder",
+"born": 1994
+},
+"Lucas Da Cunha": {
+"pos": "Midfielder",
+"born": 2001
+},
+"Maxence Caqueret": {
+"pos": "Defensive midfielder",
+"born": 2000
+},
+"Anastasios Douvikas": {
+"pos": "Forward",
+"born": 1999
+},
+"Nico Paz": {
+"pos": "Attacking midfielder",
+"born": 2004
+},
+"Assane Diao": {
+"pos": "Winger",
+"born": 2005
+},
+"Alberto Dossena": {
+"pos": "Centre-back",
+"born": 1998
+},
+"Adrian Lahdo": {
+"pos": "Midfielder",
+"born": 2007
+},
+"Kaiki Bruno": {
+"pos": "Left-back",
+"born": 2003
+},
+"Jesús Rodríguez (footballer, born 2005)": {
+"pos": "Winger",
+"born": 2005
+},
+"Edoardo Goldaniga": {
+"pos": "Centre back",
+"born": 1993
+},
+"Martin Baturina": {
+"pos": "Attacking midfielder",
+"born": 2003
+},
+"Samuele Ricci": {
+"pos": "Defensive midfielder",
+"born": 2001
+},
+"Mauro Vigorito": {
+"pos": "Goalkeeper",
+"born": 1990
+},
+"Yan Couto": {
+"pos": "",
+"born": 2002
+},
+"Ivan Smolčić": {
+"pos": "Right-back, centre-back",
+"born": 2000
+},
+"Mattia Liberali": {
+"pos": "",
+"born": 2007
+},
+"Jayden Addai": {
+"pos": "Forward",
+"born": 2005
+},
+"Willy Kambwala": {
+"pos": "Centre-back",
+"born": 2004
+},
+"Moise Kean": {
+"pos": "Striker",
+"born": 2000
+},
+"Robert Sánchez": {
+"pos": "Goalkeeper",
+"born": 1997
+},
+"Trevoh Chalobah": {
+"pos": "Centre-back",
+"born": 1999
+},
+"Régis Gurtner": {
+"pos": "Goalkeeper",
+"born": 1986
+},
+"Ruben Aguilar": {
+"pos": "Right-back",
+"born": 1993
+},
+"Maik Nawrocki": {
+"pos": "Centre-back",
+"born": 2001
+},
+"Nidal Čelik": {
+"pos": "Centre-back",
+"born": 2006
+},
+"Andrija Bulatović": {
+"pos": "Midfielder",
+"born": 2006
+},
+"Samson Baidoo": {
+"pos": "Defender",
+"born": 2004
+},
+"Florian Sotoca": {
+"pos": "Striker",
+"born": 1990
+},
+"Yacine Titraoui": {
+"pos": "Central midfielder",
+"born": 2003
+},
+"Thorgan Hazard": {
+"pos": "Attacking midfielder, winger",
+"born": 1993
+},
+"Florian Thauvin": {
+"pos": "Right winger, forward",
+"born": 1993
+},
+"Odsonne Édouard": {
+"pos": "Striker",
+"born": 1998
+},
+"Jhoanner Chávez": {
+"pos": "Left back",
+"born": 2002
+},
+"Matthieu Udol": {
+"pos": "Defender",
+"born": 1996
+},
+"Mathieu Gorgelin": {
+"pos": "Goalkeeper",
+"born": 1990
+},
+"Abdallah Sima": {
+"pos": "Forward",
+"born": 2001
+},
+"Jean-Clair Todibo": {
+"pos": "Centre-back",
+"born": 1999
+},
+"Amadou Haidara": {
+"pos": "Midfielder",
+"born": 1998
+},
+"Michał Skóraś": {
+"pos": "Winger, wing-back",
+"born": 2000
+},
+"Saud Abdulhamid": {
+"pos": "Right-back",
+"born": 1999
+},
+"Jonathan Gradit": {
+"pos": "Centre-back",
+"born": 1992
+},
+"Ismaëlo Ganiou": {
+"pos": "Centre-back",
+"born": 2005
+},
+"Michaël Cuisance": {
+"pos": "Central midfielder",
+"born": 1999
+},
+"Junior Kadile": {
+"pos": "Forward",
+"born": 2002
+},
+"Franjo Ivanović": {
+"pos": "Forward",
+"born": 2003
+},
+"Souleymane Sagnan": {
+"pos": "Centre-back",
+"born": 2005
+},
+"Kyllian Antonio": {
+"pos": "Defender",
+"born": 2008
+},
+"Mezian Mesloub": {
+"pos": "Midfielder",
+"born": 2009
+},
+"Robin Risser": {
+"pos": "Goalkeeper",
+"born": 2004
+},
+"Arild Østbø": {
+"pos": "Goalkeeper",
+"born": 1991
+},
+"Herman Haugen": {
+"pos": "Right-back",
+"born": 2000
+},
+"Viljar Vevatne": {
+"pos": "Defender",
+"born": 1994
+},
+"Martin Ove Roseth": {
+"pos": "Centre-back",
+"born": 1998
+},
+"Henrik Heggheim": {
+"pos": "Centre-back",
+"born": 2001
+},
+"Gianni Stensness": {
+"pos": "Defensive midfielder, Centre-back",
+"born": 1999
+},
+"Kristoffer Askildsen": {
+"pos": "Midfielder",
+"born": 2001
+},
+"Joe Bell (footballer)": {
+"pos": "Defensive midfielder",
+"born": 1999
+},
+"Nicholas D'Agostino (soccer)": {
+"pos": "Striker",
+"born": 1998
+},
+"Zlatko Tripić": {
+"pos": "Winger",
+"born": 1992
+},
+"Romano Postema": {
+"pos": "Forward",
+"born": 2002
+},
+"Veton Berisha": {
+"pos": "Forward",
+"born": 1994
+},
+"Ola Visted": {
+"pos": "Midfielder",
+"born": 2005
+},
+"Henrik Bjørdal": {
+"pos": "Midfielder",
+"born": 1997
+},
+"Essiën Bassey": {
+"pos": "Right-back",
+"born": 2006
+},
+"Sondre Bjørshol": {
+"pos": "Right-back",
+"born": 1994
+},
+"Peter Christiansen (footballer, born 1999)": {
+"pos": "Striker",
+"born": 1999
+},
+"Anders Bærtelsen": {
+"pos": "Centre back",
+"born": 2000
+},
+"Erik Botheim": {
+"pos": "Forward",
+"born": 2000
+},
+"Niklas Fuglestad": {
+"pos": "MF",
+"born": 2006
+},
+"Vetle Auklend": {
+"pos": "Left-back",
+"born": 2005
+},
+"Henrik Falchener": {
+"pos": "Centre-back",
+"born": 2003
+},
+"Simen Kvia-Egeskog": {
+"pos": "Midfielder",
+"born": 2003
+},
+"Jesper Daland": {
+"pos": "Centre-back",
+"born": 2000
+},
+"Kristoffer Haugen": {
+"pos": "Left-back",
+"born": 1994
+},
+"Tobias Moi": {
+"pos": "Midfielder",
+"born": 2006
+},
+"Ľubomír Belko": {
+"pos": "Goalkeeper",
+"born": 2002
+},
+"Jakob Segadal Hansen": {
+"pos": "Midfielder",
+"born": 2005
+},
+"Amin Ramazanov ": {
+"pos": "Goalkeeper",
+"born": 2003
+},
+"Steve Solvet": {
+"pos": "Centre-back",
+"born": 1996
+},
+"Aden McCarthy": {
+"pos": "Centre-back",
+"born": 2003
+},
+"Rahman Dashdamirov": {
+"pos": "Centre-back",
+"born": 1999
+},
+"Abdulakh Khaybulayev": {
+"pos": "Midfielder",
+"born": 2001
+},
+"Umarali Rakhmonaliev": {
+"pos": "Defensive midfielder",
+"born": 2003
+},
+"Christian Nwachukwu": {
+"pos": "Winger",
+"born": 2005
+},
+"Khayal Aliyev (footballer)": {
+"pos": "Midfielder",
+"born": 2004
+},
+"Aleksey Isayev": {
+"pos": "Midfielder",
+"born": 1995
+},
+"Kaheem Parris": {
+"pos": "Winger",
+"born": 2000
+},
+"Ivan Lepinjica": {
+"pos": "Midfielder",
+"born": 1999
+},
+"Rauf Rustamli": {
+"pos": "Midfielder",
+"born": 2003
+},
+"Tellur Mutallimov": {
+"pos": "Winger",
+"born": 1995
+},
+"Joy-Lance Mickels": {
+"pos": "Winger",
+"born": 1994
+},
+"Veljko Simić": {
+"pos": "Winger",
+"born": 1995
+},
+"Zinédine Ould Khaled": {
+"pos": "Midfielder",
+"born": 2000
+},
+"Younes Lachaab": {
+"pos": "Winger",
+"born": 2005
+},
+"Tymoteusz Puchacz": {
+"pos": "Left-back",
+"born": 1999
+},
+"Erivaldo Almeida": {
+"pos": "Centre-back",
+"born": 2000
+},
+"Xander Severina": {
+"pos": "Winger",
+"born": 2001
+},
+"Du Queiroz": {
+"pos": "Midfielder",
+"born": 2000
+},
+"Akim Zedadka": {
+"pos": "Right-back",
+"born": 1995
+},
+"Rodrigo Fernandes": {
+"pos": "Midfielder",
+"born": 2001
+},
+"Stas Pokatilov": {
+"pos": "Goalkeeper",
+"born": 1992
+},
+"Orphé Mbina": {
+"pos": "Forward",
+"born": 2000
+},
+"Carlos Eduardo (footballer, born 2002)": {
+"pos": "Forward",
+"born": 2002
+},
+"Nuno Lima": {
+"pos": "Centre-back",
+"born": 2001
+},
+"Fidan Aliti": {
+"pos": "Centre-back",
+"born": 1993
+},
+"İbrahim Kaya": {
+"pos": "Attacking midfielder",
+"born": 2001
+},
+"Enes Keskin": {
+"pos": "Midfielder",
+"born": 2001
+},
+"Ianis Hagi": {
+"pos": "Attacking midfielder, winger",
+"born": 1998
+},
+"Ruan (footballer, born 2005)": {
+"pos": "Forward",
+"born": 2005
+},
+"Meschak Elia": {
+"pos": "Forward",
+"born": 1997
+},
+"Emre Demir": {
+"pos": "Attacking midfielder, winger",
+"born": 2004
+},
+"Hwang Ui-jo": {
+"pos": "Striker",
+"born": 1992
+},
+"Iván Cédric": {
+"pos": "Forward",
+"born": 2001
+},
+"Fatih Aksoy": {
+"pos": "Centre-back",
+"born": 1997
+},
+"Paolo Fernandes": {
+"pos": "Winger, attacking midfielder",
+"born": 1998
+},
+"İzzet Çelik": {
+"pos": "Winger",
+"born": 2004
+},
+"Gaius Makouta": {
+"pos": "Midfielder",
+"born": 1997
+},
+"Paulo Victor (footballer, born 1987)": {
+"pos": "Goalkeeper",
+"born": 1987
+},
+"Baran Gezek": {
+"pos": "Midfielder",
+"born": 2005
+},
+"Maestro (footballer)": {
+"pos": "Midfielder",
+"born": 2003
+},
+"Yusuf Özdemir": {
+"pos": "Midfielder",
+"born": 2001
+},
+"Florent Hadergjonaj": {
+"pos": "Right-back",
+"born": 1994
+},
+"Yusuf Karagöz": {
+"pos": "Goalkeeper",
+"born": 1999
+},
+"David Bates (footballer)": {
+"pos": "Centre-back",
+"born": 1996
+},
+"Lumbardh Dellova": {
+"pos": "Centre-back",
+"born": 1999
+},
+"Cem Üstündag": {
+"pos": "Midfielder",
+"born": 2001
+},
+"Ermal Krasniqi": {
+"pos": "Winger",
+"born": 1998
+},
+"Furkan Soyalp": {
+"pos": "Central midfielder",
+"born": 1995
+},
+"Samuel Ballet": {
+"pos": "Forward",
+"born": 2001
+},
+"Yira Sor": {
+"pos": "Winger",
+"born": 2000
+},
+"Umut Meraş": {
+"pos": "Left-back",
+"born": 1995
+},
+"Gökhan Gül": {
+"pos": "Defensive midfielder, centre-back",
+"born": 1998
+},
+"Mehmet Yeşil": {
+"pos": "Centre-back",
+"born": 1998
+},
+"Rayan Raveloson": {
+"pos": "Midfielder",
+"born": 1997
+},
+"Mustafa Burak Bozan": {
+"pos": "Goalkeeper",
+"born": 2000
+},
+"Amadou Cissé (footballer, born 2006)": {
+"pos": "Centre-back",
+"born": 2006
+},
+"Alban Lafont": {
+"pos": "Goalkeeper",
+"born": 1999
+},
+"Mbaye Diagne (footballer)": {
+"pos": "Striker",
+"born": 1991
+},
+"Kahraman Demirtaş": {
+"pos": "Defender",
+"born": 1994
+},
+"Ali Turap Bülbül": {
+"pos": "Right-back",
+"born": 2005
+},
+"Dia Saba": {
+"pos": "Attacking midfielder",
+"born": 1992
+},
+"Rayan Lutin": {
+"pos": "Midfielder",
+"born": 2003
+},
+"Gift Orban": {
+"pos": "Striker",
+"born": 2002
+},
+"Volkan Babacan": {
+"pos": "Goalkeeper",
+"born": 1988
+},
+"Jerome Opoku": {
+"pos": "Centre-back",
+"born": 1998
+},
+"Onur Ergün": {
+"pos": "Midfielder",
+"born": 1992
+},
+"Onur Bulut": {
+"pos": "Right back",
+"born": 1994
+},
+"Yusuf Sarı": {
+"pos": "Winger",
+"born": 1998
+},
+"Olivier Kemen": {
+"pos": "Midfielder",
+"born": 1996
+},
+"Davie Selke": {
+"pos": "Striker",
+"born": 1995
+},
+"Edin Višća": {
+"pos": "Winger",
+"born": 1990
+},
+"Abbosbek Fayzullaev": {
+"pos": "Attacking midfielder, winger",
+"born": 2003
+},
+"Eldor Shomurodov": {
+"pos": "Forward",
+"born": 1995
+},
+"Hamza Güreler": {
+"pos": "Centre-back",
+"born": 2006
+},
+"Muhammed Şengezer": {
+"pos": "Goalkeeper",
+"born": 1997
+},
+"Umut Bozok": {
+"pos": "Striker",
+"born": 1996
+},
+"Jakub Kałuziński": {
+"pos": "Midfielder",
+"born": 2002
+},
+"Berkay Özcan": {
+"pos": "Central midfielder",
+"born": 1998
+},
+"Umut Güneş": {
+"pos": "Midfielder",
+"born": 2000
+},
+"Christopher Opéri": {
+"pos": "Left-back",
+"born": 1997
+},
+"Emin Bayram": {
+"pos": "Centre back",
+"born": 2003
+},
+"Ousseynou Ba": {
+"pos": "Centre-back",
+"born": 1995
+},
+"Michał Karbownik": {
+"pos": "Full-back",
+"born": 2001
+},
+"Saba Kharebashvili": {
+"pos": "Defender",
+"born": 2008
+},
+"Ömer Ali Şahiner": {
+"pos": "Right back / Right wing",
+"born": 1992
+},
+"Andreas Skov Olsen": {
+"pos": "Right winger",
+"born": 1999
+},
+"Ivan Brnić": {
+"pos": "Winger",
+"born": 2001
+},
+"Bertuğ Yıldırım": {
+"pos": "Forward",
+"born": 2002
+},
+"Deniz Dilmen": {
+"pos": "Goalkeeper",
+"born": 2005
+},
+"Alexander Nübel": {
+"pos": "Goalkeeper",
+"born": 1996
+},
+"Wilfred Ndidi": {
+"pos": "Defensive midfielder",
+"born": 1996
+},
+"Salih Özcan": {
+"pos": "Defensive midfielder",
+"born": 1998
+},
+"Milot Rashica": {
+"pos": "Attacking midfielder, winger",
+"born": 1996
+},
+"Kartal Yılmaz": {
+"pos": "Defensive midfielder",
+"born": 2000
+},
+"Oh Hyeon-gyu": {
+"pos": "Forward",
+"born": 2001
+},
+"Orkun Kökçü": {
+"pos": "Midfielder",
+"born": 2000
+},
+"Kassoum Ouattara": {
+"pos": "Left-back",
+"born": 2004
+},
+"Emmanuel Agbadou": {
+"pos": "Centre-back",
+"born": 1997
+},
+"Junior Olaitan": {
+"pos": "Attacking midfielder",
+"born": 2002
+},
+"Ernest Poku": {
+"pos": "Winger, wing-back",
+"born": 2004
+},
+"Václav Černý (footballer)": {
+"pos": "Attacking midfielder, wide midfielder",
+"born": 1997
+},
+"Leandro Trossard": {
+"pos": "Left winger, forward",
+"born": 1994
+},
+"Fabio Miretti": {
+"pos": "Midfielder",
+"born": 2003
+},
+"Taylan Bulut": {
+"pos": "Right-back",
+"born": 2006
+},
+"Mustafa Erhan Hekimoğlu": {
+"pos": "Forward",
+"born": 2007
+},
+"Dušan Vlahović": {
+"pos": "Striker",
+"born": 2000
+},
+"İlhan Fakılı": {
+"pos": "Left winger",
+"born": 2006
+},
+"Rıdvan Yılmaz": {
+"pos": "Left-back",
+"born": 2001
+},
+"Tiago Djaló": {
+"pos": "Centre-back",
+"born": 2000
+},
+"Ümit Akdağ": {
+"pos": "Centre-back",
+"born": 2003
+},
+"Emirhan Topçu": {
+"pos": "Centre back",
+"born": 2000
+},
+"Yasin Özcan": {
+"pos": "Centre-back, left-back",
+"born": 2006
+},
+"Michael Amir Murillo": {
+"pos": "Right-back",
+"born": 1996
+},
+"Doğan Alemdar": {
+"pos": "Goalkeeper",
+"born": 2002
+},
+"Semih Kılıçsoy": {
+"pos": "Forward",
+"born": 2005
+},
+"Marcos Felipe": {
+"pos": "Goalkeeper",
+"born": 1996
+},
+"Berat Özdemir": {
+"pos": "Defensive midfielder",
+"born": 1998
+},
+"Serdar Saatçı": {
+"pos": "Centre-back",
+"born": 2003
+},
+"Alexandre Penetra": {
+"pos": "Centre-back, right-back",
+"born": 2001
+},
+"Hrvoje Smolčić": {
+"pos": "Centre back",
+"born": 2000
+},
+"Markus Karlsbakk": {
+"pos": "Midfielder",
+"born": 2000
+},
+"Mame Thiam": {
+"pos": "Forward",
+"born": 1992
+},
+"Mohamed Diomande": {
+"pos": "Midfielder",
+"born": 2001
+},
+"Gökhan Sazdağı": {
+"pos": "Midfielder, Right-back",
+"born": 1994
+},
+"Fredy (footballer, born 1990)": {
+"pos": "Winger",
+"born": 1990
+},
+"Emircan Gürlük": {
+"pos": "Left winger",
+"born": 2003
+},
+"Erhan Erentürk": {
+"pos": "Goalkeeper",
+"born": 1995
+},
+"Jesús Ramírez (Venezuelan footballer)": {
+"pos": "Striker",
+"born": 1998
+},
+"Ylber Ramadani": {
+"pos": "Defensive midfielder",
+"born": 1996
+},
+"Göktan Gürpüz": {
+"pos": "Attacking Midfielder",
+"born": 2003
+},
+"Cengiz Ünder": {
+"pos": "Winger, forward",
+"born": 1997
+},
+"Andrei Borza": {
+"pos": "Left-back",
+"born": 2005
+},
+"Ermin Mahmić": {
+"pos": "Attacking midfielder",
+"born": 2005
+},
+"Ahmed Ildız": {
+"pos": "Midfielder",
+"born": 1996
+},
+"Cemali Sertel": {
+"pos": "Left back",
+"born": 2000
+},
+"Alexandros Kyziridis": {
+"pos": "Winger",
+"born": 2000
+},
+"Youssoufa Moukoko": {
+"pos": "Striker",
+"born": 2004
+},
+"Çağlar Söyüncü": {
+"pos": "Centre-back",
+"born": 1996
+},
+"Ertuğrul Taşkıran": {
+"pos": "Goalkeeper",
+"born": 1989
+},
+"Festy Ebosele": {
+"pos": "Right-back, right wing-back",
+"born": 2002
+},
+"Yakup Kırtay": {
+"pos": "Centre back",
+"born": 2003
+},
+"Amar Gërxhaliu": {
+"pos": "Centre-back",
+"born": 2002
+},
+"Brandon Baiye": {
+"pos": "Midfielder",
+"born": 2000
+},
+"Sefa Akgün": {
+"pos": "Midfielder",
+"born": 2000
+},
+"Gyrano Kerk": {
+"pos": "Right winger, forward",
+"born": 1995
+},
+"Eren Tozlu": {
+"pos": "Forward",
+"born": 1990
+},
+"Guram Giorbelidze": {
+"pos": "Left-back",
+"born": 1996
+},
+"Nihad Mujakić": {
+"pos": "Centre-back",
+"born": 1998
+},
+"Ibrahim Diabate": {
+"pos": "Forward",
+"born": 1999
+},
+"Miguel Cardoso (footballer, born 1994)": {
+"pos": "Winger",
+"born": 1994
+},
+"Mustafa Yumlu": {
+"pos": "Centre-back",
+"born": 1987
+},
+"Elisha Owusu": {
+"pos": "Midfielder",
+"born": 1997
+},
+"Orhan Ovacıklı": {
+"pos": "Right back",
+"born": 1988
+},
+"Martín Rodríguez (Chilean footballer)": {
+"pos": "Midfielder",
+"born": 1994
+},
+"Nariman Akhundzade": {
+"pos": "Winger",
+"born": 2004
+},
+"Lawrence Agyekum": {
+"pos": "Midfielder",
+"born": 2003
+},
+"Emre Bilgin": {
+"pos": "Goalkeeper",
+"born": 2004
+},
+"Anıl Yaşar": {
+"pos": "Centre back",
+"born": 2002
+},
+"Jawad El Yamiq": {
+"pos": "Centre-back",
+"born": 1992
+},
+"Talha Ülvan": {
+"pos": "Right-back",
+"born": 2001
+},
+"David Costa (footballer, born 2004)": {
+"pos": "Attacking midfielder",
+"born": 2004
+},
+"Yusuf Barası": {
+"pos": "Forward",
+"born": 2003
+},
+"Abdelhamid Sabiri": {
+"pos": "Attacking midfielder",
+"born": 1996
+},
+"Lenny Pintor": {
+"pos": "Winger",
+"born": 2000
+},
+"Hamza Akman": {
+"pos": "Midfielder",
+"born": 2004
+},
+"Simone Giordano": {
+"pos": "Left-back, left midfielder",
+"born": 2001
+},
+"Ahmed Abdullahi (footballer)": {
+"pos": "Forward",
+"born": 2004
+},
+"Horațiu Moldovan": {
+"pos": "Goalkeeper",
+"born": 1998
+},
+"Zak Jules": {
+"pos": "Defender",
+"born": 1997
+},
+"Mete Kaan Demir": {
+"pos": "Winger",
+"born": 1998
+},
+"Konrad Michalak": {
+"pos": "Winger",
+"born": 1997
+},
+"Chandrel Massanga": {
+"pos": "Midfielder",
+"born": 1999
+},
+"Bilal Boutobba": {
+"pos": "Winger",
+"born": 1998
+},
+"Taşkın İlter": {
+"pos": "Midfielder",
+"born": 1994
+},
+"Luis Pérez (footballer, born 1995)": {
+"pos": "Right-back",
+"born": 1995
+},
+"Drissa Camara": {
+"pos": "Midfielder",
+"born": 2002
+},
+"Arda Kızıldağ": {
+"pos": "Defender",
+"born": 1998
+},
+"Ulrich Meleke": {
+"pos": "Centre-back, defensive midfielder",
+"born": 1999
+},
+"Juninho Bacuna": {
+"pos": "Central midfielder",
+"born": 1997
+},
+"Victor Gidado": {
+"pos": "Attacking midfielder",
+"born": 2004
+},
+"Trivante Stewart": {
+"pos": "Forward",
+"born": 2000
+},
+"Kacper Kozłowski (footballer)": {
+"pos": "Midfielder",
+"born": 2003
+},
+"Mirza Cihan": {
+"pos": "Winger",
+"born": 2000
+},
+"Myenty Abena": {
+"pos": "Centre-back",
+"born": 1994
+},
+"Deian Sorescu": {
+"pos": "Winger, full-back",
+"born": 1997
+},
+"Serdar Dursun": {
+"pos": "Striker",
+"born": 1991
+},
+"Sontje Hansen": {
+"pos": "Winger",
+"born": 2002
+},
+"Kerim Çalhanoğlu": {
+"pos": "Left-back",
+"born": 2002
+},
+"Kacper Tobiasz": {
+"pos": "Goalkeeper",
+"born": 2002
+},
+"Enver Kulašin": {
+"pos": "Winger",
+"born": 2003
+},
+"Halil Dervişoğlu": {
+"pos": "Forward",
+"born": 1999
+},
+"Alexandru Maxim": {
+"pos": "Attacking midfielder",
+"born": 1990
+},
+"Ogün Özçiçek": {
+"pos": "Defensive midfielder",
+"born": 1999
+},
+"Florin Ștefan": {
+"pos": "Left-back",
+"born": 1996
+},
+"Nazım Sangaré": {
+"pos": "Right-back",
+"born": 1994
+},
+"Karamba Gassama": {
+"pos": "Midfielder",
+"born": 2005
+},
+"Ataberk Dadakdeniz": {
+"pos": "Goalkeeper",
+"born": 1999
+},
+"Abakar Sylla": {
+"pos": "Centre-back",
+"born": 2002
+},
+"Efe Sarıkaya": {
+"pos": "Centre-back, left-back",
+"born": 2005
+},
+"Thalisson": {
+"pos": "Centre back",
+"born": 1998
+},
+"Peter Etebo": {
+"pos": "Central midfielder",
+"born": 1995
+},
+"Dimitrios Goutas": {
+"pos": "Centre-back",
+"born": 1994
+},
+"Tiago Gouveia": {
+"pos": "Right winger",
+"born": 2001
+},
+"Franco Tongya": {
+"pos": "Winger",
+"born": 2002
+},
+"Pedro Pereira (footballer, born 1998)": {
+"pos": "Right-back",
+"born": 1998
+},
+"Adama Traoré (footballer, born 5 June 1995)": {
+"pos": "Winger",
+"born": 1995
+},
+"Cheikh Niasse": {
+"pos": "Defensive midfielder",
+"born": 2000
+},
+"Sékou Koïta": {
+"pos": "Forward",
+"born": 1999
+},
+"Gökhan Akkan": {
+"pos": "Goalkeeper",
+"born": 1995
+},
+"Oğulcan Ülgün": {
+"pos": "Defensive midfielder",
+"born": 1998
+},
+"Ousmane Diabaté (footballer, born 2007)": {
+"pos": "Defensive midfielder",
+"born": 2007
+},
+"Prince Martor Jr.": {
+"pos": "Forward, winger",
+"born": 2007
+},
+"Salih Uçan": {
+"pos": "Midfielder",
+"born": 1994
+},
+"İrfan Can Eğribayat": {
+"pos": "Goalkeeper",
+"born": 1998
+},
+"Abdurrahim Dursun": {
+"pos": "Left back",
+"born": 1998
+},
+"Fıratcan Üzüm": {
+"pos": "Midfielder",
+"born": 1999
+},
+"Metehan Baltacı": {
+"pos": "Centre-back",
+"born": 2002
+},
+"Kévin Rodrigues": {
+"pos": "Left-back",
+"born": 1994
+},
+"Victor Orakpo": {
+"pos": "Forward",
+"born": 2006
+},
+"Pedro Mendes (footballer, born 1999)": {
+"pos": "Striker",
+"born": 1999
+},
+"Rafael Luís": {
+"pos": "Defensive midfielder",
+"born": 2005
+},
+"Arda Özçimen": {
+"pos": "Goalkeeper",
+"born": 2002
+},
+"Arda Okan Kurtulan": {
+"pos": "Winger",
+"born": 2002
+},
+"Allan Godói": {
+"pos": "Centre-back",
+"born": 1993
+},
+"Taha Altıkardeş": {
+"pos": "centre-back",
+"born": 2003
+},
+"Rhaldney": {
+"pos": "Midfielder",
+"born": 1998
+},
+"Alex Matos": {
+"pos": "Defensive midfielder",
+"born": 2004
+},
+"André Henrique": {
+"pos": "Striker, winger",
+"born": 2001
+},
+"Alexis Antunes": {
+"pos": "Midfielder",
+"born": 2000
+},
+"Juan (footballer, born March 2002)": {
+"pos": "Forward",
+"born": 2002
+},
+"Efkan Bekiroğlu": {
+"pos": "Midfielder",
+"born": 1995
+},
+"Richard Akonnor": {
+"pos": "Left-back",
+"born": 2004
+},
+"Ogün Bayrak": {
+"pos": "Right-back",
+"born": 1998
+},
+"Gökdeniz Bayrakdar": {
+"pos": "Winger",
+"born": 2001
+},
+"Noah Sonko Sundberg": {
+"pos": "Defender",
+"born": 1996
+},
+"Novatus Miroshi": {
+"pos": "Left-back",
+"born": 2002
+},
+"Sinclair Armstrong": {
+"pos": "Forward",
+"born": 2003
+},
+"Furkan Bayır": {
+"pos": "Centre-back",
+"born": 2000
+},
+"Luka Gugeshashvili": {
+"pos": "Goalkeeper",
+"born": 1999
+},
+"Malcom Bokele": {
+"pos": "Centre-back",
+"born": 2000
+},
+"Janderson (footballer, born May 1999)": {
+"pos": "Forward",
+"born": 1999
+},
+"Tino Anjorin": {
+"pos": "Attacking midfielder, left winger",
+"born": 2001
+},
+"Ibrahim Sabra": {
+"pos": "Striker",
+"born": 2006
+},
+"Andreas Gianniotis": {
+"pos": "Goalkeeper",
+"born": 1992
+},
+"Cláudio Winck": {
+"pos": "Right back",
+"born": 1994
+},
+"Adem Arous": {
+"pos": "Centre-back",
+"born": 2004
+},
+"Jakob Jessen": {
+"pos": "Left-back",
+"born": 2004
+},
+"Ali Yavuz Kol": {
+"pos": "Forward",
+"born": 2001
+},
+"Atakan Müjde": {
+"pos": "Midfielder",
+"born": 2003
+},
+"Adrian Benedyczak": {
+"pos": "Forward",
+"born": 2000
+},
+"Haris Hajradinović": {
+"pos": "Attacking midfielder",
+"born": 1994
+},
+"Thiemoko Diarra": {
+"pos": "Left Winger",
+"born": 2003
+},
+"Mortadha Ben Ouanes": {
+"pos": "Left-back",
+"born": 1994
+},
+"Kévin Mouanga": {
+"pos": "Centre-back",
+"born": 2000
+},
+"Andri Fannar Baldursson": {
+"pos": "Midfielder",
+"born": 2002
+},
+"Marcus Rafferty": {
+"pos": "Attacking midfielder, central midfielder",
+"born": 2004
+},
+"Kamil Ahmet Çörekçi": {
+"pos": "Right back",
+"born": 1992
+},
+"Ali Emre Yanar": {
+"pos": "Goalkeeper",
+"born": 1998
+},
+"Kerem Demirbay": {
+"pos": "Midfielder",
+"born": 1993
+},
+"Matei Ilie": {
+"pos": "Centre-back",
+"born": 2002
+},
+"Taylan Aydın": {
+"pos": "Defender",
+"born": 2006
+},
+"Fousseni Diabaté": {
+"pos": "Attacking midfielder, forward",
+"born": 1995
+},
+"Ayberk Karapo": {
+"pos": "Centre-back",
+"born": 2004
+},
+"Güven Yalçın": {
+"pos": "Forward",
+"born": 1999
+},
+"Elson Mendes": {
+"pos": "Defensive midfielder",
+"born": 2005
+},
+"Godfried Frimpong": {
+"pos": "Left-back",
+"born": 1999
+},
+"Ömer Bayram": {
+"pos": "Left back",
+"born": 1991
+},
+"Jesurun Rak-Sakyi": {
+"pos": "Winger",
+"born": 2002
+},
+"Anfernee Dijksteel": {
+"pos": "Right-back, centre-back",
+"born": 1996
+},
+"Tanguy Zoukrou": {
+"pos": "Centre-back",
+"born": 2003
+},
+"Emir Ortakaya": {
+"pos": "Centre back",
+"born": 2004
+},
+"Matej Maglica": {
+"pos": "Centre-back",
+"born": 1998
+},
+"Dan Agyei": {
+"pos": "Forward, winger",
+"born": 1997
+},
+"Tobias Gulliksen": {
+"pos": "Winger, midfielder",
+"born": 2003
+},
+"Berkan Kutlu": {
+"pos": "Midfielder",
+"born": 1998
+},
+"Gonçalo Sousa": {
+"pos": "Winger",
+"born": 2006
+},
+"Show (footballer)": {
+"pos": "Midfielder",
+"born": 1999
+},
+"Haydar Karataş": {
+"pos": "Winger",
+"born": 2007
+},
+"Mahamadou Susoho": {
+"pos": "Defensive midfielder",
+"born": 2005
+},
+"Massadio Haïdara": {
+"pos": "Left-back",
+"born": 1992
+},
+"Uğur Kaan Yıldız": {
+"pos": "Right-back",
+"born": 2002
+},
+"Onurcan Piri": {
+"pos": "Goalkeeper",
+"born": 1994
+},
+"Metehan Altunbaş": {
+"pos": "Forward",
+"born": 2003
+},
+"Makana Baku": {
+"pos": "Left winger",
+"born": 1998
+},
+"Tayfur Bingöl": {
+"pos": "Right-back",
+"born": 1993
+},
+"Florian Ayé": {
+"pos": "Forward",
+"born": 1997
+},
+"Rigoberto Rivas": {
+"pos": "Winger, right-back",
+"born": 1998
+},
+"Bruno Petković": {
+"pos": "Striker",
+"born": 1994
+},
+"Aleksandar Jovanović (footballer, born December 1992)": {
+"pos": "Goalkeeper",
+"born": 1992
+},
+"Deniz Ertaş": {
+"pos": "Goalkeeper",
+"born": 2005
+},
+"Ahmet Oğuz": {
+"pos": "Right back, Midfielder",
+"born": 1993
+},
+"Arif Boşluk": {
+"pos": "Left-back",
+"born": 2003
+},
+"Adil Demirbağ": {
+"pos": "Centre back",
+"born": 1997
+},
+"Uğurcan Yazğılı": {
+"pos": "Defender",
+"born": 1999
+},
+"Diogo Gonçalves": {
+"pos": "Winger",
+"born": 1997
+},
+"Marko Jevtović (footballer)": {
+"pos": "Defensive midfielder",
+"born": 1993
+},
+"Deniz Türüç": {
+"pos": "Midfielder",
+"born": 1993
+},
+"Enis Bardhi": {
+"pos": "Attacking midfielder",
+"born": 1995
+},
+"Jackson Muleka": {
+"pos": "Striker",
+"born": 1999
+},
+"Bahadır Han Güngördü": {
+"pos": "Goalkeeper",
+"born": 1996
+},
+"Chidozie Awaziem": {
+"pos": "Centre-back",
+"born": 1997
+},
+"Yhoan Andzouana": {
+"pos": "Left back, winger",
+"born": 1996
+},
+"Ebrima Colley": {
+"pos": "Winger",
+"born": 2000
+},
+"Rayyan Baniya": {
+"pos": "Defender",
+"born": 1999
+},
+"Arthur Masuaku": {
+"pos": "Left-back, centre-back",
+"born": 1993
+},
+"Mostafa Mohamed (footballer)": {
+"pos": "Striker",
+"born": 1997
+},
+"Emir Bars": {
+"pos": "Midfielder",
+"born": 2005
+},
+"Rajmund Tóth": {
+"pos": "Midfielder",
+"born": 2004
+},
+"Melih İbrahimoğlu": {
+"pos": "Attacking midfielder",
+"born": 2000
+},
+"Jean-Luc Dompé": {
+"pos": "Left winger",
+"born": 1995
+},
+"Enis Destan": {
+"pos": "Forward",
+"born": 2002
+},
+"Husniddin Aliqulov": {
+"pos": "Centre-back",
+"born": 1999
+},
+"Attila Mocsi": {
+"pos": "Centre-back",
+"born": 2000
+},
+"Tayyip Talha Sanuç": {
+"pos": "Defender",
+"born": 1999
+},
+"Moussa Diakité (footballer, born 2003)": {
+"pos": "Midfielder",
+"born": 2003
+},
+"Valentin Mihăilă": {
+"pos": "Winger",
+"born": 2000
+},
+"Dal Varešanović": {
+"pos": "Attacking midfielder",
+"born": 2001
+},
+"Ali Sowe": {
+"pos": "Forward",
+"born": 1994
+},
+"Ibrahim Olawoyin": {
+"pos": "Winger",
+"born": 1997
+},
+"Adedire Mebude": {
+"pos": "Winger",
+"born": 2004
+},
+"Taylan Antalyalı": {
+"pos": "Central midfielder",
+"born": 1995
+},
+"Qazim Laçi": {
+"pos": "Central midfielder",
+"born": 1996
+},
+"Siaka Bakayoko": {
+"pos": "Centre-back",
+"born": 2005
+},
+"Ahmed Kutucu": {
+"pos": "Centre-forward",
+"born": 2000
+},
+"Zafer Görgen": {
+"pos": "Goalkeeper",
+"born": 2000
+},
+"Muhammet Taha Şahin": {
+"pos": "Right-back",
+"born": 2000
+},
+"Iustin Doicaru": {
+"pos": "Right winger",
+"born": 2007
+},
+"Mithat Pala": {
+"pos": "Central midfielder",
+"born": 2000
+},
+"Yahia Fofana": {
+"pos": "Goalkeeper",
+"born": 2000
+},
+"Modibo Sagnan": {
+"pos": "Centre back",
+"born": 1999
+},
+"Emrecan Bulut": {
+"pos": "Winger",
+"born": 2002
+},
+"Can Bozdoğan": {
+"pos": "Central midfielder",
+"born": 2001
+},
+"Gennaro Borrelli": {
+"pos": "Forward",
+"born": 2000
+},
+"Okan Kocuk": {
+"pos": "Goalkeeper",
+"born": 1995
+},
+"Joe Mendes": {
+"pos": "Right-back",
+"born": 2002
+},
+"Elliot Watt": {
+"pos": "Midfielder",
+"born": 2000
+},
+"Celil Yüksel": {
+"pos": "Midfielder",
+"born": 1998
+},
+"Elayis Tavsan": {
+"pos": "Right winger",
+"born": 2001
+},
+"Samed Onur": {
+"pos": "Winger",
+"born": 2002
+},
+"Marius Mouandilmadji": {
+"pos": "Striker",
+"born": 1998
+},
+"Tanguy Coulibaly": {
+"pos": "Winger",
+"born": 2001
+},
+"Emre Kılınç": {
+"pos": "Winger",
+"born": 1994
+},
+"Fatih Kaya": {
+"pos": "Forward",
+"born": 1999
+},
+"Jaurès Assoumou": {
+"pos": "Forward",
+"born": 2002
+},
+"Strahinja Eraković": {
+"pos": "Centre-back",
+"born": 2001
+},
+"Logi Tómasson": {
+"pos": "Left-back",
+"born": 2000
+},
+"Oskar Øhlenschlæger": {
+"pos": "CM",
+"born": 2004
+},
+"Yalçın Kayan": {
+"pos": "Midfielder",
+"born": 1999
+},
+"Yunus Emre Çift": {
+"pos": "Centre back",
+"born": 2003
+},
+"Bilal Bayazıt": {
+"pos": "Goalkeeper",
+"born": 1999
+},
+"Gabriele Guarino": {
+"pos": "Centre-back",
+"born": 2004
+},
+"Anto Sekongo": {
+"pos": "Attacking midfielder",
+"born": 2004
+},
+"Afonso Sousa": {
+"pos": "Central midfielder",
+"born": 2000
+},
+"Bedirhan Çetin": {
+"pos": "Centre-back",
+"born": 2006
+},
+"Mohamed Bayo": {
+"pos": "Forward",
+"born": 1998
+},
+"Ahmet Doğan Yıldırım": {
+"pos": "Goalkeeper",
+"born": 2006
+},
+"Batista Mendy": {
+"pos": "Defensive midfielder",
+"born": 2000
+},
+"Samet Akaydin": {
+"pos": "Centre-back",
+"born": 1994
+},
+"Okay Yokuşlu": {
+"pos": "Defensive midfielder",
+"born": 1994
+},
+"Fabinho (footballer, born 1993)": {
+"pos": "Defensive midfielder, centre-back",
+"born": 1993
+},
+"Ernest Muçi": {
+"pos": "Attacking midfielder",
+"born": 2001
+},
+"Benjamin Bouchouari": {
+"pos": "Midfielder",
+"born": 2001
+},
+"Franculino Djú": {
+"pos": "Forward",
+"born": 2004
+},
+"Mohamed Salah": {
+"pos": "Right winger",
+"born": 1992
+},
+"Ozan Tufan": {
+"pos": "Attacking midfielder, striker, right winger",
+"born": 1995
+},
+"Umut Nayir": {
+"pos": "Forward",
+"born": 1993
+},
+"Stefan Savić": {
+"pos": "Centre-back",
+"born": 1991
+},
+"Ruslan Malinovskyi": {
+"pos": "Attacking midfielder, right winger, second striker",
+"born": 1993
+},
+"Mustafa Eskihellaç": {
+"pos": "Left midfielder",
+"born": 1997
+},
+"Wagner Pina": {
+"pos": "Right-back",
+"born": 2002
+},
+"André Onana": {
+"pos": "Goalkeeper",
+"born": 1996
+},
+"Onuralp Çevikkan": {
+"pos": "Goalkeeper",
+"born": 2006
+},
+"Tim Jabol-Folcarelli": {
+"pos": "Midfielder",
+"born": 1999
+},
+"Chibuike Nwaiwu": {
+"pos": "Centre-back",
+"born": 2003
+},
+"Paul Onuachu": {
+"pos": "Striker",
+"born": 1994
+},
+"Cenk Özkacar": {
+"pos": "Defender",
+"born": 2000
+},
+"Arseniy Batagov": {
+"pos": "Centre-back",
+"born": 2002
+},
+"Sidny Lopes Cabral": {
+"pos": "Full-back",
+"born": 2002
+},
+"Melih Kabasakal": {
+"pos": "Defensive midfielder",
+"born": 1996
+},
+"Aral Şimşir": {
+"pos": "Winger",
+"born": 2002
+},
+"Cihan Çanak": {
+"pos": "Left winger",
+"born": 2005
+},
+"Noah Saviolo": {
+"pos": "Winger",
+"born": 2004
+},
+"Metehan Mimaroğlu": {
+"pos": "Winger",
+"born": 1994
+}
+}

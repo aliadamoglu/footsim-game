@@ -1,0 +1,128 @@
+[
+ {
+  "page": "Alanyaspor",
+  "name": "Alanyaspor",
+  "city": "Alanya",
+  "stadium": "Alanya Oba Stadium",
+  "cap": 9789
+ },
+ {
+  "page": "Amed S.F.K.",
+  "name": "Amedspor",
+  "city": "Diyarbakır",
+  "stadium": "Diyarbakır Stadium",
+  "cap": 30480
+ },
+ {
+  "page": "İstanbul Başakşehir F.K.",
+  "name": "Başakşehir",
+  "city": "Başakşehir",
+  "stadium": "Başakşehir Fatih Terim Stadium",
+  "cap": 17067
+ },
+ {
+  "page": "Beşiktaş J.K.",
+  "name": "Beşiktaş",
+  "city": "Beşiktaş",
+  "stadium": "Tüpraş Stadium",
+  "cap": 42684
+ },
+ {
+  "page": "Çorum F.K.",
+  "name": "Çorum",
+  "city": "Çorum",
+  "stadium": "Çorum City Stadium",
+  "cap": 13119
+ },
+ {
+  "page": "Erzurumspor F.K.",
+  "name": "Erzurumspor",
+  "city": "Erzurum",
+  "stadium": "Kazım Karabekir Stadium",
+  "cap": 20347
+ },
+ {
+  "page": "Eyüpspor",
+  "name": "Eyüpspor",
+  "city": "Eyüpsultan",
+  "stadium": "Recep Tayyip Erdoğan Stadium",
+  "cap": 13797
+ },
+ {
+  "page": "Fenerbahçe S.K. (football)",
+  "name": "Fenerbahçe",
+  "city": "Kadıköy",
+  "stadium": "Chobani Stadium",
+  "cap": 47911
+ },
+ {
+  "page": "Galatasaray S.K. (football)",
+  "name": "Galatasaray",
+  "city": "Sarıyer",
+  "stadium": "Rams Park",
+  "cap": 53387
+ },
+ {
+  "page": "Gaziantep F.K.",
+  "name": "Gaziantep",
+  "city": "Gaziantep",
+  "stadium": "Gaziantep Stadium",
+  "cap": 30320
+ },
+ {
+  "page": "Gençlerbirliği S.K.",
+  "name": "Gençlerbirliği",
+  "city": "Yenimahalle",
+  "stadium": "Eryaman Stadium",
+  "cap": null
+ },
+ {
+  "page": "Göztepe S.K.",
+  "name": "Göztepe",
+  "city": "Göztepe",
+  "stadium": "Gürsel Aksel Stadium",
+  "cap": null
+ },
+ {
+  "page": "Kasımpaşa S.K.",
+  "name": "Kasımpaşa",
+  "city": "Kasımpaşa",
+  "stadium": "Recep Tayyip Erdoğan Stadium",
+  "cap": 13797
+ },
+ {
+  "page": "Kocaelispor",
+  "name": "Kocaelispor",
+  "city": "İzmit",
+  "stadium": "Kocaeli Stadium",
+  "cap": 34829
+ },
+ {
+  "page": "Konyaspor",
+  "name": "Konyaspor",
+  "city": "Konya",
+  "stadium": "Konya Metropolitan Municipality Stadium",
+  "cap": 41135
+ },
+ {
+  "page": "Çaykur Rizespor",
+  "name": "Rizespor",
+  "city": "Rize",
+  "stadium": "Rize City Stadium",
+  "cap": 14879
+ },
+ {
+  "page": "Samsunspor",
+  "name": "Samsunspor",
+  "city": "Samsun",
+  "stadium": "Samsun 19 Mayıs Stadium",
+  "cap": 34346
+ },
+ {
+  "page": "Trabzonspor",
+  "name": "Trabzonspor",
+  "city": "Trabzon",
+  "stadium": "Papara Park",
+  "cap": 41061
+ }
+]

@@ -1,0 +1,11 @@
+<!DOCTYPE html><html><body style="margin:0"><canvas id="c" style="width:100vw;height:100vh"></canvas>
+<script src="http://localhost:8000/lib/babylon.js"></script>
+<script>
+const canvas=document.getElementById('c'); const engine=new BABYLON.Engine(canvas,true); const scene=new BABYLON.Scene(engine);
+scene.clearColor=new BABYLON.Color4(0.1,0.1,0.3,1);
+const cam=new BABYLON.UniversalCamera('cam',new BABYLON.Vector3(0,10,-20),scene); cam.setTarget(BABYLON.Vector3.Zero());
+new BABYLON.HemisphericLight('h',new BABYLON.Vector3(0,1,0),scene);
+const g=BABYLON.MeshBuilder.CreateGround('g',{width:30,height:20},scene); const m=new BABYLON.StandardMaterial('m',scene); m.diffuseColor=new BABYLON.Color3(0.2,0.6,0.2); g.material=m;
+const s=BABYLON.MeshBuilder.CreateSphere('s',{diameter:2},scene); s.position.y=1;
+window.ready=false; engine.runRenderLoop(()=>{scene.render(); window.ready=true;});
+</script></body></html>
